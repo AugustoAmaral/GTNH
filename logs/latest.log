@@ -1,30 +1,21 @@
-[22:23:17] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[22:24:15] [Server thread/INFO]: Loading properties
-[22:24:15] [Server thread/INFO]: Default game type: SURVIVAL
-[22:24:15] [Server thread/INFO]: Generating keypair
-[22:24:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:26:17] [Server thread/INFO]: Preparing level "World"
-[22:26:17] [Server thread/WARN]: Unable to find spawn biome
-[22:26:18] [Server thread/WARN]: Unable to find spawn biome
-[22:26:19] [Server thread/INFO]: Preparing start region for level 0
-[22:26:20] [Server thread/INFO]: Preparing spawn area: 6%
-[22:26:21] [Server thread/INFO]: Preparing spawn area: 11%
-[22:26:22] [Server thread/INFO]: Preparing spawn area: 16%
-[22:26:23] [Server thread/INFO]: Preparing spawn area: 22%
-[22:26:24] [Server thread/INFO]: Preparing spawn area: 28%
-[22:26:25] [Server thread/INFO]: Preparing spawn area: 33%
-[22:26:26] [Server thread/INFO]: Preparing spawn area: 39%
-[22:26:27] [Server thread/INFO]: Preparing spawn area: 45%
-[22:26:28] [Server thread/INFO]: Preparing spawn area: 50%
-[22:26:29] [Server thread/INFO]: Preparing spawn area: 55%
-[22:26:30] [Server thread/INFO]: Preparing spawn area: 61%
-[22:26:31] [Server thread/INFO]: Preparing spawn area: 67%
-[22:26:32] [Server thread/INFO]: Preparing spawn area: 72%
-[22:26:33] [Server thread/INFO]: Preparing spawn area: 78%
-[22:26:34] [Server thread/INFO]: Preparing spawn area: 85%
-[22:26:35] [Server thread/INFO]: Preparing spawn area: 91%
-[22:26:36] [Server thread/INFO]: Preparing spawn area: 99%
-[22:26:37] [Server thread/INFO]: Done (20.499s)! For help, type "help" or "?"
-[22:26:38] [Server thread/WARN]: Unable to find spawn biome
-[22:26:46] [Server thread/INFO]: Reloaded default quest database
-[22:30:43] [Server Shutdown Thread/INFO]: Stopping server
+[22:53:28] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[22:54:27] [Server thread/INFO]: Loading properties
+[22:54:27] [Server thread/INFO]: Default game type: SURVIVAL
+[22:54:27] [Server thread/INFO]: Generating keypair
+[22:54:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:56:22] [Server thread/INFO]: Preparing level "World"
+[22:56:24] [Server thread/INFO]: Preparing start region for level 0
+[22:56:25] [Server thread/INFO]: Preparing spawn area: 76%
+[22:56:25] [Server thread/INFO]: Done (3.610s)! For help, type "help" or "?"
+[22:56:29] [Server thread/INFO]: Reloaded default quest database
+[23:19:12] [User Authenticator #1/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[23:19:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4d95c36b[id=59885135-c7a2-4d45-b554-625602c74866,name=herobrainbraga,properties={textures=[com.mojang.authlib.properties.Property@7bc1eca9]},legacy=false] (/177.47.131.144:32506): You are not white-listed on this server!
+[23:19:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d95c36b[id=59885135-c7a2-4d45-b554-625602c74866,name=herobrainbraga,properties={textures=[com.mojang.authlib.properties.Property@7bc1eca9]},legacy=false] (/177.47.131.144:32506) lost connection: You are not white-listed on this server!
+[23:21:38] [Server thread/INFO]: Added herobrainbraga to the whitelist
+[23:21:50] [User Authenticator #2/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[23:21:51] [Server thread/INFO]: herobrainbraga[/177.47.131.144:31772] logged in with entity id 1181 at (64.5, 92.0, -0.5)
+[23:21:51] [Server thread/INFO]: herobrainbraga joined the game
+[23:22:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11697ms behind, skipping 233 tick(s)
+[23:22:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4245ms behind, skipping 84 tick(s)
+[23:23:20] [Server thread/INFO]: herobrainbraga lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:23:20] [Server thread/INFO]: herobrainbraga left the game
