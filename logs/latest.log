@@ -1,0 +1,29 @@
+[22:23:17] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[22:24:15] [Server thread/INFO]: Loading properties
+[22:24:15] [Server thread/INFO]: Default game type: SURVIVAL
+[22:24:15] [Server thread/INFO]: Generating keypair
+[22:24:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:26:17] [Server thread/INFO]: Preparing level "World"
+[22:26:17] [Server thread/WARN]: Unable to find spawn biome
+[22:26:18] [Server thread/WARN]: Unable to find spawn biome
+[22:26:19] [Server thread/INFO]: Preparing start region for level 0
+[22:26:20] [Server thread/INFO]: Preparing spawn area: 6%
+[22:26:21] [Server thread/INFO]: Preparing spawn area: 11%
+[22:26:22] [Server thread/INFO]: Preparing spawn area: 16%
+[22:26:23] [Server thread/INFO]: Preparing spawn area: 22%
+[22:26:24] [Server thread/INFO]: Preparing spawn area: 28%
+[22:26:25] [Server thread/INFO]: Preparing spawn area: 33%
+[22:26:26] [Server thread/INFO]: Preparing spawn area: 39%
+[22:26:27] [Server thread/INFO]: Preparing spawn area: 45%
+[22:26:28] [Server thread/INFO]: Preparing spawn area: 50%
+[22:26:29] [Server thread/INFO]: Preparing spawn area: 55%
+[22:26:30] [Server thread/INFO]: Preparing spawn area: 61%
+[22:26:31] [Server thread/INFO]: Preparing spawn area: 67%
+[22:26:32] [Server thread/INFO]: Preparing spawn area: 72%
+[22:26:33] [Server thread/INFO]: Preparing spawn area: 78%
+[22:26:34] [Server thread/INFO]: Preparing spawn area: 85%
+[22:26:35] [Server thread/INFO]: Preparing spawn area: 91%
+[22:26:36] [Server thread/INFO]: Preparing spawn area: 99%
+[22:26:37] [Server thread/INFO]: Done (20.499s)! For help, type "help" or "?"
+[22:26:38] [Server thread/WARN]: Unable to find spawn biome
+[22:26:46] [Server thread/INFO]: Reloaded default quest database
