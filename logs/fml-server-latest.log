@@ -26016,3 +26016,8 @@ Caused by: java.lang.IllegalArgumentException
 [22:29:01] [Server thread/DEBUG] [FML/]: The world 366c65dc (World) may have leaked: first encounter (5 occurences).
 
 [22:29:41] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:29:51] [Server thread/DEBUG] [FML/]: The world 366c65dc (World) may have leaked: seen 10 times.
+
+[22:30:26] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:30:41] [Server thread/DEBUG] [FML/]: The world 366c65dc (World) may have leaked: seen 15 times.
+
