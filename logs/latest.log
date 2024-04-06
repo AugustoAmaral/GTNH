@@ -1,60 +1,116 @@
-[21:19:11] [Server thread/INFO]: Saving...
-[21:19:11] [Server thread/INFO]: Saved the world
-[21:19:11] [Server thread/INFO]: Stopping the server
-[21:19:12] [Server thread/INFO]: Stopping server
-[21:19:12] [Server thread/INFO]: Saving players
-[21:19:12] [Server thread/INFO]: Saving worlds
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Seth
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Horus
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Neper
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
-[21:19:12] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
+[21:33:30] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[21:33:47] [Server thread/ERROR]: Encountered an unexpected exception
+cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: net/minecraft/client/audio/SoundManager$SoundSystemStarterThread
+
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:163) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:544) ~[Loader.class:?]
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) ~[FMLServerHandler.class:?]
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:314) ~[FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:117) ~[lt.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/audio/SoundManager$SoundSystemStarterThread
+	at eu.ha3.matmos.Matmos.<init>(Matmos.java:86) ~[Matmos.class:?]
+	at eu.ha3.matmos.ForgeMatmos.<init>(ForgeMatmos.java:22) ~[ForgeMatmos.class:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_402]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_402]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_402]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_402]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_402]
+	at cpw.mods.fml.common.ILanguageAdapter$JavaAdapter.getNewInstance(ILanguageAdapter.java:173) ~[ILanguageAdapter$JavaAdapter.class:?]
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:506) ~[FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_402]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_402]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_402]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_402]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_402]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_402]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513) ~[Loader.class:?]
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.audio.SoundManager$SoundSystemStarterThread
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_402]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_402]
+	at eu.ha3.matmos.Matmos.<init>(Matmos.java:86) ~[Matmos.class:?]
+	at eu.ha3.matmos.ForgeMatmos.<init>(ForgeMatmos.java:22) ~[ForgeMatmos.class:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_402]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_402]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_402]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_402]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_402]
+	at cpw.mods.fml.common.ILanguageAdapter$JavaAdapter.getNewInstance(ILanguageAdapter.java:173) ~[ILanguageAdapter$JavaAdapter.class:?]
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:506) ~[FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_402]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_402]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_402]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_402]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_402]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_402]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513) ~[Loader.class:?]
+	... 5 more
+Caused by: java.lang.RuntimeException: Attempted to load class btn for invalid side SERVER
+	at cpw.mods.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:50) ~[minecraftJarFile.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_402]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_402]
+	at eu.ha3.matmos.Matmos.<init>(Matmos.java:86) ~[Matmos.class:?]
+	at eu.ha3.matmos.ForgeMatmos.<init>(ForgeMatmos.java:22) ~[ForgeMatmos.class:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_402]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_402]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_402]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_402]
+	at java.lang.Class.newInstance(Class.java:442) ~[?:1.8.0_402]
+	at cpw.mods.fml.common.ILanguageAdapter$JavaAdapter.getNewInstance(ILanguageAdapter.java:173) ~[ILanguageAdapter$JavaAdapter.class:?]
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:506) ~[FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_402]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_402]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_402]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_402]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_402]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_402]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:513) ~[Loader.class:?]
+	... 5 more
+[21:33:47] [Server thread/ERROR]: This crash report has been saved to: /home/ubuntu/gtnh_server/./crash-reports/crash-2024-04-06_21.33.47-server.txt
