@@ -1,3 +1,10 @@
-[09:34:38] [User Authenticator #3/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
-[09:34:38] [Server thread/INFO]: Augustym_[/187.112.2.94:50901] logged in with entity id 34663571 at (-93.46074718990134, 95.63519015473533, 143.27855078544002)
-[09:34:38] [Server thread/INFO]: Augustym_ joined the game
+[09:48:34] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[09:49:37] [Server thread/INFO]: Loading properties
+[09:49:37] [Server thread/INFO]: Default game type: SURVIVAL
+[09:49:37] [Server thread/INFO]: Generating keypair
+[09:49:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:51:34] [Server thread/INFO]: Preparing level "World"
+[09:51:36] [Server thread/INFO]: Preparing start region for level 0
+[09:51:37] [Server thread/INFO]: Preparing spawn area: 69%
+[09:51:37] [Server thread/INFO]: Done (3.687s)! For help, type "help" or "?"
+[09:51:42] [Server thread/INFO]: Reloaded default quest database
