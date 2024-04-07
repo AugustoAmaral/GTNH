@@ -1,10 +1,15 @@
-[09:48:34] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[09:49:37] [Server thread/INFO]: Loading properties
-[09:49:37] [Server thread/INFO]: Default game type: SURVIVAL
-[09:49:37] [Server thread/INFO]: Generating keypair
-[09:49:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:51:34] [Server thread/INFO]: Preparing level "World"
-[09:51:36] [Server thread/INFO]: Preparing start region for level 0
-[09:51:37] [Server thread/INFO]: Preparing spawn area: 69%
-[09:51:37] [Server thread/INFO]: Done (3.687s)! For help, type "help" or "?"
-[09:51:42] [Server thread/INFO]: Reloaded default quest database
+[10:07:36] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[10:08:38] [Server thread/INFO]: Loading properties
+[10:08:38] [Server thread/INFO]: Default game type: SURVIVAL
+[10:08:38] [Server thread/INFO]: Generating keypair
+[10:08:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:10:34] [Server thread/INFO]: Preparing level "World"
+[10:10:35] [Server thread/INFO]: Preparing start region for level 0
+[10:10:36] [Server thread/INFO]: Preparing spawn area: 70%
+[10:10:37] [Server thread/INFO]: Done (3.669s)! For help, type "help" or "?"
+[10:10:41] [Server thread/INFO]: Reloaded default quest database
+[10:25:27] [User Authenticator #1/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[10:25:28] [Server thread/INFO]: Augustym_[/187.112.2.94:54595] logged in with entity id 1206 at (55.5, 80.0, -2.5)
+[10:25:28] [Server thread/INFO]: Augustym_ joined the game
+[10:25:47] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[10:25:47] [Server thread/INFO]: Augustym_ left the game
