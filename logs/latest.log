@@ -1,25 +1,3 @@
-[22:05:08] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[22:06:10] [Server thread/INFO]: Loading properties
-[22:06:10] [Server thread/INFO]: Default game type: SURVIVAL
-[22:06:10] [Server thread/INFO]: Generating keypair
-[22:06:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:08:07] [Server thread/INFO]: Preparing level "World"
-[22:08:09] [Server thread/INFO]: Preparing start region for level 0
-[22:08:10] [Server thread/INFO]: Preparing spawn area: 55%
-[22:08:11] [Server thread/INFO]: Done (3.992s)! For help, type "help" or "?"
-[22:08:15] [Server thread/INFO]: Reloaded default quest database
-[22:17:11] [User Authenticator #1/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
-[22:17:11] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@390fe265[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@77264792]},legacy=false] (/187.112.2.94:56095): You are not white-listed on this server!
-[22:17:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@390fe265[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@77264792]},legacy=false] (/187.112.2.94:56095) lost connection: You are not white-listed on this server!
-[22:18:03] [Server thread/INFO]: Added herobrainbraga to the whitelist
-[22:18:15] [Server thread/INFO]: Added augustym_ to the whitelist
-[22:18:43] [Server thread/INFO]: Opped augustym_
-[22:18:47] [User Authenticator #2/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
-[22:18:48] [Server thread/INFO]: Augustym_[/187.112.2.94:56200] logged in with entity id 34651522 at (59.5, 94.0, 6.5)
-[22:18:48] [Server thread/INFO]: Augustym_ joined the game
-[22:18:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3379ms behind, skipping 67 tick(s)
-[22:18:59] [Server thread/INFO]: Augustym_ has just earned the achievement [Taking Inventory]
-[22:19:35] [Server thread/INFO]: [Augustym_: Set own game mode to Creative Mode]
-[22:20:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3653ms behind, skipping 73 tick(s)
-[22:21:02] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[22:21:02] [Server thread/INFO]: Augustym_ left the game
+[09:34:38] [User Authenticator #3/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[09:34:38] [Server thread/INFO]: Augustym_[/187.112.2.94:50901] logged in with entity id 34663571 at (-93.46074718990134, 95.63519015473533, 143.27855078544002)
+[09:34:38] [Server thread/INFO]: Augustym_ joined the game
