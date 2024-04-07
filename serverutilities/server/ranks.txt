@@ -1,8 +1,8 @@
 // For more info visit https://github.com/GTNewHorizons/ServerUtilities
 
 [player]
-default_player_rank: true
 priority: 1
+default_player_rank: true
 serverutilities.claims.max_chunks: 100
 serverutilities.chunkloader.max_chunks: 50
 serverutilities.homes.max: 1
@@ -25,6 +25,7 @@ example.other_permission: true
 example.permission_with_value: 15
 
 [cm]
+priority: 3
 power: 80
 serverutilities.chat.name_format: <&7{name}&r>
 serverutilities.claims.max_chunks: 1000
@@ -37,8 +38,8 @@ example.other_permission: true
 example.permission_with_value: 80
 
 [admin]
-default_op_rank: true
 priority: 100
+default_op_rank: true
 serverutilities.chat.name_format: <&2{name}&r>
 serverutilities.claims.max_chunks: 5000
 serverutilities.chunkloader.max_chunks: 1000
