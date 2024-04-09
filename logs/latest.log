@@ -8,3 +8,6 @@
 [13:19:42] [Server thread/INFO]: Preparing spawn area: 59%
 [13:19:42] [Server thread/INFO]: Done (4.056s)! For help, type "help" or "?"
 [13:19:47] [Server thread/INFO]: Reloaded default quest database
+[15:43:31] [User Authenticator #1/INFO]: UUID of player RedSmelterDemon is 3f4be91d-e2b4-432b-ba2d-ae289c46c6a0
+[15:43:32] [Server thread/INFO]: RedSmelterDemon lost connection: TextComponent{text='Mod rejections [FMLMod:serverutilities{2.0.34}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[15:43:32] [Server thread/INFO]: RedSmelterDemon left the game
