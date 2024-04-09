@@ -16066,7 +16066,7 @@
 						"0:10": {
 							"data:11": [
 								20,
-								2,
+								0,
 								0
 							],
 							"uuid:8": "3f4be91d-e2b4-432b-ba2d-ae289c46c6a0"
@@ -31636,7 +31636,12 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"uuid:8": "3f4be91d-e2b4-432b-ba2d-ae289c46c6a0",
+							"value:3": 1
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:hunt"
 				}
