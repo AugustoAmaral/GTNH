@@ -1,13 +1,122 @@
-[13:16:36] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[13:17:40] [Server thread/INFO]: Loading properties
-[13:17:40] [Server thread/INFO]: Default game type: SURVIVAL
-[13:17:40] [Server thread/INFO]: Generating keypair
-[13:17:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:19:39] [Server thread/INFO]: Preparing level "World"
-[13:19:41] [Server thread/INFO]: Preparing start region for level 0
-[13:19:42] [Server thread/INFO]: Preparing spawn area: 59%
-[13:19:42] [Server thread/INFO]: Done (4.056s)! For help, type "help" or "?"
-[13:19:47] [Server thread/INFO]: Reloaded default quest database
-[15:43:31] [User Authenticator #1/INFO]: UUID of player RedSmelterDemon is 3f4be91d-e2b4-432b-ba2d-ae289c46c6a0
-[15:43:32] [Server thread/INFO]: RedSmelterDemon lost connection: TextComponent{text='Mod rejections [FMLMod:serverutilities{2.0.34}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[15:43:32] [Server thread/INFO]: RedSmelterDemon left the game
+[17:06:23] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:07:27] [Server thread/INFO]: Loading properties
+[17:07:27] [Server thread/INFO]: Default game type: SURVIVAL
+[17:07:27] [Server thread/INFO]: Generating keypair
+[17:07:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:09:27] [Server thread/INFO]: Preparing level "World"
+[17:09:29] [Server thread/INFO]: Preparing start region for level 0
+[17:09:30] [Server thread/INFO]: Preparing spawn area: 62%
+[17:09:30] [Server thread/INFO]: Done (3.973s)! For help, type "help" or "?"
+[17:09:34] [Server thread/INFO]: Reloaded default quest database
+[17:10:16] [User Authenticator #1/INFO]: UUID of player RedSmelterDemon is 3f4be91d-e2b4-432b-ba2d-ae289c46c6a0
+[17:10:17] [Server thread/INFO]: RedSmelterDemon[/181.223.99.104:53050] logged in with entity id 1335 at (-1903.1381889372624, 70.0, -6055.635516162465)
+[17:10:17] [Server thread/INFO]: RedSmelterDemon joined the game
+[17:12:21] [User Authenticator #2/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[17:12:22] [Server thread/INFO]: Augustym_[/187.112.2.94:56847] logged in with entity id 5488 at (-1841.9490445627653, 70.0, -6070.21452241156)
+[17:12:22] [Server thread/INFO]: Augustym_ joined the game
+[17:13:00] [Server thread/INFO]: <RedSmelterDemon> salve, as quests ficam meio bugadas msm, n consegui dar claim em nenhuma
+[17:13:06] [Server thread/INFO]: <RedSmelterDemon> vamo ver nas novas como fica
+[17:13:10] [Server thread/INFO]: <Augustym_> manda print de como ta seu qb
+[17:13:11] [Server thread/INFO]: <RedSmelterDemon> manda convite dnv plis
+[17:13:24] [Server thread/INFO]: <Augustym_> pronto
+[17:13:33] [Server thread/INFO]: <Augustym_> da uma olhada se na questline
+[17:13:38] [Server thread/INFO]: <Augustym_> vc deu claim nas quests anteriores
+[17:13:46] [Server thread/INFO]: <Augustym_> que precisam clicar no checkbox la
+[17:14:24] [Server thread/INFO]: <RedSmelterDemon> mandei pelo whats
+[17:14:58] [Server thread/INFO]: <RedSmelterDemon> diz q tá completa mas n to conseguindo pegar
+[17:18:40] [Server thread/INFO]: <Augustym_> vc viu um balde de clay?
+[17:18:56] [Server thread/INFO]: <RedSmelterDemon> vi n
+[17:20:47] [Server thread/INFO]: <Augustym_> fiz um aqui pra vc
+[17:21:00] [Server thread/INFO]: <RedSmelterDemon> arigato
+[17:24:53] [Server thread/INFO]: Augustym_ was blown up by Squid
+[17:25:00] [Server thread/INFO]: <Augustym_> caralho mas que filho da puta
+[17:25:03] [Server thread/INFO]: <RedSmelterDemon> masoq
+[17:25:10] [Server thread/INFO]: <RedSmelterDemon> squid explode agr?
+[17:25:14] [Server thread/INFO]: <RedSmelterDemon> KKKKKKKK
+[17:25:15] [Server thread/INFO]: <Augustym_> aqui se vc matar mob sem ser com a faca
+[17:25:19] [Server thread/INFO]: <Augustym_> ele tem chance de explodir
+[17:25:22] [Server thread/INFO]: <RedSmelterDemon> aaaa sim
+[17:25:36] [Server thread/INFO]: <RedSmelterDemon> n sabia q contava pra lula
+[17:25:39] [Server thread/INFO]: <Augustym_> mob passivo no caso
+[17:30:49] [Server thread/INFO]: <RedSmelterDemon> peguei as areias
+[17:30:56] [Server thread/INFO]: <RedSmelterDemon> ve se vc consegue dar claim na quest
+[17:31:07] [Server thread/INFO]: <Augustym_> n
+[17:31:13] [Server thread/INFO]: <Augustym_> vc consegue dar claim na quest do papel
+[17:31:14] [Server thread/INFO]: <Augustym_> ?
+[17:31:30] [Server thread/INFO]: <RedSmelterDemon> pra mim tá incompleta a do papel
+[17:31:37] [Server thread/INFO]: <Augustym_> falta o que?
+[17:31:42] [Server thread/INFO]: <RedSmelterDemon> tudo
+[17:31:49] [Server thread/INFO]: <Augustym_> e agora
+[17:31:49] [Server thread/INFO]: <Augustym_> ?
+[17:32:02] [Server thread/INFO]: <RedSmelterDemon> ainda
+[17:32:33] [Server thread/INFO]: <Augustym_> vou perguntar no discord deles
+[17:32:35] [Server thread/INFO]: <Augustym_> perai
+[17:32:38] [Server thread/INFO]: <RedSmelterDemon> blz
+[17:32:45] [Server thread/INFO]: <Augustym_> vc tem o wood pulp ai com vc?
+[17:32:51] [Server thread/INFO]: <RedSmelterDemon> tá no bau aqui
+[17:33:02] [Server thread/INFO]: <Augustym_> eh
+[17:33:04] [Server thread/INFO]: <Augustym_> mas precisa craftar
+[17:33:09] [Server thread/INFO]: <Augustym_> vou ver isso do questbook
+[17:33:28] [Server thread/INFO]: RedSmelterDemon has just earned the achievement [Cow Tipper]
+[17:34:52] [Server thread/INFO]: <RedSmelterDemon> vc tem os 16 papel ai?
+[17:36:30] [Server thread/INFO]: Opped augustym_
+[17:39:10] [Server thread/INFO]: <Augustym_> me manda uma print
+[17:39:15] [Server thread/INFO]: <Augustym_> da sua pagina da stone age
+[17:39:37] [Server thread/INFO]: <RedSmelterDemon> blz
+[17:40:26] [Server thread/INFO]: <RedSmelterDemon> aqui n tem aquele mapa q mostra os minérios das chunks n?
+[17:40:32] [Server thread/INFO]: <RedSmelterDemon> aaa
+[17:40:39] [Server thread/INFO]: <RedSmelterDemon> tem de ativar
+[17:40:40] [Server thread/INFO]: <RedSmelterDemon> achei
+[17:42:40] [Server thread/INFO]: <Augustym_> cara
+[17:42:44] [Server thread/INFO]: <Augustym_> vou desfazer a pt
+[17:42:45] [Server thread/INFO]: <Augustym_> e refazer
+[17:42:52] [Server thread/INFO]: <RedSmelterDemon> eita
+[17:42:54] [Server thread/INFO]: <RedSmelterDemon> blz
+[17:43:19] [Server thread/INFO]: <Augustym_> entra na pt ai
+[17:43:26] [Server thread/INFO]: <Augustym_> vamo ver o que acontece
+[17:43:55] [Server thread/INFO]: <RedSmelterDemon> opa
+[17:43:57] [Server thread/INFO]: <RedSmelterDemon> agr foi
+[17:44:02] [Server thread/INFO]: <Augustym_> e a de areia?
+[17:44:02] [Server thread/INFO]: <RedSmelterDemon> a da areia foi pra vc?
+[17:44:09] [Server thread/INFO]: <Augustym_> n
+[17:44:13] [Server thread/INFO]: <Augustym_> joga no chao pra mim por favor
+[17:44:16] [Server thread/INFO]: <Augustym_> agora foi
+[17:44:18] [Server thread/INFO]: <Augustym_> aaeeeee
+[17:44:19] [Server thread/INFO]: <Augustym_> porra
+[17:44:21] [Server thread/INFO]: <Augustym_> nice
+[17:44:31] [Server thread/INFO]: <RedSmelterDemon> deu claim na areia?
+[17:44:37] [Server thread/INFO]: <RedSmelterDemon> vamo ver se tem como pegar mais de 1
+[17:44:50] [Server thread/INFO]: <Augustym_> vc ja pegou a recompensa da quest da areia?
+[17:45:00] [Server thread/INFO]: <RedSmelterDemon> peguei
+[17:45:03] [Server thread/INFO]: <Augustym_> eu ainda n
+[17:45:13] [Server thread/INFO]: <RedSmelterDemon> ve se cnsegue
+[17:45:14] [Server thread/INFO]: <Augustym_> vc pegou a do papel?
+[17:45:17] [Server thread/INFO]: <RedSmelterDemon> n
+[17:45:25] [Server thread/INFO]: <Augustym_> tenta pegar ai
+[17:45:30] [Server thread/INFO]: <Augustym_> vc pegou qual recompensa dessa quest?
+[17:45:34] [Server thread/INFO]: <Augustym_> da areia?
+[17:45:39] [Server thread/INFO]: <Augustym_> a comida ou o lootbag
+[17:45:40] [Server thread/INFO]: <Augustym_> ?
+[17:45:43] [Server thread/INFO]: <RedSmelterDemon> peguei a comida
+[17:45:47] [Server thread/INFO]: <Augustym_> isso
+[17:45:48] [Server thread/INFO]: <Augustym_> boa
+[17:45:54] [Server thread/INFO]: <Augustym_> quer que eu pegue a lootbag pra vc?
+[17:45:56] [Server thread/INFO]: <RedSmelterDemon> n consigo pegar a do papel
+[17:45:57] [Server thread/INFO]: <Augustym_> ja que pegou a comida
+[17:46:08] [Server thread/INFO]: <Augustym_> eu consegui pegar
+[17:46:10] [Server thread/INFO]: <RedSmelterDemon> mas vc consegue a da areia?
+[17:46:18] [Server thread/INFO]: <Augustym_> sim
+[17:46:20] [Server thread/INFO]: <Augustym_> peguei
+[17:46:20] [Server thread/INFO]: <RedSmelterDemon> pegou a loot bag da areia?
+[17:46:23] [Server thread/INFO]: <RedSmelterDemon> hmmm
+[17:46:25] [Server thread/INFO]: <RedSmelterDemon> nice
+[17:46:25] [Server thread/INFO]: <Augustym_> abre ela aqui
+[17:46:49] [Server thread/INFO]: <Augustym_> sempre que der pra pegar comida assim, mais de um
+[17:46:55] [Server thread/INFO]: <Augustym_> alguem pega a comida e o outro pega outra coisa
+[17:47:01] [Server thread/INFO]: <Augustym_> essas lootbags sao mo scam
+[17:47:10] [Server thread/INFO]: <RedSmelterDemon> vdd KKKKKKK
+[17:47:12] [Server thread/INFO]: <Augustym_> ah
+[17:47:16] [Server thread/INFO]: <Augustym_> eu tenho o mapa bem liberado
+[17:47:21] [Server thread/INFO]: <Augustym_> quer que eu mande pra vc?
+[17:47:27] [Server thread/INFO]: <RedSmelterDemon> se puder
+[17:47:36] [Server thread/INFO]: <RedSmelterDemon> o meu tá só com o arredor aqui
