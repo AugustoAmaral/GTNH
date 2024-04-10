@@ -25,3 +25,20 @@
 [12:41:47] [Server thread/INFO]: herobrainbraga joined the game
 [12:51:43] [Server thread/INFO]: herobrainbraga has just earned the achievement [Learning to Tinker]
 [13:51:21] [Server thread/INFO]: herobrainbraga has just earned the achievement [Smeltery Creator]
+[13:56:45] [Server thread/INFO]: herobrainbraga has just earned the achievement [Hot Topic]
+[14:07:08] [Server thread/INFO]: herobrainbraga was slain by Brutish Zombie
+[14:07:24] [Server thread/INFO]: herobrainbraga has just earned the achievement [Gregtech++]
+[14:07:37] [Server thread/INFO]: herobrainbraga was slain by Brutish Zombie
+[14:11:31] [Server thread/INFO]: herobrainbraga was shot by Witch Cave Spider
+[14:24:10] [Server thread/INFO]: herobrainbraga lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:24:10] [Server thread/INFO]: herobrainbraga left the game
+[14:24:27] [User Authenticator #4/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[14:24:28] [Server thread/INFO]: herobrainbraga[/177.47.131.88:15982] logged in with entity id 444383 at (-1871.1925943653935, 71.0, -6052.33296794035)
+[14:24:28] [Server thread/INFO]: herobrainbraga joined the game
+[14:24:29] [Server thread/WARN]: Fetching addPacket for removed entity
+[14:24:57] [Server thread/INFO]: herobrainbraga lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:24:57] [Server thread/INFO]: herobrainbraga left the game
+[14:40:59] [User Authenticator #5/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[14:41:00] [Server thread/INFO]: herobrainbraga[/177.47.131.88:15796] logged in with entity id 446946 at (-1874.3911343828129, 71.0, -6051.5004069679635)
+[14:41:00] [Server thread/INFO]: herobrainbraga joined the game
+[14:45:21] [Server thread/INFO]: herobrainbraga was blown up by Creeper
