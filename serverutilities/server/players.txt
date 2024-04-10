@@ -12,3 +12,11 @@ parent: cm
 // herobrainbraga
 [59885135c7a24d45b554625602c74866]
 parent: cm
+
+// RedSmelterDemon
+[3f4be91de2b4432bba2dae289c46c6a0]
+parent: cm
+
+// Ravara
+[7800f48a78384eb7950f43ec1aa76cf7]
+parent: cm
