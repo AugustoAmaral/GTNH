@@ -16785,8 +16785,17 @@
 					"taskID:8": "bq_standard:optional_retrieval"
 				},
 				"1:10": {
-					"completeUsers:9": {},
-					"userProgress:9": {},
+					"completeUsers:9": {
+						"0:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
+					},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								1
+							],
+							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
+						}
+					},
 					"index:3": 1,
 					"taskID:8": "bq_standard:crafting"
 				}
@@ -32158,7 +32167,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
-							"value:3": 2
+							"value:3": 3
 						}
 					},
 					"index:3": 0,
@@ -51780,7 +51789,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
-							"value:3": 3
+							"value:3": 4
 						}
 					},
 					"index:3": 0,
@@ -52469,7 +52478,14 @@
 				},
 				"2:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								1
+							],
+							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
+						}
+					},
 					"index:3": 2,
 					"taskID:8": "bq_standard:retrieval"
 				}
