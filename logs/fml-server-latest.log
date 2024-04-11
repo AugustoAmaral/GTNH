@@ -29719,3 +29719,116 @@ java.io.IOException: Broken pipe
 [13:58:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [13:59:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [14:00:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:01:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:01:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:02:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:03:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:04:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:04:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:05:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:06:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:07:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:07:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:08:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:09:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:10:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:10:12] [Server thread/DEBUG] [FML/]: Method ic2.core.network.DataEncoder.encode(Ljava/io/DataOutputStream;Ljava/lang/Object;Z)V: Replacing GETFIELD fluidID with INVOKEVIRTUAL getFluidID
+[14:10:12] [Server thread/DEBUG] [FML/]: Method ic2.core.network.DataEncoder.copyValue(Ljava/lang/Object;Ljava/lang/Object;)Z: Replacing GETFIELD fluidID with INVOKEVIRTUAL getFluidID
+[14:10:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:11:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:12:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:13:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:13:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:14:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:15:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:16:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:16:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:17:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:18:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:19:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:19:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:20:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:21:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:22:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:22:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:23:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:24:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:25:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:25:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:26:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:27:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:28:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:28:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:29:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:30:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:31:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:31:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:32:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:33:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:34:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:34:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:35:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:36:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:37:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:37:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:38:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:39:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:40:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:40:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:41:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:42:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:43:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:43:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:44:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:45:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:46:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:46:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:47:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:48:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:48:45] [Netty IO #4/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[14:48:45] [Netty IO #4/INFO] [FML/]: Client protocol version 2
+[14:48:45] [Netty IO #4/TRACE] [FML/]: $ModList:302 mods->FMLHandshakeServerState$2:HELLO
+[14:48:45] [Netty IO #4/INFO] [FML/]: Client attempting to join with 302 mods : BuildCraft|Silicon@7.1.38,AromaBackup@0.1.0.0,ProjRed|Expansion@4.8.1-GTNH,ExtraBees@2.2.4,HardcoreEnderExpansion@1.9.7-GTNH,blocklimiter@0.55,MouseTweaks@2.4.9-GTNH,Botany@2.2.4,dreamcraft@2.2.55,endercore@0.2.19,travellersgearneo@1.0,mixinbooterlegacy@1.2.1,BWCore@0.0.1,BuildCraft|Robotics@7.1.38,kubatech@0.13.12,irontank@1.2.6,forgelin@1.9.6-GTNH,galacticgreg@1.0.10,Ic2Nei@1.2.1,openglasses@1.4.2-GTNH,GalaxySpace@1.2.15-GTNH,betterbuilderswands@0.10.1-GTNH,BiomesOPlenty@2.1.0,LunatriusCore@1.1.7-GTNH,bettercrashes@1.3.5-GTNH,gtnhtcwands@1.3.1,openmodularturrets@2.2.11-247,ForgeMultipart@1.4.1,hodgepodge@2.3.41,lootgames@2.0.8,malisisdoors@1.14.0-GTNH,berriespp@1.5.12,matmos@1.7.10-36.0.1,BrandonsCore@1.0.0.13-GTNH,CoFHCore@1.7.10R3.1.4,malisiscore@0.14.9,catwalks@2.0.4,defaultkeys@1.1.6,ExtraTrees@2.2.4,ae2fc@1.1.74-gtnh,StorageDrawers@1.12.2-GTNH,gendustry@1.6.5.5-GTNH,TGregworks@GTNH-1.0.25,enhancedlootbags@1.1.0,BuildCraft|Energy@7.1.38,modtweaker2@0.9.10,IC2@2.2.828-experimental,WitcheryExtras_ASM@0.1-Beta,IguanaTweaksTConstruct@2.3.0,FML@7.10.99.99,Natura@2.5.7,modularui@1.1.24,defaultserverlist@1.4.0,NEIAddons|Forestry@GRADLETOKEN_VERSION,serverutilities@2.0.34,ThE-core@1.0.0.1,BiblioWoodsNatura@1.5,<CoFH ASM>@000,Automagy@0.28.2,ProjRed|Illumination@4.8.1-GTNH,hydroenergy@1.1.1,TMechworks@0.3.0,LogisticsPipes@1.0.8-GTNH,thaumicinsurgence@0.2.7,NotEnoughItems@2.4.13-GTNH,Thaumcraft@4.2.3.5,opensecurity@1.0.120-GTNH,Waila@1.6.5,eternalsingularity@1.1.2,PlayerAPI@1.4.3,unimixins-compat@0.1.14,appliedenergistics2-core@rv3-beta-292-GTNH,NEIAddons@GRADLETOKEN_VERSION,StorageDrawersForestry@1.11.17-GTNH,BiblioCraft@1.11.7,WarpTheory@1.2.17-GTNH,BuildCraft|Core@7.1.38,custommainmenu@1.10.3,OpenModsCore@0.10.6,betterloadingscreen@1.5.3-GTNH,bdlib@1.9.8-GTNH,NEIAddons|Developer@GRADLETOKEN_VERSION,tcinventoryscan@1.0.12-GTNH,ProjRed|Transmission@4.8.1-GTNH,naturescompass@1.3.6-GTNH,WR-CBE|Logic@1.4.8,DummyCore@1.17.0,WitcheryExtras@1.1.14,RWG@alpha-1.3.9-pre,BetterAchievements@0.1.3,MobiusCore@1.3.9-mapless,inventorytweaks@1.6.1,defaultworldgenerator@0.2,InGameInfoXML@2.8.5,EMT@1.3.8,findit@1.1.0,GT++_Preloader@0.5-Beta,OpenBlocks@1.8.3-GTNH,harvestthenether@1.7.10,GoodGenerator@0.7.17,gasstation@0.5.1,EnderStorage@1.4.12,ForbiddenMagic@0.6.7-GTNH,alchgrate@1.0.3-GTNH,gregtech@MC1710,CropLoadCoreASM@0.0.2,CarpentersBlocks@3.4.1-GTNH,dsurround@1.0.6.4,EnderIO@2.5.9,Translocator@1.1.2.21,blockrenderer6343@1.0.6,no_fog@1.0.0,InfernalMobs@1.7.9-GTNH,neiintegration@1.3.3,miscutils@1.10.54,MrTJPCoreMod@1.1.5,Roguelike@1.5.3-GTNH,SpecialMobs@3.4.3,NEIAddons|Botany@GRADLETOKEN_VERSION,sleepingbag@0.1.4,gtnhlanth@0.11.9,thaumicenergistics@1.5.4-GTNH,Aroma1997Core@1.0.2.16,CodeChickenCore@1.1.13,mobsinfo@0.1.13-GTNH,YAMCore@0.5.86,MineTweaker3@3.2.13,openprinter@0.1.3-GTNH,GTTweaker@2.0.5,ThaumicTinkerer-preloader@0.1,oauth@1.06.1-GTNH,structurelib@1.2.9,bartworks@0.8.23,gtnhmixins@2.1.15,NodalMechanics@1.1.-6-GTNH,TravellersGear@1.16.6,adventurebackpack@1.0.17-GTNH,gtneioreplugin@1.1.3,gadomancy@1.2.0,betterp2p@1.1.20,Baubles@1.0.3,ProjRed|Core@4.8.1-GTNH,gtnhintergalactic@1.2.9,mxrandom@0.2.0,FloodLights@1.2.9,TML@4.1.0-GTNH,ArchitectureCraft@1.8.6,ProjRed|Exploration@4.8.1-GTNH,holoinventory@2.3.2-GTNH,Forestry@4.7.1,ae2wct@1.10.1,Schematica@1.9.4-GTNH,OpenMods@0.10.6,ifu@1.9.6,RIO@2.4.8,tcneiadditions@1.2.2,GalacticraftCore@3.0.75-GTNH,BiblioWoodsBoP@1.9,torohealthmod@1.0.4,tc4tweak@1.5.18,tcnodetracker@1.1.7,netherportalfix@1.1.2,questbook@3.4.7-GTNH,battlegear2@1.3.0,ForgeMicroblock@1.4.1,botanichorizons@1.0.19-GTNH,Ztones@1.7.10,ThaumicExploration@1.2.0-GTNH,duradisplay@1.1.7,EnderZoo@1.0.23,MagicBees@2.7.1-GTNH,ProjRed|Integration@4.8.1-GTNH,betterquesting@3.4.7-GTNH,controlling@2.0.1,cookingforblockheads@1.2.16-GTNH,txloader@1.6.3,compactkineticgenerators@1.7.10-1.0,neid@1.5.3,ae2stuff@0.6.0-GTNH,mixinextras@0.1.14,OpenComputers@1.9.21-GTNH,McMultipart@1.4.1,kekztech@0.9.6,gravisuiteneo@1.0.20,ProjRed|Fabrication@4.8.1-GTNH,SuperTic@1.2.5,ExtraUtilities@1.2.12,Railcraft@9.15.3,amazingtrophies@1.1.4,detravscannermod@1.7.2,bq_standard@3.4.7-GTNH,WR-CBE|Addons@1.4.8,IC2NuclearControl@2.5.1,StevesCarts@2.0.2,MCFrames@0.0.3,ThaumicHorizons@1.4.2,BiblioWoodsForestry@1.7,ironchestminecarts@1.0.8,structurecompat@0.4.0,FastCraft@1.25,Forge@10.13.4.1614,avaritiaddons@1.6.0-GTNH,croploadcore@0.1.10,HardcoreDarkness@1.7,tinkersdefense@1.2,OpenComputers|Core@@VERSION@,ThaumicTinkerer@2.8.5,ThaumcraftResearchTweaks@1.0.6,OilTweak@1.0.4,AdvancedSolarPanel@1.7.10-3.5.1,AFSU@1.2.6-GTNH,JABBA@1.3.1,angermod@0.6.3,ProjRed|Transportation@4.8.1-GTNH,mixingasm@0.3,AppleCore@3.2.12,cb4bq@3.4.7-GTNH,bartworkscrossmod@0.8.23,TiCTooltips@1.3.0,universalsingularities@8.6.7,supersolarpanel@1.7.10-1.1.1-GT-NH-Mod,GalacticraftAmunRa@0.5.0,HungerOverhaul@1.0.4-GTNH,gtnhlib@0.0.13,visualprospecting@1.2.1,ThaumicMachina@0.2.1,NEIAddons|CraftingTables@GRADLETOKEN_VERSION,NEIAddons|ExNihilo@GRADLETOKEN_VERSION,WailaHarvestability@1.1.10-GTNH,unimixins@0.1.14,Botania@1.10.3-GTNH,bartworkscrossmodtgregworkscontainer@0.8.23,personalspace@1.0.28,beebetteratbees@0.3.1-GTNH,Avaritia@1.46,craftpresence@2.2.5,ForgeRelocation@0.0.3,ProjRed|Compatibility@4.8.1-GTNH,TConstruct@1.10.13-GTNH,asielib@0.5.4,StevesFactoryManager@1.1.7-GTNH,BinnieCore@2.2.4,inpure|core@1.1.5-GTNH,sharewhereiam@2.0.2,RelocationFMP@0.0.4,wawla@1.1.3-GTNH,Genetics@2.2.4,mcp@9.05,unimixins-mixin@0.1.14,Mantle@0.3.7,journeymap@5.1.4p6,appliedenergistics2@rv3-beta-292-GTNH,SGCraft@1.3.13-GTNH,thaumcraftneiplugin@@VERSION@,AromaBackupRecovery@1.0,GRADLETOKEN_MODID@GRADLETOKEN_VERSION,DraconicEvolution@1.2.1-GTNH,WR-CBE|Core@1.4.8,StorageDrawersMisc@1.11.18-GTNH,harvestcraft@1.1.4-GTNH,TaintedMagic@r7.6,TwilightForest@2.5.1,BuildCraft|Factory@7.1.38,ProjectBlue@1.1.12-GTNH,computronics@1.7.1-GTNH,GraviSuite@1.7.10-2.0.3,nutrition@0.0.5,NEIAddons|AppEng@GRADLETOKEN_VERSION,neicustomdiagram@1.5.14,GalacticraftMars@3.0.75-GTNH,BuildCraft|Compat@7.1.16,wailaplugins@0.3.0,HelpFixer@1.1.0,neenergistics@1.4.6,AWWayofTime@1.4.3,IronChest@6.0.74,RandomThings@2.4.6,creativecore@1.3.31-GTNH,bugtorch@1.2.12-GTNH,thaumicbases@1.5.6,SpiceOfLife@2.1.1-carrot,thaumicboots@1.1.0,StorageDrawersNatura@1.11.17-GTNH,spongemixins@2.0.1,BuildCraft|Transport@7.1.38,StorageDrawersBop@1.11.17-GTNH,wanionlib@1.8.4,Aroma1997CoreHelper@1.0.2.16,chisel@2.12.3-GTNH,StevesAddons@0.10.27,Backpack@2.2.12-GTNH,ToxicEverglades@1.10.54,ThaumcraftMobAspects@1.0.0-GTNH,witchery@0.24.1,overloadedarmorbar@1.0.3,WitchingGadgets@1.3.6-GTNH,BuildCraft|Builders@7.1.38,ggfab@0.3.9,chiseltones@1.0.4-GTNH,littletiles@1.2.9-GTNH,tectech@5.3.23,BloodArsenal@1.2.11
+[14:48:45] [Netty IO #4/INFO] [FML/]: Attempting connection with missing mods [JourneyMapServer, Morpheus] at CLIENT
+[14:48:45] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[14:48:45] [Netty IO #4/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:74): Sending id data for player: EntityPlayerMP['Ravara'/536629, l='World', x=65.50, y=99.00, z=9.50]
+[14:48:46] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[14:48:46] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[14:48:46] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[14:48:46] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[14:48:46] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Ravara
+[14:48:46] [Server thread/INFO] [EnderCore/]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[14:48:46] [Server thread/INFO] [kubatech/]: Sending config to Ravara
+[14:48:46] [Server thread/INFO] [mobsinfo/]: Sending config to Ravara
+[14:48:46] [Thread-46/INFO] [betterquesting/]: Start force party quest sync
+[14:48:46] [Server thread/INFO] [EnderCore/]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[14:48:46] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: Ravara
+[14:48:46] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Ravara
+[14:48:46] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Ravara'/536629, l='World', x=-1875.95, y=71.00, z=-6042.27] connected. Sending ping
+[14:48:46] [Thread-46/INFO] [betterquesting/]: Force party quest sync: completed 4 quests for 7800f48a-7838-4eb7-950f-43ec1aa76cf7 (Ravara)
+[14:48:46] [Thread-46/INFO] [betterquesting/]: Force party quest sync: completed 4 quests for 49e1b2a9-d73e-4a53-9726-98afa31cb8a9 (Augustym_)
+[14:48:46] [Thread-46/INFO] [betterquesting/]: Force party quest sync: completed 4 quests for 59885135-c7a2-4d45-b554-625602c74866 (herobrainbraga)
+[14:48:46] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player Ravara
+[14:48:46] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Ravara
+[14:48:46] [Server thread/INFO] [JourneyMapServer/]: Ravara is an EntityPlayerMP attempting to send the worldId packet
+[14:49:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:49:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:50:33] [Server thread/INFO] [Server Utilities/]: RedSmelterDemon is now AFK
+[14:50:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:50:45] [Server thread/INFO] [Morpheus/]: Ravara is now sleeping. 1/2 (50%)
+[14:51:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:52:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:52:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:52:57] [Server thread/INFO] [Server Utilities/]: RedSmelterDemon is no longer AFK
+[14:53:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:54:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:55:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:55:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:56:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:57:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:58:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:58:49] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:59:34] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:00:19] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:01:04] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:01:20] [Server thread/INFO] [Morpheus/]: RedSmelterDemon is now sleeping. 1/2 (50%)
