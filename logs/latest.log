@@ -18,3 +18,6 @@
 [09:18:22] [Server thread/INFO]: Augustym_ joined the game
 [09:31:30] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [09:31:30] [Server thread/INFO]: Augustym_ left the game
+[11:56:06] [User Authenticator #3/INFO]: UUID of player RedSmelterDemon is 3f4be91d-e2b4-432b-ba2d-ae289c46c6a0
+[11:56:07] [Server thread/INFO]: RedSmelterDemon[/181.223.99.104:65188] logged in with entity id 110009 at (-1877.300000011921, 80.0, -6011.699999988079)
+[11:56:07] [Server thread/INFO]: RedSmelterDemon joined the game
