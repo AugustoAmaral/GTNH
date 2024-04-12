@@ -53,3 +53,19 @@
 [18:38:14] [Server thread/INFO]: Ravara joined the game
 [18:42:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4058ms behind, skipping 81 tick(s)
 [18:47:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2633ms behind, skipping 52 tick(s)
+[19:12:44] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:12:44] [Server thread/INFO]: Ravara left the game
+[19:12:45] [User Authenticator #4/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[19:12:47] [Server thread/INFO]: herobrainbraga[/190.180.172.11:50228] logged in with entity id 256622 at (-1849.0193796760623, 72.0, -6087.597916302009)
+[19:12:47] [Server thread/INFO]: herobrainbraga joined the game
+[19:40:01] [Server thread/INFO]: herobrainbraga has just earned the achievement [More Tools]
+[19:40:12] [Server thread/INFO]: herobrainbraga has just earned the achievement [Crushed]
+[19:40:39] [Server thread/INFO]: herobrainbraga has just earned the achievement [Clean]
+[19:55:39] [User Authenticator #5/INFO]: UUID of player RedSmelterDemon is 3f4be91d-e2b4-432b-ba2d-ae289c46c6a0
+[19:55:40] [Server thread/INFO]: RedSmelterDemon[/181.223.99.104:49337] logged in with entity id 348704 at (-1867.4080811873444, 70.0, -6077.258009972103)
+[19:55:40] [Server thread/INFO]: RedSmelterDemon joined the game
+[19:55:44] [Server thread/INFO]: <RedSmelterDemon> saalve
+[19:55:45] [Server thread/INFO]: <herobrainbraga> hellow
+[20:03:43] [Server thread/INFO]: <herobrainbraga> krai eu n acho cinnabar
+[20:03:45] [Server thread/INFO]: <herobrainbraga> kkk
+[20:04:02] [Server thread/INFO]: <herobrainbraga> ja to c 1 pack de redstone mas so 12 cinnabar
