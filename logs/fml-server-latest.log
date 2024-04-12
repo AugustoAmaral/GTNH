@@ -30207,3 +30207,934 @@ java.io.IOException: Connection reset by peer
 [22:04:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2160 times.
 
 [22:04:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:04:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:04:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2165 times.
+
+[22:05:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:05:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2170 times.
+
+[22:06:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:06:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2175 times.
+
+[22:07:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:07:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2180 times.
+
+[22:07:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:08:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2185 times.
+
+[22:08:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:09:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2190 times.
+
+[22:09:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:09:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2195 times.
+
+[22:10:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:10:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2200 times.
+
+[22:10:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:11:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2205 times.
+
+[22:11:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:12:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:12:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2210 times.
+
+[22:13:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:13:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2215 times.
+
+[22:13:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:14:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2220 times.
+
+[22:14:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:14:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2225 times.
+
+[22:15:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:15:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2230 times.
+
+[22:16:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:16:11] [Netty IO #5/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:16:11] [Netty IO #5/INFO] [FML/]: Client protocol version 2
+[22:16:11] [Netty IO #5/TRACE] [FML/]: $ModList:304 mods->FMLHandshakeServerState$2:HELLO
+[22:16:11] [Netty IO #5/INFO] [FML/]: Client attempting to join with 304 mods : BuildCraft|Silicon@7.1.38,AromaBackup@0.1.0.0,ProjRed|Expansion@4.8.1-GTNH,ExtraBees@2.2.4,HardcoreEnderExpansion@1.9.7-GTNH,blocklimiter@0.55,MouseTweaks@2.4.9-GTNH,Botany@2.2.4,dreamcraft@2.2.55,endercore@0.2.19,travellersgearneo@1.0,mixinbooterlegacy@1.2.1,BWCore@0.0.1,BuildCraft|Robotics@7.1.38,kubatech@0.13.12,irontank@1.2.6,forgelin@1.9.6-GTNH,galacticgreg@1.0.10,Ic2Nei@1.2.1,openglasses@1.4.2-GTNH,GalaxySpace@1.2.15-GTNH,betterbuilderswands@0.10.1-GTNH,BiomesOPlenty@2.1.0,LunatriusCore@1.1.7-GTNH,bettercrashes@1.3.5-GTNH,gtnhtcwands@1.3.1,openmodularturrets@2.2.11-247,ForgeMultipart@1.4.1,hodgepodge@2.3.41,lootgames@2.0.8,malisisdoors@1.14.0-GTNH,berriespp@1.5.12,matmos@1.7.10-36.0.1,BrandonsCore@1.0.0.13-GTNH,CoFHCore@1.7.10R3.1.4,malisiscore@0.14.9,catwalks@2.0.4,defaultkeys@1.1.6,ExtraTrees@2.2.4,ae2fc@1.1.74-gtnh,StorageDrawers@1.12.2-GTNH,gendustry@1.6.5.5-GTNH,TGregworks@GTNH-1.0.25,enhancedlootbags@1.1.0,BuildCraft|Energy@7.1.38,modtweaker2@0.9.10,IC2@2.2.828-experimental,WitcheryExtras_ASM@0.1-Beta,IguanaTweaksTConstruct@2.3.0,FML@7.10.99.99,Natura@2.5.7,modularui@1.1.24,defaultserverlist@1.4.0,NEIAddons|Forestry@GRADLETOKEN_VERSION,serverutilities@2.0.34,ThE-core@1.0.0.1,BiblioWoodsNatura@1.5,<CoFH ASM>@000,Automagy@0.28.2,ProjRed|Illumination@4.8.1-GTNH,hydroenergy@1.1.1,neodymium@0.2.5,TMechworks@0.3.0,LogisticsPipes@1.0.8-GTNH,thaumicinsurgence@0.2.7,NotEnoughItems@2.4.13-GTNH,Thaumcraft@4.2.3.5,opensecurity@1.0.120-GTNH,Waila@1.6.5,eternalsingularity@1.1.2,PlayerAPI@1.4.3,unimixins-compat@0.1.14,appliedenergistics2-core@rv3-beta-292-GTNH,NEIAddons@GRADLETOKEN_VERSION,StorageDrawersForestry@1.11.17-GTNH,BiblioCraft@1.11.7,WarpTheory@1.2.17-GTNH,BuildCraft|Core@7.1.38,custommainmenu@1.10.3,OpenModsCore@0.10.6,betterloadingscreen@1.5.3-GTNH,bdlib@1.9.8-GTNH,NEIAddons|Developer@GRADLETOKEN_VERSION,tcinventoryscan@1.0.12-GTNH,ProjRed|Transmission@4.8.1-GTNH,naturescompass@1.3.6-GTNH,WR-CBE|Logic@1.4.8,DummyCore@1.17.0,WitcheryExtras@1.1.14,RWG@alpha-1.3.9-pre,BetterAchievements@0.1.3,MobiusCore@1.3.9-mapless,inventorytweaks@1.6.1,defaultworldgenerator@0.2,InGameInfoXML@2.8.5,EMT@1.3.8,findit@1.1.0,GT++_Preloader@0.5-Beta,OpenBlocks@1.8.3-GTNH,harvestthenether@1.7.10,GoodGenerator@0.7.17,gasstation@0.5.1,EnderStorage@1.4.12,ForbiddenMagic@0.6.7-GTNH,alchgrate@1.0.3-GTNH,gregtech@MC1710,CropLoadCoreASM@0.0.2,CarpentersBlocks@3.4.1-GTNH,dsurround@1.0.6.4,EnderIO@2.5.9,Translocator@1.1.2.21,blockrenderer6343@1.0.6,no_fog@1.0.0,InfernalMobs@1.7.9-GTNH,neiintegration@1.3.3,miscutils@1.10.54,MrTJPCoreMod@1.1.5,Roguelike@1.5.3-GTNH,SpecialMobs@3.4.3,NEIAddons|Botany@GRADLETOKEN_VERSION,sleepingbag@0.1.4,gtnhlanth@0.11.9,thaumicenergistics@1.5.4-GTNH,Aroma1997Core@1.0.2.16,CodeChickenCore@1.1.13,mobsinfo@0.1.13-GTNH,YAMCore@0.5.86,MineTweaker3@3.2.13,openprinter@0.1.3-GTNH,GTTweaker@2.0.5,ThaumicTinkerer-preloader@0.1,oauth@1.06.1-GTNH,structurelib@1.2.9,bartworks@0.8.23,lwjgl3ify@1.5.7,gtnhmixins@2.1.15,NodalMechanics@1.1.-6-GTNH,TravellersGear@1.16.6,adventurebackpack@1.0.17-GTNH,gtneioreplugin@1.1.3,gadomancy@1.2.0,betterp2p@1.1.20,Baubles@1.0.3,ProjRed|Core@4.8.1-GTNH,gtnhintergalactic@1.2.9,mxrandom@0.2.0,FloodLights@1.2.9,TML@4.1.0-GTNH,ArchitectureCraft@1.8.6,ProjRed|Exploration@4.8.1-GTNH,holoinventory@2.3.2-GTNH,Forestry@4.7.1,ae2wct@1.10.1,Schematica@1.9.4-GTNH,OpenMods@0.10.6,ifu@1.9.6,RIO@2.4.8,tcneiadditions@1.2.2,GalacticraftCore@3.0.75-GTNH,BiblioWoodsBoP@1.9,torohealthmod@1.0.4,tc4tweak@1.5.18,tcnodetracker@1.1.7,netherportalfix@1.1.2,questbook@3.4.7-GTNH,battlegear2@1.3.0,ForgeMicroblock@1.4.1,botanichorizons@1.0.19-GTNH,Ztones@1.7.10,ThaumicExploration@1.2.0-GTNH,duradisplay@1.1.7,EnderZoo@1.0.23,MagicBees@2.7.1-GTNH,ProjRed|Integration@4.8.1-GTNH,betterquesting@3.4.7-GTNH,controlling@2.0.1,cookingforblockheads@1.2.16-GTNH,txloader@1.6.3,compactkineticgenerators@1.7.10-1.0,neid@1.5.3,ae2stuff@0.6.0-GTNH,mixinextras@0.1.14,OpenComputers@1.9.21-GTNH,McMultipart@1.4.1,kekztech@0.9.6,gravisuiteneo@1.0.20,ProjRed|Fabrication@4.8.1-GTNH,SuperTic@1.2.5,ExtraUtilities@1.2.12,Railcraft@9.15.3,amazingtrophies@1.1.4,detravscannermod@1.7.2,bq_standard@3.4.7-GTNH,WR-CBE|Addons@1.4.8,IC2NuclearControl@2.5.1,StevesCarts@2.0.2,MCFrames@0.0.3,ThaumicHorizons@1.4.2,BiblioWoodsForestry@1.7,ironchestminecarts@1.0.8,structurecompat@0.4.0,FastCraft@1.25,Forge@10.13.4.1614,avaritiaddons@1.6.0-GTNH,croploadcore@0.1.10,HardcoreDarkness@1.7,tinkersdefense@1.2,OpenComputers|Core@@VERSION@,ThaumicTinkerer@2.8.5,ThaumcraftResearchTweaks@1.0.6,OilTweak@1.0.4,AdvancedSolarPanel@1.7.10-3.5.1,AFSU@1.2.6-GTNH,JABBA@1.3.1,angermod@0.6.3,ProjRed|Transportation@4.8.1-GTNH,mixingasm@0.3,AppleCore@3.2.12,cb4bq@3.4.7-GTNH,bartworkscrossmod@0.8.23,TiCTooltips@1.3.0,universalsingularities@8.6.7,supersolarpanel@1.7.10-1.1.1-GT-NH-Mod,GalacticraftAmunRa@0.5.0,HungerOverhaul@1.0.4-GTNH,gtnhlib@0.0.13,visualprospecting@1.2.1,ThaumicMachina@0.2.1,NEIAddons|CraftingTables@GRADLETOKEN_VERSION,NEIAddons|ExNihilo@GRADLETOKEN_VERSION,WailaHarvestability@1.1.10-GTNH,unimixins@0.1.14,Botania@1.10.3-GTNH,bartworkscrossmodtgregworkscontainer@0.8.23,personalspace@1.0.28,beebetteratbees@0.3.1-GTNH,Avaritia@1.46,craftpresence@2.2.5,ForgeRelocation@0.0.3,ProjRed|Compatibility@4.8.1-GTNH,TConstruct@1.10.13-GTNH,asielib@0.5.4,StevesFactoryManager@1.1.7-GTNH,BinnieCore@2.2.4,inpure|core@1.1.5-GTNH,sharewhereiam@2.0.2,RelocationFMP@0.0.4,wawla@1.1.3-GTNH,Genetics@2.2.4,mcp@9.05,unimixins-mixin@0.1.14,Mantle@0.3.7,journeymap@5.1.4p6,appliedenergistics2@rv3-beta-292-GTNH,SGCraft@1.3.13-GTNH,thaumcraftneiplugin@@VERSION@,AromaBackupRecovery@1.0,GRADLETOKEN_MODID@GRADLETOKEN_VERSION,DraconicEvolution@1.2.1-GTNH,WR-CBE|Core@1.4.8,StorageDrawersMisc@1.11.18-GTNH,harvestcraft@1.1.4-GTNH,TaintedMagic@r7.6,TwilightForest@2.5.1,BuildCraft|Factory@7.1.38,ProjectBlue@1.1.12-GTNH,computronics@1.7.1-GTNH,GraviSuite@1.7.10-2.0.3,nutrition@0.0.5,NEIAddons|AppEng@GRADLETOKEN_VERSION,neicustomdiagram@1.5.14,GalacticraftMars@3.0.75-GTNH,BuildCraft|Compat@7.1.16,wailaplugins@0.3.0,HelpFixer@1.1.0,neenergistics@1.4.6,AWWayofTime@1.4.3,IronChest@6.0.74,RandomThings@2.4.6,creativecore@1.3.31-GTNH,bugtorch@1.2.12-GTNH,thaumicbases@1.5.6,SpiceOfLife@2.1.1-carrot,thaumicboots@1.1.0,StorageDrawersNatura@1.11.17-GTNH,spongemixins@2.0.1,BuildCraft|Transport@7.1.38,StorageDrawersBop@1.11.17-GTNH,wanionlib@1.8.4,Aroma1997CoreHelper@1.0.2.16,chisel@2.12.3-GTNH,StevesAddons@0.10.27,Backpack@2.2.12-GTNH,ToxicEverglades@1.10.54,ThaumcraftMobAspects@1.0.0-GTNH,witchery@0.24.1,overloadedarmorbar@1.0.3,WitchingGadgets@1.3.6-GTNH,BuildCraft|Builders@7.1.38,ggfab@0.3.9,chiseltones@1.0.4-GTNH,littletiles@1.2.9-GTNH,tectech@5.3.23,BloodArsenal@1.2.11
+[22:16:11] [Netty IO #5/INFO] [FML/]: Attempting connection with missing mods [JourneyMapServer, Morpheus] at CLIENT
+[22:16:11] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:16:11] [Netty IO #5/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:74): Sending id data for player: EntityPlayerMP['Augustym_'/843931, l='World', x=65.50, y=94.00, z=3.50]
+[22:16:11] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:16:11] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:16:11] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:16:11] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:16:11] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[22:16:11] [Server thread/INFO] [EnderCore/]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[22:16:11] [Server thread/INFO] [kubatech/]: Sending config to Augustym_
+[22:16:11] [Server thread/INFO] [mobsinfo/]: Sending config to Augustym_
+[22:16:11] [Thread-52/INFO] [betterquesting/]: Start force party quest sync
+[22:16:11] [Server thread/INFO] [EnderCore/]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[22:16:11] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: Augustym_
+[22:16:11] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[22:16:11] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Augustym_'/843931, l='World', x=-2201.01, y=40.00, z=-5079.50] connected. Sending ping
+[22:16:11] [Thread-52/INFO] [betterquesting/]: Force party quest sync: completed 1 quests for 7800f48a-7838-4eb7-950f-43ec1aa76cf7 (Ravara)
+[22:16:11] [Thread-52/INFO] [betterquesting/]: Force party quest sync: completed 1 quests for 59885135-c7a2-4d45-b554-625602c74866 (herobrainbraga)
+[22:16:11] [Thread-52/INFO] [betterquesting/]: Force party quest sync: completed 1 quests for 3f4be91d-e2b4-432b-ba2d-ae289c46c6a0 (RedSmelterDemon)
+[22:16:11] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player Augustym_
+[22:16:12] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[22:16:12] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[22:16:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2235 times.
+
+[22:16:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:17:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2240 times.
+
+[22:17:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:17:53] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:325): Storing post-mortem inventory into /home/ubuntu/gtnh_server/./World/data/inventory-Augustym_-2024-04-11_22.17.53-death-0.dat. It can be restored with command '/ob_inventory restore Augustym_ Augustym_-2024-04-11_22.17.53-death-0'
+[22:17:53] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:417): Scheduling grave placement for player 'EntityPlayerMP['Augustym_'/843931, l='World', x=-2202.99, y=40.00, z=-5060.86]':'com.mojang.authlib.GameProfile@3fd7d7ad[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@34e132a6]},legacy=false]' with 22 item(s) stored and 0 item(s) dropped
+[22:17:53] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:255): Grave for com.mojang.authlib.GameProfile@3fd7d7ad[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@34e132a6]},legacy=false] will be spawned at (-2203,40,-5061)
+[22:17:53] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:300): Grave backup for player com.mojang.authlib.GameProfile@3fd7d7ad[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@34e132a6]},legacy=false] saved to ./World/data/inventory-Augustym_-2024-04-11_22.17.53-grave-0.dat
+[22:17:53] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:217): Grave for (49e1b2a9-d73e-4a53-9726-98afa31cb8a9,Augustym_) was spawned at (-2203,40,-5061)
+[22:17:54] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[22:17:54] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[22:17:55] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[22:17:55] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[22:18:15] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:325): Storing post-mortem inventory into /home/ubuntu/gtnh_server/./World/data/inventory-Augustym_-2024-04-11_22.18.15-death-0.dat. It can be restored with command '/ob_inventory restore Augustym_ Augustym_-2024-04-11_22.18.15-death-0'
+[22:18:15] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:417): Scheduling grave placement for player 'EntityPlayerMP['Augustym_'/843931, l='World', x=-2202.30, y=37.00, z=-5060.70]':'com.mojang.authlib.GameProfile@3fd7d7ad[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@34e132a6]},legacy=false]' with 2 item(s) stored and 0 item(s) dropped
+[22:18:16] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:255): Grave for com.mojang.authlib.GameProfile@3fd7d7ad[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@34e132a6]},legacy=false] will be spawned at (-2203,34,-5061)
+[22:18:16] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:300): Grave backup for player com.mojang.authlib.GameProfile@3fd7d7ad[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@34e132a6]},legacy=false] saved to ./World/data/inventory-Augustym_-2024-04-11_22.18.16-grave-0.dat
+[22:18:16] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:217): Grave for (49e1b2a9-d73e-4a53-9726-98afa31cb8a9,Augustym_) was spawned at (-2203,34,-5061)
+[22:18:17] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[22:18:17] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[22:18:17] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[22:18:17] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[22:18:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2245 times.
+
+[22:18:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:18:30] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Augustym_
+[22:19:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2250 times.
+
+[22:19:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:19:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:19:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2255 times.
+
+[22:20:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:20:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2260 times.
+
+[22:21:06] [Netty IO #1/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:21:06] [Netty IO #1/INFO] [FML/]: Client protocol version 2
+[22:21:06] [Netty IO #1/TRACE] [FML/]: $ModList:304 mods->FMLHandshakeServerState$2:HELLO
+[22:21:06] [Netty IO #1/INFO] [FML/]: Client attempting to join with 304 mods : BuildCraft|Silicon@7.1.38,AromaBackup@0.1.0.0,ProjRed|Expansion@4.8.1-GTNH,ExtraBees@2.2.4,HardcoreEnderExpansion@1.9.7-GTNH,blocklimiter@0.55,MouseTweaks@2.4.9-GTNH,Botany@2.2.4,dreamcraft@2.2.55,endercore@0.2.19,travellersgearneo@1.0,mixinbooterlegacy@1.2.1,BWCore@0.0.1,BuildCraft|Robotics@7.1.38,kubatech@0.13.12,irontank@1.2.6,forgelin@1.9.6-GTNH,galacticgreg@1.0.10,Ic2Nei@1.2.1,openglasses@1.4.2-GTNH,GalaxySpace@1.2.15-GTNH,betterbuilderswands@0.10.1-GTNH,BiomesOPlenty@2.1.0,LunatriusCore@1.1.7-GTNH,bettercrashes@1.3.5-GTNH,gtnhtcwands@1.3.1,openmodularturrets@2.2.11-247,ForgeMultipart@1.4.1,hodgepodge@2.3.41,lootgames@2.0.8,malisisdoors@1.14.0-GTNH,berriespp@1.5.12,matmos@1.7.10-36.0.1,BrandonsCore@1.0.0.13-GTNH,CoFHCore@1.7.10R3.1.4,malisiscore@0.14.9,catwalks@2.0.4,defaultkeys@1.1.6,ExtraTrees@2.2.4,ae2fc@1.1.74-gtnh,StorageDrawers@1.12.2-GTNH,gendustry@1.6.5.5-GTNH,TGregworks@GTNH-1.0.25,enhancedlootbags@1.1.0,BuildCraft|Energy@7.1.38,modtweaker2@0.9.10,IC2@2.2.828-experimental,WitcheryExtras_ASM@0.1-Beta,IguanaTweaksTConstruct@2.3.0,FML@7.10.99.99,Natura@2.5.7,modularui@1.1.24,defaultserverlist@1.4.0,NEIAddons|Forestry@GRADLETOKEN_VERSION,serverutilities@2.0.34,ThE-core@1.0.0.1,BiblioWoodsNatura@1.5,<CoFH ASM>@000,Automagy@0.28.2,ProjRed|Illumination@4.8.1-GTNH,hydroenergy@1.1.1,neodymium@0.2.5,TMechworks@0.3.0,LogisticsPipes@1.0.8-GTNH,thaumicinsurgence@0.2.7,NotEnoughItems@2.4.13-GTNH,Thaumcraft@4.2.3.5,opensecurity@1.0.120-GTNH,Waila@1.6.5,eternalsingularity@1.1.2,PlayerAPI@1.4.3,unimixins-compat@0.1.14,appliedenergistics2-core@rv3-beta-292-GTNH,NEIAddons@GRADLETOKEN_VERSION,StorageDrawersForestry@1.11.17-GTNH,BiblioCraft@1.11.7,WarpTheory@1.2.17-GTNH,BuildCraft|Core@7.1.38,custommainmenu@1.10.3,OpenModsCore@0.10.6,betterloadingscreen@1.5.3-GTNH,bdlib@1.9.8-GTNH,NEIAddons|Developer@GRADLETOKEN_VERSION,tcinventoryscan@1.0.12-GTNH,ProjRed|Transmission@4.8.1-GTNH,naturescompass@1.3.6-GTNH,WR-CBE|Logic@1.4.8,DummyCore@1.17.0,WitcheryExtras@1.1.14,RWG@alpha-1.3.9-pre,BetterAchievements@0.1.3,MobiusCore@1.3.9-mapless,inventorytweaks@1.6.1,defaultworldgenerator@0.2,InGameInfoXML@2.8.5,EMT@1.3.8,findit@1.1.0,GT++_Preloader@0.5-Beta,OpenBlocks@1.8.3-GTNH,harvestthenether@1.7.10,GoodGenerator@0.7.17,gasstation@0.5.1,EnderStorage@1.4.12,ForbiddenMagic@0.6.7-GTNH,alchgrate@1.0.3-GTNH,gregtech@MC1710,CropLoadCoreASM@0.0.2,CarpentersBlocks@3.4.1-GTNH,dsurround@1.0.6.4,EnderIO@2.5.9,Translocator@1.1.2.21,blockrenderer6343@1.0.6,no_fog@1.0.0,InfernalMobs@1.7.9-GTNH,neiintegration@1.3.3,miscutils@1.10.54,MrTJPCoreMod@1.1.5,Roguelike@1.5.3-GTNH,SpecialMobs@3.4.3,NEIAddons|Botany@GRADLETOKEN_VERSION,sleepingbag@0.1.4,gtnhlanth@0.11.9,thaumicenergistics@1.5.4-GTNH,Aroma1997Core@1.0.2.16,CodeChickenCore@1.1.13,mobsinfo@0.1.13-GTNH,YAMCore@0.5.86,MineTweaker3@3.2.13,openprinter@0.1.3-GTNH,GTTweaker@2.0.5,ThaumicTinkerer-preloader@0.1,oauth@1.06.1-GTNH,structurelib@1.2.9,bartworks@0.8.23,lwjgl3ify@1.5.7,gtnhmixins@2.1.15,NodalMechanics@1.1.-6-GTNH,TravellersGear@1.16.6,adventurebackpack@1.0.17-GTNH,gtneioreplugin@1.1.3,gadomancy@1.2.0,betterp2p@1.1.20,Baubles@1.0.3,ProjRed|Core@4.8.1-GTNH,gtnhintergalactic@1.2.9,mxrandom@0.2.0,FloodLights@1.2.9,TML@4.1.0-GTNH,ArchitectureCraft@1.8.6,ProjRed|Exploration@4.8.1-GTNH,holoinventory@2.3.2-GTNH,Forestry@4.7.1,ae2wct@1.10.1,Schematica@1.9.4-GTNH,OpenMods@0.10.6,ifu@1.9.6,RIO@2.4.8,tcneiadditions@1.2.2,GalacticraftCore@3.0.75-GTNH,BiblioWoodsBoP@1.9,torohealthmod@1.0.4,tc4tweak@1.5.18,tcnodetracker@1.1.7,netherportalfix@1.1.2,questbook@3.4.7-GTNH,battlegear2@1.3.0,ForgeMicroblock@1.4.1,botanichorizons@1.0.19-GTNH,Ztones@1.7.10,ThaumicExploration@1.2.0-GTNH,duradisplay@1.1.7,EnderZoo@1.0.23,MagicBees@2.7.1-GTNH,ProjRed|Integration@4.8.1-GTNH,betterquesting@3.4.7-GTNH,controlling@2.0.1,cookingforblockheads@1.2.16-GTNH,txloader@1.6.3,compactkineticgenerators@1.7.10-1.0,neid@1.5.3,ae2stuff@0.6.0-GTNH,mixinextras@0.1.14,OpenComputers@1.9.21-GTNH,McMultipart@1.4.1,kekztech@0.9.6,gravisuiteneo@1.0.20,ProjRed|Fabrication@4.8.1-GTNH,SuperTic@1.2.5,ExtraUtilities@1.2.12,Railcraft@9.15.3,amazingtrophies@1.1.4,detravscannermod@1.7.2,bq_standard@3.4.7-GTNH,WR-CBE|Addons@1.4.8,IC2NuclearControl@2.5.1,StevesCarts@2.0.2,MCFrames@0.0.3,ThaumicHorizons@1.4.2,BiblioWoodsForestry@1.7,ironchestminecarts@1.0.8,structurecompat@0.4.0,FastCraft@1.25,Forge@10.13.4.1614,avaritiaddons@1.6.0-GTNH,croploadcore@0.1.10,HardcoreDarkness@1.7,tinkersdefense@1.2,OpenComputers|Core@@VERSION@,ThaumicTinkerer@2.8.5,ThaumcraftResearchTweaks@1.0.6,OilTweak@1.0.4,AdvancedSolarPanel@1.7.10-3.5.1,AFSU@1.2.6-GTNH,JABBA@1.3.1,angermod@0.6.3,ProjRed|Transportation@4.8.1-GTNH,mixingasm@0.3,AppleCore@3.2.12,cb4bq@3.4.7-GTNH,bartworkscrossmod@0.8.23,TiCTooltips@1.3.0,universalsingularities@8.6.7,supersolarpanel@1.7.10-1.1.1-GT-NH-Mod,GalacticraftAmunRa@0.5.0,HungerOverhaul@1.0.4-GTNH,gtnhlib@0.0.13,visualprospecting@1.2.1,ThaumicMachina@0.2.1,NEIAddons|CraftingTables@GRADLETOKEN_VERSION,NEIAddons|ExNihilo@GRADLETOKEN_VERSION,WailaHarvestability@1.1.10-GTNH,unimixins@0.1.14,Botania@1.10.3-GTNH,bartworkscrossmodtgregworkscontainer@0.8.23,personalspace@1.0.28,beebetteratbees@0.3.1-GTNH,Avaritia@1.46,craftpresence@2.2.5,ForgeRelocation@0.0.3,ProjRed|Compatibility@4.8.1-GTNH,TConstruct@1.10.13-GTNH,asielib@0.5.4,StevesFactoryManager@1.1.7-GTNH,BinnieCore@2.2.4,inpure|core@1.1.5-GTNH,sharewhereiam@2.0.2,RelocationFMP@0.0.4,wawla@1.1.3-GTNH,Genetics@2.2.4,mcp@9.05,unimixins-mixin@0.1.14,Mantle@0.3.7,journeymap@5.1.4p6,appliedenergistics2@rv3-beta-292-GTNH,SGCraft@1.3.13-GTNH,thaumcraftneiplugin@@VERSION@,AromaBackupRecovery@1.0,GRADLETOKEN_MODID@GRADLETOKEN_VERSION,DraconicEvolution@1.2.1-GTNH,WR-CBE|Core@1.4.8,StorageDrawersMisc@1.11.18-GTNH,harvestcraft@1.1.4-GTNH,TaintedMagic@r7.6,TwilightForest@2.5.1,BuildCraft|Factory@7.1.38,ProjectBlue@1.1.12-GTNH,computronics@1.7.1-GTNH,GraviSuite@1.7.10-2.0.3,nutrition@0.0.5,NEIAddons|AppEng@GRADLETOKEN_VERSION,neicustomdiagram@1.5.14,GalacticraftMars@3.0.75-GTNH,BuildCraft|Compat@7.1.16,wailaplugins@0.3.0,HelpFixer@1.1.0,neenergistics@1.4.6,AWWayofTime@1.4.3,IronChest@6.0.74,RandomThings@2.4.6,creativecore@1.3.31-GTNH,bugtorch@1.2.12-GTNH,thaumicbases@1.5.6,SpiceOfLife@2.1.1-carrot,thaumicboots@1.1.0,StorageDrawersNatura@1.11.17-GTNH,spongemixins@2.0.1,BuildCraft|Transport@7.1.38,StorageDrawersBop@1.11.17-GTNH,wanionlib@1.8.4,Aroma1997CoreHelper@1.0.2.16,chisel@2.12.3-GTNH,StevesAddons@0.10.27,Backpack@2.2.12-GTNH,ToxicEverglades@1.10.54,ThaumcraftMobAspects@1.0.0-GTNH,witchery@0.24.1,overloadedarmorbar@1.0.3,WitchingGadgets@1.3.6-GTNH,BuildCraft|Builders@7.1.38,ggfab@0.3.9,chiseltones@1.0.4-GTNH,littletiles@1.2.9-GTNH,tectech@5.3.23,BloodArsenal@1.2.11
+[22:21:06] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [JourneyMapServer, Morpheus] at CLIENT
+[22:21:06] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:21:06] [Netty IO #1/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:74): Sending id data for player: EntityPlayerMP['Augustym_'/849112, l='World', x=65.50, y=100.00, z=15.50]
+[22:21:07] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:21:07] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:21:07] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:21:07] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:21:07] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[22:21:07] [Server thread/INFO] [EnderCore/]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[22:21:07] [Server thread/INFO] [kubatech/]: Sending config to Augustym_
+[22:21:07] [Server thread/INFO] [mobsinfo/]: Sending config to Augustym_
+[22:21:07] [Server thread/INFO] [EnderCore/]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[22:21:07] [Thread-58/INFO] [betterquesting/]: Start force party quest sync
+[22:21:07] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: Augustym_
+[22:21:07] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[22:21:07] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Augustym_'/849112, l='World', x=-1870.83, y=71.00, z=-6039.51] connected. Sending ping
+[22:21:07] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player Augustym_
+[22:21:08] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[22:21:08] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[22:21:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:21:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2265 times.
+
+[22:21:43] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:325): Storing post-mortem inventory into /home/ubuntu/gtnh_server/./World/data/inventory-Augustym_-2024-04-11_22.21.43-death-0.dat. It can be restored with command '/ob_inventory restore Augustym_ Augustym_-2024-04-11_22.21.43-death-0'
+[22:21:43] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:417): Scheduling grave placement for player 'EntityPlayerMP['Augustym_'/849112, l='World', x=-2212.11, y=30.00, z=-5060.70]':'com.mojang.authlib.GameProfile@252a4baf[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@208dc40e]},legacy=false]' with 4 item(s) stored and 0 item(s) dropped
+[22:21:43] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:255): Grave for com.mojang.authlib.GameProfile@252a4baf[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@208dc40e]},legacy=false] will be spawned at (-2213,30,-5061)
+[22:21:43] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:300): Grave backup for player com.mojang.authlib.GameProfile@252a4baf[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@208dc40e]},legacy=false] saved to ./World/data/inventory-Augustym_-2024-04-11_22.21.43-grave-0.dat
+[22:21:43] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:217): Grave for (49e1b2a9-d73e-4a53-9726-98afa31cb8a9,Augustym_) was spawned at (-2213,30,-5061)
+[22:21:44] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[22:21:44] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[22:21:45] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[22:21:45] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[22:21:48] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Augustym_
+[22:22:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:22:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2270 times.
+
+[22:22:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:23:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2275 times.
+
+[22:23:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:24:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2280 times.
+
+[22:24:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:24:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2285 times.
+
+[22:25:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:25:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2290 times.
+
+[22:25:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:25:56] [Netty IO #5/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:25:56] [Netty IO #5/INFO] [FML/]: Client protocol version 2
+[22:25:56] [Netty IO #5/TRACE] [FML/]: $ModList:304 mods->FMLHandshakeServerState$2:HELLO
+[22:25:56] [Netty IO #5/INFO] [FML/]: Client attempting to join with 304 mods : BuildCraft|Silicon@7.1.38,AromaBackup@0.1.0.0,ProjRed|Expansion@4.8.1-GTNH,ExtraBees@2.2.4,HardcoreEnderExpansion@1.9.7-GTNH,blocklimiter@0.55,MouseTweaks@2.4.9-GTNH,Botany@2.2.4,dreamcraft@2.2.55,endercore@0.2.19,travellersgearneo@1.0,mixinbooterlegacy@1.2.1,BWCore@0.0.1,BuildCraft|Robotics@7.1.38,kubatech@0.13.12,irontank@1.2.6,forgelin@1.9.6-GTNH,galacticgreg@1.0.10,Ic2Nei@1.2.1,openglasses@1.4.2-GTNH,GalaxySpace@1.2.15-GTNH,betterbuilderswands@0.10.1-GTNH,BiomesOPlenty@2.1.0,LunatriusCore@1.1.7-GTNH,bettercrashes@1.3.5-GTNH,gtnhtcwands@1.3.1,openmodularturrets@2.2.11-247,ForgeMultipart@1.4.1,hodgepodge@2.3.41,lootgames@2.0.8,malisisdoors@1.14.0-GTNH,berriespp@1.5.12,matmos@1.7.10-36.0.1,BrandonsCore@1.0.0.13-GTNH,CoFHCore@1.7.10R3.1.4,malisiscore@0.14.9,catwalks@2.0.4,defaultkeys@1.1.6,ExtraTrees@2.2.4,ae2fc@1.1.74-gtnh,StorageDrawers@1.12.2-GTNH,gendustry@1.6.5.5-GTNH,TGregworks@GTNH-1.0.25,enhancedlootbags@1.1.0,BuildCraft|Energy@7.1.38,modtweaker2@0.9.10,IC2@2.2.828-experimental,WitcheryExtras_ASM@0.1-Beta,IguanaTweaksTConstruct@2.3.0,FML@7.10.99.99,Natura@2.5.7,modularui@1.1.24,defaultserverlist@1.4.0,NEIAddons|Forestry@GRADLETOKEN_VERSION,serverutilities@2.0.34,ThE-core@1.0.0.1,BiblioWoodsNatura@1.5,<CoFH ASM>@000,Automagy@0.28.2,ProjRed|Illumination@4.8.1-GTNH,hydroenergy@1.1.1,neodymium@0.2.5,TMechworks@0.3.0,LogisticsPipes@1.0.8-GTNH,thaumicinsurgence@0.2.7,NotEnoughItems@2.4.13-GTNH,Thaumcraft@4.2.3.5,opensecurity@1.0.120-GTNH,Waila@1.6.5,eternalsingularity@1.1.2,PlayerAPI@1.4.3,unimixins-compat@0.1.14,appliedenergistics2-core@rv3-beta-292-GTNH,NEIAddons@GRADLETOKEN_VERSION,StorageDrawersForestry@1.11.17-GTNH,BiblioCraft@1.11.7,WarpTheory@1.2.17-GTNH,BuildCraft|Core@7.1.38,custommainmenu@1.10.3,OpenModsCore@0.10.6,betterloadingscreen@1.5.3-GTNH,bdlib@1.9.8-GTNH,NEIAddons|Developer@GRADLETOKEN_VERSION,tcinventoryscan@1.0.12-GTNH,ProjRed|Transmission@4.8.1-GTNH,naturescompass@1.3.6-GTNH,WR-CBE|Logic@1.4.8,DummyCore@1.17.0,WitcheryExtras@1.1.14,RWG@alpha-1.3.9-pre,BetterAchievements@0.1.3,MobiusCore@1.3.9-mapless,inventorytweaks@1.6.1,defaultworldgenerator@0.2,InGameInfoXML@2.8.5,EMT@1.3.8,findit@1.1.0,GT++_Preloader@0.5-Beta,OpenBlocks@1.8.3-GTNH,harvestthenether@1.7.10,GoodGenerator@0.7.17,gasstation@0.5.1,EnderStorage@1.4.12,ForbiddenMagic@0.6.7-GTNH,alchgrate@1.0.3-GTNH,gregtech@MC1710,CropLoadCoreASM@0.0.2,CarpentersBlocks@3.4.1-GTNH,dsurround@1.0.6.4,EnderIO@2.5.9,Translocator@1.1.2.21,blockrenderer6343@1.0.6,no_fog@1.0.0,InfernalMobs@1.7.9-GTNH,neiintegration@1.3.3,miscutils@1.10.54,MrTJPCoreMod@1.1.5,Roguelike@1.5.3-GTNH,SpecialMobs@3.4.3,NEIAddons|Botany@GRADLETOKEN_VERSION,sleepingbag@0.1.4,gtnhlanth@0.11.9,thaumicenergistics@1.5.4-GTNH,Aroma1997Core@1.0.2.16,CodeChickenCore@1.1.13,mobsinfo@0.1.13-GTNH,YAMCore@0.5.86,MineTweaker3@3.2.13,openprinter@0.1.3-GTNH,GTTweaker@2.0.5,ThaumicTinkerer-preloader@0.1,oauth@1.06.1-GTNH,structurelib@1.2.9,bartworks@0.8.23,lwjgl3ify@1.5.7,gtnhmixins@2.1.15,NodalMechanics@1.1.-6-GTNH,TravellersGear@1.16.6,adventurebackpack@1.0.17-GTNH,gtneioreplugin@1.1.3,gadomancy@1.2.0,betterp2p@1.1.20,Baubles@1.0.3,ProjRed|Core@4.8.1-GTNH,gtnhintergalactic@1.2.9,mxrandom@0.2.0,FloodLights@1.2.9,TML@4.1.0-GTNH,ArchitectureCraft@1.8.6,ProjRed|Exploration@4.8.1-GTNH,holoinventory@2.3.2-GTNH,Forestry@4.7.1,ae2wct@1.10.1,Schematica@1.9.4-GTNH,OpenMods@0.10.6,ifu@1.9.6,RIO@2.4.8,tcneiadditions@1.2.2,GalacticraftCore@3.0.75-GTNH,BiblioWoodsBoP@1.9,torohealthmod@1.0.4,tc4tweak@1.5.18,tcnodetracker@1.1.7,netherportalfix@1.1.2,questbook@3.4.7-GTNH,battlegear2@1.3.0,ForgeMicroblock@1.4.1,botanichorizons@1.0.19-GTNH,Ztones@1.7.10,ThaumicExploration@1.2.0-GTNH,duradisplay@1.1.7,EnderZoo@1.0.23,MagicBees@2.7.1-GTNH,ProjRed|Integration@4.8.1-GTNH,betterquesting@3.4.7-GTNH,controlling@2.0.1,cookingforblockheads@1.2.16-GTNH,txloader@1.6.3,compactkineticgenerators@1.7.10-1.0,neid@1.5.3,ae2stuff@0.6.0-GTNH,mixinextras@0.1.14,OpenComputers@1.9.21-GTNH,McMultipart@1.4.1,kekztech@0.9.6,gravisuiteneo@1.0.20,ProjRed|Fabrication@4.8.1-GTNH,SuperTic@1.2.5,ExtraUtilities@1.2.12,Railcraft@9.15.3,amazingtrophies@1.1.4,detravscannermod@1.7.2,bq_standard@3.4.7-GTNH,WR-CBE|Addons@1.4.8,IC2NuclearControl@2.5.1,StevesCarts@2.0.2,MCFrames@0.0.3,ThaumicHorizons@1.4.2,BiblioWoodsForestry@1.7,ironchestminecarts@1.0.8,structurecompat@0.4.0,FastCraft@1.25,Forge@10.13.4.1614,avaritiaddons@1.6.0-GTNH,croploadcore@0.1.10,HardcoreDarkness@1.7,tinkersdefense@1.2,OpenComputers|Core@@VERSION@,ThaumicTinkerer@2.8.5,ThaumcraftResearchTweaks@1.0.6,OilTweak@1.0.4,AdvancedSolarPanel@1.7.10-3.5.1,AFSU@1.2.6-GTNH,JABBA@1.3.1,angermod@0.6.3,ProjRed|Transportation@4.8.1-GTNH,mixingasm@0.3,AppleCore@3.2.12,cb4bq@3.4.7-GTNH,bartworkscrossmod@0.8.23,TiCTooltips@1.3.0,universalsingularities@8.6.7,supersolarpanel@1.7.10-1.1.1-GT-NH-Mod,GalacticraftAmunRa@0.5.0,HungerOverhaul@1.0.4-GTNH,gtnhlib@0.0.13,visualprospecting@1.2.1,ThaumicMachina@0.2.1,NEIAddons|CraftingTables@GRADLETOKEN_VERSION,NEIAddons|ExNihilo@GRADLETOKEN_VERSION,WailaHarvestability@1.1.10-GTNH,unimixins@0.1.14,Botania@1.10.3-GTNH,bartworkscrossmodtgregworkscontainer@0.8.23,personalspace@1.0.28,beebetteratbees@0.3.1-GTNH,Avaritia@1.46,craftpresence@2.2.5,ForgeRelocation@0.0.3,ProjRed|Compatibility@4.8.1-GTNH,TConstruct@1.10.13-GTNH,asielib@0.5.4,StevesFactoryManager@1.1.7-GTNH,BinnieCore@2.2.4,inpure|core@1.1.5-GTNH,sharewhereiam@2.0.2,RelocationFMP@0.0.4,wawla@1.1.3-GTNH,Genetics@2.2.4,mcp@9.05,unimixins-mixin@0.1.14,Mantle@0.3.7,journeymap@5.1.4p6,appliedenergistics2@rv3-beta-292-GTNH,SGCraft@1.3.13-GTNH,thaumcraftneiplugin@@VERSION@,AromaBackupRecovery@1.0,GRADLETOKEN_MODID@GRADLETOKEN_VERSION,DraconicEvolution@1.2.1-GTNH,WR-CBE|Core@1.4.8,StorageDrawersMisc@1.11.18-GTNH,harvestcraft@1.1.4-GTNH,TaintedMagic@r7.6,TwilightForest@2.5.1,BuildCraft|Factory@7.1.38,ProjectBlue@1.1.12-GTNH,computronics@1.7.1-GTNH,GraviSuite@1.7.10-2.0.3,nutrition@0.0.5,NEIAddons|AppEng@GRADLETOKEN_VERSION,neicustomdiagram@1.5.14,GalacticraftMars@3.0.75-GTNH,BuildCraft|Compat@7.1.16,wailaplugins@0.3.0,HelpFixer@1.1.0,neenergistics@1.4.6,AWWayofTime@1.4.3,IronChest@6.0.74,RandomThings@2.4.6,creativecore@1.3.31-GTNH,bugtorch@1.2.12-GTNH,thaumicbases@1.5.6,SpiceOfLife@2.1.1-carrot,thaumicboots@1.1.0,StorageDrawersNatura@1.11.17-GTNH,spongemixins@2.0.1,BuildCraft|Transport@7.1.38,StorageDrawersBop@1.11.17-GTNH,wanionlib@1.8.4,Aroma1997CoreHelper@1.0.2.16,chisel@2.12.3-GTNH,StevesAddons@0.10.27,Backpack@2.2.12-GTNH,ToxicEverglades@1.10.54,ThaumcraftMobAspects@1.0.0-GTNH,witchery@0.24.1,overloadedarmorbar@1.0.3,WitchingGadgets@1.3.6-GTNH,BuildCraft|Builders@7.1.38,ggfab@0.3.9,chiseltones@1.0.4-GTNH,littletiles@1.2.9-GTNH,tectech@5.3.23,BloodArsenal@1.2.11
+[22:25:56] [Netty IO #5/INFO] [FML/]: Attempting connection with missing mods [JourneyMapServer, Morpheus] at CLIENT
+[22:25:56] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:25:56] [Netty IO #5/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:74): Sending id data for player: EntityPlayerMP['Augustym_'/851930, l='World', x=54.50, y=84.00, z=1.50]
+[22:25:56] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:25:56] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:25:56] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:25:56] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:25:56] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[22:25:56] [Server thread/INFO] [EnderCore/]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[22:25:56] [Thread-63/INFO] [betterquesting/]: Start force party quest sync
+[22:25:56] [Server thread/INFO] [kubatech/]: Sending config to Augustym_
+[22:25:56] [Server thread/INFO] [mobsinfo/]: Sending config to Augustym_
+[22:25:56] [Server thread/INFO] [EnderCore/]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[22:25:56] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: Augustym_
+[22:25:56] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[22:25:56] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Augustym_'/851930, l='World', x=-1876.83, y=71.00, z=-6048.17] connected. Sending ping
+[22:25:56] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player Augustym_
+[22:25:57] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[22:25:57] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[22:26:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2295 times.
+
+[22:26:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:27:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:27:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2300 times.
+
+[22:28:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:28:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2305 times.
+
+[22:28:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:29:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2310 times.
+
+[22:29:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:29:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2315 times.
+
+[22:30:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:30:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2320 times.
+
+[22:31:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:31:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2325 times.
+
+[22:31:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:32:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2330 times.
+
+[22:32:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:33:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2335 times.
+
+[22:33:19] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Augustym_
+[22:33:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:33:27] [Netty IO #0/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:33:27] [Netty IO #0/INFO] [FML/]: Client protocol version 2
+[22:33:27] [Netty IO #0/TRACE] [FML/]: $ModList:304 mods->FMLHandshakeServerState$2:HELLO
+[22:33:27] [Netty IO #0/INFO] [FML/]: Client attempting to join with 304 mods : BuildCraft|Silicon@7.1.38,AromaBackup@0.1.0.0,ProjRed|Expansion@4.8.1-GTNH,ExtraBees@2.2.4,HardcoreEnderExpansion@1.9.7-GTNH,blocklimiter@0.55,MouseTweaks@2.4.9-GTNH,Botany@2.2.4,dreamcraft@2.2.55,endercore@0.2.19,travellersgearneo@1.0,mixinbooterlegacy@1.2.1,BWCore@0.0.1,BuildCraft|Robotics@7.1.38,kubatech@0.13.12,irontank@1.2.6,forgelin@1.9.6-GTNH,galacticgreg@1.0.10,Ic2Nei@1.2.1,openglasses@1.4.2-GTNH,GalaxySpace@1.2.15-GTNH,betterbuilderswands@0.10.1-GTNH,BiomesOPlenty@2.1.0,LunatriusCore@1.1.7-GTNH,bettercrashes@1.3.5-GTNH,gtnhtcwands@1.3.1,openmodularturrets@2.2.11-247,ForgeMultipart@1.4.1,hodgepodge@2.3.41,lootgames@2.0.8,malisisdoors@1.14.0-GTNH,berriespp@1.5.12,matmos@1.7.10-36.0.1,BrandonsCore@1.0.0.13-GTNH,CoFHCore@1.7.10R3.1.4,malisiscore@0.14.9,catwalks@2.0.4,defaultkeys@1.1.6,ExtraTrees@2.2.4,ae2fc@1.1.74-gtnh,StorageDrawers@1.12.2-GTNH,gendustry@1.6.5.5-GTNH,TGregworks@GTNH-1.0.25,enhancedlootbags@1.1.0,BuildCraft|Energy@7.1.38,modtweaker2@0.9.10,IC2@2.2.828-experimental,WitcheryExtras_ASM@0.1-Beta,IguanaTweaksTConstruct@2.3.0,FML@7.10.99.99,Natura@2.5.7,modularui@1.1.24,defaultserverlist@1.4.0,NEIAddons|Forestry@GRADLETOKEN_VERSION,serverutilities@2.0.34,ThE-core@1.0.0.1,BiblioWoodsNatura@1.5,<CoFH ASM>@000,Automagy@0.28.2,ProjRed|Illumination@4.8.1-GTNH,hydroenergy@1.1.1,neodymium@0.2.5,TMechworks@0.3.0,LogisticsPipes@1.0.8-GTNH,thaumicinsurgence@0.2.7,NotEnoughItems@2.4.13-GTNH,Thaumcraft@4.2.3.5,opensecurity@1.0.120-GTNH,Waila@1.6.5,eternalsingularity@1.1.2,PlayerAPI@1.4.3,unimixins-compat@0.1.14,appliedenergistics2-core@rv3-beta-292-GTNH,NEIAddons@GRADLETOKEN_VERSION,StorageDrawersForestry@1.11.17-GTNH,BiblioCraft@1.11.7,WarpTheory@1.2.17-GTNH,BuildCraft|Core@7.1.38,custommainmenu@1.10.3,OpenModsCore@0.10.6,betterloadingscreen@1.5.3-GTNH,bdlib@1.9.8-GTNH,NEIAddons|Developer@GRADLETOKEN_VERSION,tcinventoryscan@1.0.12-GTNH,ProjRed|Transmission@4.8.1-GTNH,naturescompass@1.3.6-GTNH,WR-CBE|Logic@1.4.8,DummyCore@1.17.0,WitcheryExtras@1.1.14,RWG@alpha-1.3.9-pre,BetterAchievements@0.1.3,MobiusCore@1.3.9-mapless,inventorytweaks@1.6.1,defaultworldgenerator@0.2,InGameInfoXML@2.8.5,EMT@1.3.8,findit@1.1.0,GT++_Preloader@0.5-Beta,OpenBlocks@1.8.3-GTNH,harvestthenether@1.7.10,GoodGenerator@0.7.17,gasstation@0.5.1,EnderStorage@1.4.12,ForbiddenMagic@0.6.7-GTNH,alchgrate@1.0.3-GTNH,gregtech@MC1710,CropLoadCoreASM@0.0.2,CarpentersBlocks@3.4.1-GTNH,dsurround@1.0.6.4,EnderIO@2.5.9,Translocator@1.1.2.21,blockrenderer6343@1.0.6,no_fog@1.0.0,InfernalMobs@1.7.9-GTNH,neiintegration@1.3.3,miscutils@1.10.54,MrTJPCoreMod@1.1.5,Roguelike@1.5.3-GTNH,SpecialMobs@3.4.3,NEIAddons|Botany@GRADLETOKEN_VERSION,sleepingbag@0.1.4,gtnhlanth@0.11.9,thaumicenergistics@1.5.4-GTNH,Aroma1997Core@1.0.2.16,CodeChickenCore@1.1.13,mobsinfo@0.1.13-GTNH,YAMCore@0.5.86,MineTweaker3@3.2.13,openprinter@0.1.3-GTNH,GTTweaker@2.0.5,ThaumicTinkerer-preloader@0.1,oauth@1.06.1-GTNH,structurelib@1.2.9,bartworks@0.8.23,lwjgl3ify@1.5.7,gtnhmixins@2.1.15,NodalMechanics@1.1.-6-GTNH,TravellersGear@1.16.6,adventurebackpack@1.0.17-GTNH,gtneioreplugin@1.1.3,gadomancy@1.2.0,betterp2p@1.1.20,Baubles@1.0.3,ProjRed|Core@4.8.1-GTNH,gtnhintergalactic@1.2.9,mxrandom@0.2.0,FloodLights@1.2.9,TML@4.1.0-GTNH,ArchitectureCraft@1.8.6,ProjRed|Exploration@4.8.1-GTNH,holoinventory@2.3.2-GTNH,Forestry@4.7.1,ae2wct@1.10.1,Schematica@1.9.4-GTNH,OpenMods@0.10.6,ifu@1.9.6,RIO@2.4.8,tcneiadditions@1.2.2,GalacticraftCore@3.0.75-GTNH,BiblioWoodsBoP@1.9,torohealthmod@1.0.4,tc4tweak@1.5.18,tcnodetracker@1.1.7,netherportalfix@1.1.2,questbook@3.4.7-GTNH,battlegear2@1.3.0,ForgeMicroblock@1.4.1,botanichorizons@1.0.19-GTNH,Ztones@1.7.10,ThaumicExploration@1.2.0-GTNH,duradisplay@1.1.7,EnderZoo@1.0.23,MagicBees@2.7.1-GTNH,ProjRed|Integration@4.8.1-GTNH,betterquesting@3.4.7-GTNH,controlling@2.0.1,cookingforblockheads@1.2.16-GTNH,txloader@1.6.3,compactkineticgenerators@1.7.10-1.0,neid@1.5.3,ae2stuff@0.6.0-GTNH,mixinextras@0.1.14,OpenComputers@1.9.21-GTNH,McMultipart@1.4.1,kekztech@0.9.6,gravisuiteneo@1.0.20,ProjRed|Fabrication@4.8.1-GTNH,SuperTic@1.2.5,ExtraUtilities@1.2.12,Railcraft@9.15.3,amazingtrophies@1.1.4,detravscannermod@1.7.2,bq_standard@3.4.7-GTNH,WR-CBE|Addons@1.4.8,IC2NuclearControl@2.5.1,StevesCarts@2.0.2,MCFrames@0.0.3,ThaumicHorizons@1.4.2,BiblioWoodsForestry@1.7,ironchestminecarts@1.0.8,structurecompat@0.4.0,FastCraft@1.25,Forge@10.13.4.1614,avaritiaddons@1.6.0-GTNH,croploadcore@0.1.10,HardcoreDarkness@1.7,tinkersdefense@1.2,OpenComputers|Core@@VERSION@,ThaumicTinkerer@2.8.5,ThaumcraftResearchTweaks@1.0.6,OilTweak@1.0.4,AdvancedSolarPanel@1.7.10-3.5.1,AFSU@1.2.6-GTNH,JABBA@1.3.1,angermod@0.6.3,ProjRed|Transportation@4.8.1-GTNH,mixingasm@0.3,AppleCore@3.2.12,cb4bq@3.4.7-GTNH,bartworkscrossmod@0.8.23,TiCTooltips@1.3.0,universalsingularities@8.6.7,supersolarpanel@1.7.10-1.1.1-GT-NH-Mod,GalacticraftAmunRa@0.5.0,HungerOverhaul@1.0.4-GTNH,gtnhlib@0.0.13,visualprospecting@1.2.1,ThaumicMachina@0.2.1,NEIAddons|CraftingTables@GRADLETOKEN_VERSION,NEIAddons|ExNihilo@GRADLETOKEN_VERSION,WailaHarvestability@1.1.10-GTNH,unimixins@0.1.14,Botania@1.10.3-GTNH,bartworkscrossmodtgregworkscontainer@0.8.23,personalspace@1.0.28,beebetteratbees@0.3.1-GTNH,Avaritia@1.46,craftpresence@2.2.5,ForgeRelocation@0.0.3,ProjRed|Compatibility@4.8.1-GTNH,TConstruct@1.10.13-GTNH,asielib@0.5.4,StevesFactoryManager@1.1.7-GTNH,BinnieCore@2.2.4,inpure|core@1.1.5-GTNH,sharewhereiam@2.0.2,RelocationFMP@0.0.4,wawla@1.1.3-GTNH,Genetics@2.2.4,mcp@9.05,unimixins-mixin@0.1.14,Mantle@0.3.7,journeymap@5.1.4p6,appliedenergistics2@rv3-beta-292-GTNH,SGCraft@1.3.13-GTNH,thaumcraftneiplugin@@VERSION@,AromaBackupRecovery@1.0,GRADLETOKEN_MODID@GRADLETOKEN_VERSION,DraconicEvolution@1.2.1-GTNH,WR-CBE|Core@1.4.8,StorageDrawersMisc@1.11.18-GTNH,harvestcraft@1.1.4-GTNH,TaintedMagic@r7.6,TwilightForest@2.5.1,BuildCraft|Factory@7.1.38,ProjectBlue@1.1.12-GTNH,computronics@1.7.1-GTNH,GraviSuite@1.7.10-2.0.3,nutrition@0.0.5,NEIAddons|AppEng@GRADLETOKEN_VERSION,neicustomdiagram@1.5.14,GalacticraftMars@3.0.75-GTNH,BuildCraft|Compat@7.1.16,wailaplugins@0.3.0,HelpFixer@1.1.0,neenergistics@1.4.6,AWWayofTime@1.4.3,IronChest@6.0.74,RandomThings@2.4.6,creativecore@1.3.31-GTNH,bugtorch@1.2.12-GTNH,thaumicbases@1.5.6,SpiceOfLife@2.1.1-carrot,thaumicboots@1.1.0,StorageDrawersNatura@1.11.17-GTNH,spongemixins@2.0.1,BuildCraft|Transport@7.1.38,StorageDrawersBop@1.11.17-GTNH,wanionlib@1.8.4,Aroma1997CoreHelper@1.0.2.16,chisel@2.12.3-GTNH,StevesAddons@0.10.27,Backpack@2.2.12-GTNH,ToxicEverglades@1.10.54,ThaumcraftMobAspects@1.0.0-GTNH,witchery@0.24.1,overloadedarmorbar@1.0.3,WitchingGadgets@1.3.6-GTNH,BuildCraft|Builders@7.1.38,ggfab@0.3.9,chiseltones@1.0.4-GTNH,littletiles@1.2.9-GTNH,tectech@5.3.23,BloodArsenal@1.2.11
+[22:33:27] [Netty IO #0/INFO] [FML/]: Attempting connection with missing mods [JourneyMapServer, Morpheus] at CLIENT
+[22:33:27] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:33:27] [Netty IO #0/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:74): Sending id data for player: EntityPlayerMP['Augustym_'/866411, l='World', x=56.50, y=92.00, z=12.50]
+[22:33:28] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:33:28] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:33:28] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:33:28] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[22:33:28] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:33:28] [Server thread/INFO] [EnderCore/]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[22:33:28] [Thread-67/INFO] [betterquesting/]: Start force party quest sync
+[22:33:28] [Server thread/INFO] [kubatech/]: Sending config to Augustym_
+[22:33:28] [Server thread/INFO] [mobsinfo/]: Sending config to Augustym_
+[22:33:28] [Server thread/INFO] [EnderCore/]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[22:33:28] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: Augustym_
+[22:33:28] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[22:33:28] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Augustym_'/866411, l='World', x=-1871.37, y=71.00, z=-6051.76] connected. Sending ping
+[22:33:28] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player Augustym_
+[22:33:28] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[22:33:28] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[22:34:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2340 times.
+
+[22:34:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:34:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:34:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2345 times.
+
+[22:35:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:35:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2350 times.
+
+[22:36:22] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Augustym_
+[22:36:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:36:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2355 times.
+
+[22:37:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:37:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2360 times.
+
+[22:37:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:38:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2365 times.
+
+[22:38:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:39:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2370 times.
+
+[22:39:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:39:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2375 times.
+
+[22:40:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:40:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2380 times.
+
+[22:40:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:41:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2385 times.
+
+[22:41:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:42:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:42:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2390 times.
+
+[22:43:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:43:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2395 times.
+
+[22:43:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:44:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2400 times.
+
+[22:44:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:44:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2405 times.
+
+[22:45:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:45:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2410 times.
+
+[22:46:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:46:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2415 times.
+
+[22:46:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:47:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2420 times.
+
+[22:47:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:47:51] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:47:51] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[22:47:51] [Netty IO #2/TRACE] [FML/]: $ModList:304 mods->FMLHandshakeServerState$2:HELLO
+[22:47:51] [Netty IO #2/INFO] [FML/]: Client attempting to join with 304 mods : BuildCraft|Silicon@7.1.38,AromaBackup@0.1.0.0,ProjRed|Expansion@4.8.1-GTNH,ExtraBees@2.2.4,HardcoreEnderExpansion@1.9.7-GTNH,blocklimiter@0.55,MouseTweaks@2.4.9-GTNH,Botany@2.2.4,dreamcraft@2.2.55,endercore@0.2.19,travellersgearneo@1.0,mixinbooterlegacy@1.2.1,BWCore@0.0.1,BuildCraft|Robotics@7.1.38,kubatech@0.13.12,irontank@1.2.6,forgelin@1.9.6-GTNH,galacticgreg@1.0.10,Ic2Nei@1.2.1,openglasses@1.4.2-GTNH,GalaxySpace@1.2.15-GTNH,betterbuilderswands@0.10.1-GTNH,BiomesOPlenty@2.1.0,LunatriusCore@1.1.7-GTNH,bettercrashes@1.3.5-GTNH,gtnhtcwands@1.3.1,openmodularturrets@2.2.11-247,ForgeMultipart@1.4.1,hodgepodge@2.3.41,lootgames@2.0.8,malisisdoors@1.14.0-GTNH,berriespp@1.5.12,matmos@1.7.10-36.0.1,BrandonsCore@1.0.0.13-GTNH,CoFHCore@1.7.10R3.1.4,malisiscore@0.14.9,catwalks@2.0.4,defaultkeys@1.1.6,ExtraTrees@2.2.4,ae2fc@1.1.74-gtnh,StorageDrawers@1.12.2-GTNH,gendustry@1.6.5.5-GTNH,TGregworks@GTNH-1.0.25,enhancedlootbags@1.1.0,BuildCraft|Energy@7.1.38,modtweaker2@0.9.10,IC2@2.2.828-experimental,WitcheryExtras_ASM@0.1-Beta,IguanaTweaksTConstruct@2.3.0,FML@7.10.99.99,Natura@2.5.7,modularui@1.1.24,defaultserverlist@1.4.0,NEIAddons|Forestry@GRADLETOKEN_VERSION,serverutilities@2.0.34,ThE-core@1.0.0.1,BiblioWoodsNatura@1.5,<CoFH ASM>@000,Automagy@0.28.2,ProjRed|Illumination@4.8.1-GTNH,hydroenergy@1.1.1,neodymium@0.2.5,TMechworks@0.3.0,LogisticsPipes@1.0.8-GTNH,thaumicinsurgence@0.2.7,NotEnoughItems@2.4.13-GTNH,Thaumcraft@4.2.3.5,opensecurity@1.0.120-GTNH,Waila@1.6.5,eternalsingularity@1.1.2,PlayerAPI@1.4.3,unimixins-compat@0.1.14,appliedenergistics2-core@rv3-beta-292-GTNH,NEIAddons@GRADLETOKEN_VERSION,StorageDrawersForestry@1.11.17-GTNH,BiblioCraft@1.11.7,WarpTheory@1.2.17-GTNH,BuildCraft|Core@7.1.38,custommainmenu@1.10.3,OpenModsCore@0.10.6,betterloadingscreen@1.5.3-GTNH,bdlib@1.9.8-GTNH,NEIAddons|Developer@GRADLETOKEN_VERSION,tcinventoryscan@1.0.12-GTNH,ProjRed|Transmission@4.8.1-GTNH,naturescompass@1.3.6-GTNH,WR-CBE|Logic@1.4.8,DummyCore@1.17.0,WitcheryExtras@1.1.14,RWG@alpha-1.3.9-pre,BetterAchievements@0.1.3,MobiusCore@1.3.9-mapless,inventorytweaks@1.6.1,defaultworldgenerator@0.2,InGameInfoXML@2.8.5,EMT@1.3.8,findit@1.1.0,GT++_Preloader@0.5-Beta,OpenBlocks@1.8.3-GTNH,harvestthenether@1.7.10,GoodGenerator@0.7.17,gasstation@0.5.1,EnderStorage@1.4.12,ForbiddenMagic@0.6.7-GTNH,alchgrate@1.0.3-GTNH,gregtech@MC1710,CropLoadCoreASM@0.0.2,CarpentersBlocks@3.4.1-GTNH,dsurround@1.0.6.4,EnderIO@2.5.9,Translocator@1.1.2.21,blockrenderer6343@1.0.6,no_fog@1.0.0,InfernalMobs@1.7.9-GTNH,neiintegration@1.3.3,miscutils@1.10.54,MrTJPCoreMod@1.1.5,Roguelike@1.5.3-GTNH,SpecialMobs@3.4.3,NEIAddons|Botany@GRADLETOKEN_VERSION,sleepingbag@0.1.4,gtnhlanth@0.11.9,thaumicenergistics@1.5.4-GTNH,Aroma1997Core@1.0.2.16,CodeChickenCore@1.1.13,mobsinfo@0.1.13-GTNH,YAMCore@0.5.86,MineTweaker3@3.2.13,openprinter@0.1.3-GTNH,GTTweaker@2.0.5,ThaumicTinkerer-preloader@0.1,oauth@1.06.1-GTNH,structurelib@1.2.9,bartworks@0.8.23,lwjgl3ify@1.5.7,gtnhmixins@2.1.15,NodalMechanics@1.1.-6-GTNH,TravellersGear@1.16.6,adventurebackpack@1.0.17-GTNH,gtneioreplugin@1.1.3,gadomancy@1.2.0,betterp2p@1.1.20,Baubles@1.0.3,ProjRed|Core@4.8.1-GTNH,gtnhintergalactic@1.2.9,mxrandom@0.2.0,FloodLights@1.2.9,TML@4.1.0-GTNH,ArchitectureCraft@1.8.6,ProjRed|Exploration@4.8.1-GTNH,holoinventory@2.3.2-GTNH,Forestry@4.7.1,ae2wct@1.10.1,Schematica@1.9.4-GTNH,OpenMods@0.10.6,ifu@1.9.6,RIO@2.4.8,tcneiadditions@1.2.2,GalacticraftCore@3.0.75-GTNH,BiblioWoodsBoP@1.9,torohealthmod@1.0.4,tc4tweak@1.5.18,tcnodetracker@1.1.7,netherportalfix@1.1.2,questbook@3.4.7-GTNH,battlegear2@1.3.0,ForgeMicroblock@1.4.1,botanichorizons@1.0.19-GTNH,Ztones@1.7.10,ThaumicExploration@1.2.0-GTNH,duradisplay@1.1.7,EnderZoo@1.0.23,MagicBees@2.7.1-GTNH,ProjRed|Integration@4.8.1-GTNH,betterquesting@3.4.7-GTNH,controlling@2.0.1,cookingforblockheads@1.2.16-GTNH,txloader@1.6.3,compactkineticgenerators@1.7.10-1.0,neid@1.5.3,ae2stuff@0.6.0-GTNH,mixinextras@0.1.14,OpenComputers@1.9.21-GTNH,McMultipart@1.4.1,kekztech@0.9.6,gravisuiteneo@1.0.20,ProjRed|Fabrication@4.8.1-GTNH,SuperTic@1.2.5,ExtraUtilities@1.2.12,Railcraft@9.15.3,amazingtrophies@1.1.4,detravscannermod@1.7.2,bq_standard@3.4.7-GTNH,WR-CBE|Addons@1.4.8,IC2NuclearControl@2.5.1,StevesCarts@2.0.2,MCFrames@0.0.3,ThaumicHorizons@1.4.2,BiblioWoodsForestry@1.7,ironchestminecarts@1.0.8,structurecompat@0.4.0,FastCraft@1.25,Forge@10.13.4.1614,avaritiaddons@1.6.0-GTNH,croploadcore@0.1.10,HardcoreDarkness@1.7,tinkersdefense@1.2,OpenComputers|Core@@VERSION@,ThaumicTinkerer@2.8.5,ThaumcraftResearchTweaks@1.0.6,OilTweak@1.0.4,AdvancedSolarPanel@1.7.10-3.5.1,AFSU@1.2.6-GTNH,JABBA@1.3.1,angermod@0.6.3,ProjRed|Transportation@4.8.1-GTNH,mixingasm@0.3,AppleCore@3.2.12,cb4bq@3.4.7-GTNH,bartworkscrossmod@0.8.23,TiCTooltips@1.3.0,universalsingularities@8.6.7,supersolarpanel@1.7.10-1.1.1-GT-NH-Mod,GalacticraftAmunRa@0.5.0,HungerOverhaul@1.0.4-GTNH,gtnhlib@0.0.13,visualprospecting@1.2.1,ThaumicMachina@0.2.1,NEIAddons|CraftingTables@GRADLETOKEN_VERSION,NEIAddons|ExNihilo@GRADLETOKEN_VERSION,WailaHarvestability@1.1.10-GTNH,unimixins@0.1.14,Botania@1.10.3-GTNH,bartworkscrossmodtgregworkscontainer@0.8.23,personalspace@1.0.28,beebetteratbees@0.3.1-GTNH,Avaritia@1.46,craftpresence@2.2.5,ForgeRelocation@0.0.3,ProjRed|Compatibility@4.8.1-GTNH,TConstruct@1.10.13-GTNH,asielib@0.5.4,StevesFactoryManager@1.1.7-GTNH,BinnieCore@2.2.4,inpure|core@1.1.5-GTNH,sharewhereiam@2.0.2,RelocationFMP@0.0.4,wawla@1.1.3-GTNH,Genetics@2.2.4,mcp@9.05,unimixins-mixin@0.1.14,Mantle@0.3.7,journeymap@5.1.4p6,appliedenergistics2@rv3-beta-292-GTNH,SGCraft@1.3.13-GTNH,thaumcraftneiplugin@@VERSION@,AromaBackupRecovery@1.0,GRADLETOKEN_MODID@GRADLETOKEN_VERSION,DraconicEvolution@1.2.1-GTNH,WR-CBE|Core@1.4.8,StorageDrawersMisc@1.11.18-GTNH,harvestcraft@1.1.4-GTNH,TaintedMagic@r7.6,TwilightForest@2.5.1,BuildCraft|Factory@7.1.38,ProjectBlue@1.1.12-GTNH,computronics@1.7.1-GTNH,GraviSuite@1.7.10-2.0.3,nutrition@0.0.5,NEIAddons|AppEng@GRADLETOKEN_VERSION,neicustomdiagram@1.5.14,GalacticraftMars@3.0.75-GTNH,BuildCraft|Compat@7.1.16,wailaplugins@0.3.0,HelpFixer@1.1.0,neenergistics@1.4.6,AWWayofTime@1.4.3,IronChest@6.0.74,RandomThings@2.4.6,creativecore@1.3.31-GTNH,bugtorch@1.2.12-GTNH,thaumicbases@1.5.6,SpiceOfLife@2.1.1-carrot,thaumicboots@1.1.0,StorageDrawersNatura@1.11.17-GTNH,spongemixins@2.0.1,BuildCraft|Transport@7.1.38,StorageDrawersBop@1.11.17-GTNH,wanionlib@1.8.4,Aroma1997CoreHelper@1.0.2.16,chisel@2.12.3-GTNH,StevesAddons@0.10.27,Backpack@2.2.12-GTNH,ToxicEverglades@1.10.54,ThaumcraftMobAspects@1.0.0-GTNH,witchery@0.24.1,overloadedarmorbar@1.0.3,WitchingGadgets@1.3.6-GTNH,BuildCraft|Builders@7.1.38,ggfab@0.3.9,chiseltones@1.0.4-GTNH,littletiles@1.2.9-GTNH,tectech@5.3.23,BloodArsenal@1.2.11
+[22:47:51] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [JourneyMapServer, Morpheus] at CLIENT
+[22:47:51] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:47:51] [Netty IO #2/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:74): Sending id data for player: EntityPlayerMP['Augustym_'/878222, l='World', x=60.50, y=96.00, z=13.50]
+[22:47:51] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:47:51] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:47:51] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:47:51] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:47:51] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[22:47:51] [Server thread/INFO] [EnderCore/]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[22:47:51] [Thread-71/INFO] [betterquesting/]: Start force party quest sync
+[22:47:51] [Server thread/INFO] [kubatech/]: Sending config to Augustym_
+[22:47:51] [Server thread/INFO] [mobsinfo/]: Sending config to Augustym_
+[22:47:51] [Server thread/INFO] [EnderCore/]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[22:47:51] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: Augustym_
+[22:47:51] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[22:47:51] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['Augustym_'/878222, l='World', x=-1985.10, y=63.00, z=-5572.99] connected. Sending ping
+[22:47:51] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player Augustym_
+[22:47:51] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[22:47:51] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[22:48:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2425 times.
+
+[22:48:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:49:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2430 times.
+
+[22:49:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:49:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:49:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2435 times.
+
+[22:50:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:50:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2440 times.
+
+[22:51:14] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:65): Grave @ (-2203,40,-5061) dimension = 0 destroyed by player EntityPlayerMP['Augustym_'/878222, l='World', x=-2201.94, y=40.00, z=-5063.30]
+[22:51:14] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.func_149749_a(BlockGrave.java:60): Grave @ (-2203,40,-5061) dimension = 0 destroyed
+[22:51:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:51:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2445 times.
+
+[22:51:46] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:65): Grave @ (-2203,34,-5061) dimension = 0 destroyed by player EntityPlayerMP['Augustym_'/878222, l='World', x=-2202.67, y=36.00, z=-5059.69]
+[22:51:46] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.func_149749_a(BlockGrave.java:60): Grave @ (-2203,34,-5061) dimension = 0 destroyed
+[22:52:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:52:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2450 times.
+
+[22:52:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:53:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2455 times.
+
+[22:53:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:54:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2460 times.
+
+[22:54:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:54:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2465 times.
+
+[22:55:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:55:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2470 times.
+
+[22:55:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:56:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2475 times.
+
+[22:56:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:57:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:57:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2480 times.
+
+[22:58:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:58:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2485 times.
+
+[22:58:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:59:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2490 times.
+
+[22:59:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:59:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2495 times.
+
+[23:00:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:00:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2500 times.
+
+[23:01:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:01:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2505 times.
+
+[23:01:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:02:12] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:325): Storing post-mortem inventory into /home/ubuntu/gtnh_server/./World/data/inventory-Augustym_-2024-04-11_23.02.12-death-0.dat. It can be restored with command '/ob_inventory restore Augustym_ Augustym_-2024-04-11_23.02.12-death-0'
+[23:02:12] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:417): Scheduling grave placement for player 'EntityPlayerMP['Augustym_'/878222, l='World', x=-2193.22, y=40.00, z=-5044.70]':'com.mojang.authlib.GameProfile@430fea44[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@45fb8511]},legacy=false]' with 32 item(s) stored and 0 item(s) dropped
+[23:02:12] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:255): Grave for com.mojang.authlib.GameProfile@430fea44[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@45fb8511]},legacy=false] will be spawned at (-2194,40,-5045)
+[23:02:12] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:300): Grave backup for player com.mojang.authlib.GameProfile@430fea44[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@45fb8511]},legacy=false] saved to ./World/data/inventory-Augustym_-2024-04-11_23.02.12-grave-0.dat
+[23:02:12] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:217): Grave for (49e1b2a9-d73e-4a53-9726-98afa31cb8a9,Augustym_) was spawned at (-2194,40,-5045)
+[23:02:14] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[23:02:14] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[23:02:15] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[23:02:15] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[23:02:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2510 times.
+
+[23:02:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:03:11] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:65): Grave @ (-2194,40,-5045) dimension = 0 destroyed by player EntityPlayerMP['Augustym_'/878222, l='World', x=-2193.30, y=37.00, z=-5044.70]
+[23:03:11] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.func_149749_a(BlockGrave.java:60): Grave @ (-2194,40,-5045) dimension = 0 destroyed
+[23:03:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2515 times.
+
+[23:03:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:04:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2520 times.
+
+[23:04:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:04:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:04:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2525 times.
+
+[23:05:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:05:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2530 times.
+
+[23:06:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:06:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2535 times.
+
+[23:07:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:07:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2540 times.
+
+[23:07:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:08:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2545 times.
+
+[23:08:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:09:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2550 times.
+
+[23:09:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:09:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2555 times.
+
+[23:10:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:10:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2560 times.
+
+[23:10:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:11:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2565 times.
+
+[23:11:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:12:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:12:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2570 times.
+
+[23:13:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:13:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2575 times.
+
+[23:13:23] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:325): Storing post-mortem inventory into /home/ubuntu/gtnh_server/./World/data/inventory-Augustym_-2024-04-11_23.13.23-death-0.dat. It can be restored with command '/ob_inventory restore Augustym_ Augustym_-2024-04-11_23.13.23-death-0'
+[23:13:23] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:417): Scheduling grave placement for player 'EntityPlayerMP['Augustym_'/878222, l='World', x=-2256.55, y=40.00, z=-5074.30]':'com.mojang.authlib.GameProfile@430fea44[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@45fb8511]},legacy=false]' with 20 item(s) stored and 0 item(s) dropped
+[23:13:23] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:255): Grave for com.mojang.authlib.GameProfile@430fea44[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@45fb8511]},legacy=false] will be spawned at (-2257,40,-5075)
+[23:13:23] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:300): Grave backup for player com.mojang.authlib.GameProfile@430fea44[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@45fb8511]},legacy=false] saved to ./World/data/inventory-Augustym_-2024-04-11_23.13.23-grave-0.dat
+[23:13:23] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:217): Grave for (49e1b2a9-d73e-4a53-9726-98afa31cb8a9,Augustym_) was spawned at (-2257,40,-5075)
+[23:13:26] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[23:13:26] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[23:13:27] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[23:13:27] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[23:13:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:14:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2580 times.
+
+[23:14:12] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:65): Grave @ (-2257,40,-5075) dimension = 0 destroyed by player EntityPlayerMP['Augustym_'/878222, l='World', x=-2256.70, y=37.00, z=-5074.30]
+[23:14:12] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.func_149749_a(BlockGrave.java:60): Grave @ (-2257,40,-5075) dimension = 0 destroyed
+[23:14:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:14:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2585 times.
+
+[23:15:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:15:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2590 times.
+
+[23:16:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:16:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2595 times.
+
+[23:16:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:17:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2600 times.
+
+[23:17:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:18:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2605 times.
+
+[23:18:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:19:07] [Server thread/DEBUG] [Multipart ASM/]: Generation [codechicken/multipart/TileMultipart with codechicken/multipart/scalatraits/TSlottedTile] took 96ms
+[23:19:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2610 times.
+
+[23:19:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:19:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:19:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2615 times.
+
+[23:20:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:20:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2620 times.
+
+[23:21:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:21:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2625 times.
+
+[23:22:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:22:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2630 times.
+
+[23:22:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:23:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2635 times.
+
+[23:23:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:24:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2640 times.
+
+[23:24:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:24:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2645 times.
+
+[23:25:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:25:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2650 times.
+
+[23:25:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:26:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2655 times.
+
+[23:26:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:27:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:27:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2660 times.
+
+[23:28:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:28:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2665 times.
+
+[23:28:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:29:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2670 times.
+
+[23:29:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:29:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2675 times.
+
+[23:30:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:30:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2680 times.
+
+[23:31:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:31:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2685 times.
+
+[23:31:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:32:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2690 times.
+
+[23:32:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:33:04] [Server thread/INFO] [Server Utilities/]: Augustym_ is now AFK
+[23:33:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2695 times.
+
+[23:33:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:33:36] [Server thread/INFO] [Server Utilities/]: Augustym_ is no longer AFK
+[23:34:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2700 times.
+
+[23:34:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:34:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:34:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2705 times.
+
+[23:35:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:35:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2710 times.
+
+[23:36:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:36:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2715 times.
+
+[23:37:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:37:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2720 times.
+
+[23:37:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:38:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2725 times.
+
+[23:38:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:39:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2730 times.
+
+[23:39:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:39:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2735 times.
+
+[23:40:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:40:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2740 times.
+
+[23:40:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:41:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2745 times.
+
+[23:41:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:42:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:42:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2750 times.
+
+[23:43:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:43:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2755 times.
+
+[23:43:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:44:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2760 times.
+
+[23:44:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:44:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2765 times.
+
+[23:45:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:45:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2770 times.
+
+[23:46:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:46:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2775 times.
+
+[23:46:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:47:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2780 times.
+
+[23:47:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:47:41] [Server thread/INFO] [Server Utilities/]: Augustym_ is now AFK
+[23:48:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2785 times.
+
+[23:48:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:49:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2790 times.
+
+[23:49:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:49:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:49:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2795 times.
+
+[23:50:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:50:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2800 times.
+
+[23:51:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:51:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2805 times.
+
+[23:52:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:52:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2810 times.
+
+[23:52:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:53:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2815 times.
+
+[23:53:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:54:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2820 times.
+
+[23:54:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:54:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2825 times.
+
+[23:55:03] [Server thread/INFO] [Server Utilities/]: Augustym_ is no longer AFK
+[23:55:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:55:16] [Netty IO #2/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:55:16] [Netty IO #2/INFO] [FML/]: Client protocol version 2
+[23:55:16] [Netty IO #2/TRACE] [FML/]: $ModList:305 mods->FMLHandshakeServerState$2:HELLO
+[23:55:16] [Netty IO #2/INFO] [FML/]: Client attempting to join with 305 mods : BuildCraft|Silicon@7.1.38,AromaBackup@0.1.0.0,ProjRed|Expansion@4.8.1-GTNH,ExtraBees@2.2.4,HardcoreEnderExpansion@1.9.7-GTNH,blocklimiter@0.55,MouseTweaks@2.4.9-GTNH,Botany@2.2.4,dreamcraft@2.2.55,endercore@0.2.19,travellersgearneo@1.0,mixinbooterlegacy@1.2.1,BWCore@0.0.1,BuildCraft|Robotics@7.1.38,kubatech@0.13.12,irontank@1.2.6,forgelin@1.9.6-GTNH,galacticgreg@1.0.10,Ic2Nei@1.2.1,openglasses@1.4.2-GTNH,GalaxySpace@1.2.15-GTNH,betterbuilderswands@0.10.1-GTNH,BiomesOPlenty@2.1.0,LunatriusCore@1.1.7-GTNH,bettercrashes@1.3.5-GTNH,gtnhtcwands@1.3.1,openmodularturrets@2.2.11-247,ForgeMultipart@1.4.1,hodgepodge@2.3.41,lootgames@2.0.8,malisisdoors@1.14.0-GTNH,berriespp@1.5.12,matmos@1.7.10-36.0.1,BrandonsCore@1.0.0.13-GTNH,CoFHCore@1.7.10R3.1.4,malisiscore@0.14.9,catwalks@2.0.4,defaultkeys@1.1.6,ExtraTrees@2.2.4,ae2fc@1.1.74-gtnh,StorageDrawers@1.12.2-GTNH,gendustry@1.6.5.5-GTNH,TGregworks@GTNH-1.0.25,enhancedlootbags@1.1.0,BuildCraft|Energy@7.1.38,modtweaker2@0.9.10,IC2@2.2.828-experimental,WitcheryExtras_ASM@0.1-Beta,IguanaTweaksTConstruct@2.3.0,FML@7.10.99.99,Natura@2.5.7,modularui@1.1.24,defaultserverlist@1.4.0,NEIAddons|Forestry@GRADLETOKEN_VERSION,serverutilities@2.0.34,ThE-core@1.0.0.1,BiblioWoodsNatura@1.5,<CoFH ASM>@000,Automagy@0.28.2,ProjRed|Illumination@4.8.1-GTNH,hydroenergy@1.1.1,TMechworks@0.3.0,LogisticsPipes@1.0.8-GTNH,thaumicinsurgence@0.2.7,NotEnoughItems@2.4.13-GTNH,Thaumcraft@4.2.3.5,opensecurity@1.0.120-GTNH,Waila@1.6.5,eternalsingularity@1.1.2,PlayerAPI@1.4.3,unimixins-compat@0.1.14,appliedenergistics2-core@rv3-beta-292-GTNH,NEIAddons@GRADLETOKEN_VERSION,StorageDrawersForestry@1.11.17-GTNH,BiblioCraft@1.11.7,WarpTheory@1.2.17-GTNH,BuildCraft|Core@7.1.38,custommainmenu@1.10.3,OpenModsCore@0.10.6,betterloadingscreen@1.5.3-GTNH,bdlib@1.9.8-GTNH,NEIAddons|Developer@GRADLETOKEN_VERSION,tcinventoryscan@1.0.12-GTNH,ProjRed|Transmission@4.8.1-GTNH,naturescompass@1.3.6-GTNH,WR-CBE|Logic@1.4.8,DummyCore@1.17.0,WitcheryExtras@1.1.14,RWG@alpha-1.3.9-pre,BetterAchievements@0.1.3,MobiusCore@1.3.9-mapless,inventorytweaks@1.6.1,defaultworldgenerator@0.2,InGameInfoXML@2.8.5,Morpheus@1.7.10-1.6.21,EMT@1.3.8,findit@1.1.0,JourneyMapServer@1.0.5_MC1.7.10,GT++_Preloader@0.5-Beta,OpenBlocks@1.8.3-GTNH,harvestthenether@1.7.10,GoodGenerator@0.7.17,gasstation@0.5.1,EnderStorage@1.4.12,ForbiddenMagic@0.6.7-GTNH,alchgrate@1.0.3-GTNH,gregtech@MC1710,CropLoadCoreASM@0.0.2,CarpentersBlocks@3.4.1-GTNH,dsurround@1.0.6.4,EnderIO@2.5.9,Translocator@1.1.2.21,blockrenderer6343@1.0.6,no_fog@1.0.0,InfernalMobs@1.7.9-GTNH,neiintegration@1.3.3,miscutils@1.10.54,MrTJPCoreMod@1.1.5,Roguelike@1.5.3-GTNH,SpecialMobs@3.4.3,NEIAddons|Botany@GRADLETOKEN_VERSION,sleepingbag@0.1.4,gtnhlanth@0.11.9,thaumicenergistics@1.5.4-GTNH,Aroma1997Core@1.0.2.16,CodeChickenCore@1.1.13,mobsinfo@0.1.13-GTNH,YAMCore@0.5.86,MineTweaker3@3.2.13,openprinter@0.1.3-GTNH,GTTweaker@2.0.5,ThaumicTinkerer-preloader@0.1,oauth@1.06.1-GTNH,structurelib@1.2.9,bartworks@0.8.23,lwjgl3ify@1.5.7,gtnhmixins@2.1.15,NodalMechanics@1.1.-6-GTNH,TravellersGear@1.16.6,adventurebackpack@1.0.17-GTNH,gtneioreplugin@1.1.3,gadomancy@1.2.0,betterp2p@1.1.20,Baubles@1.0.3,ProjRed|Core@4.8.1-GTNH,gtnhintergalactic@1.2.9,mxrandom@0.2.0,FloodLights@1.2.9,TML@4.1.0-GTNH,ArchitectureCraft@1.8.6,ProjRed|Exploration@4.8.1-GTNH,holoinventory@2.3.2-GTNH,Forestry@4.7.1,ae2wct@1.10.1,Schematica@1.9.4-GTNH,OpenMods@0.10.6,ifu@1.9.6,RIO@2.4.8,tcneiadditions@1.2.2,GalacticraftCore@3.0.75-GTNH,BiblioWoodsBoP@1.9,torohealthmod@1.0.4,tc4tweak@1.5.18,tcnodetracker@1.1.7,netherportalfix@1.1.2,questbook@3.4.7-GTNH,battlegear2@1.3.0,ForgeMicroblock@1.4.1,botanichorizons@1.0.19-GTNH,Ztones@1.7.10,ThaumicExploration@1.2.0-GTNH,duradisplay@1.1.7,EnderZoo@1.0.23,MagicBees@2.7.1-GTNH,ProjRed|Integration@4.8.1-GTNH,betterquesting@3.4.7-GTNH,controlling@2.0.1,cookingforblockheads@1.2.16-GTNH,txloader@1.6.3,compactkineticgenerators@1.7.10-1.0,neid@1.5.3,ae2stuff@0.6.0-GTNH,mixinextras@0.1.14,OpenComputers@1.9.21-GTNH,McMultipart@1.4.1,kekztech@0.9.6,gravisuiteneo@1.0.20,ProjRed|Fabrication@4.8.1-GTNH,SuperTic@1.2.5,ExtraUtilities@1.2.12,Railcraft@9.15.3,amazingtrophies@1.1.4,detravscannermod@1.7.2,bq_standard@3.4.7-GTNH,WR-CBE|Addons@1.4.8,IC2NuclearControl@2.5.1,StevesCarts@2.0.2,MCFrames@0.0.3,ThaumicHorizons@1.4.2,BiblioWoodsForestry@1.7,ironchestminecarts@1.0.8,structurecompat@0.4.0,FastCraft@1.25,Forge@10.13.4.1614,avaritiaddons@1.6.0-GTNH,croploadcore@0.1.10,HardcoreDarkness@1.7,tinkersdefense@1.2,OpenComputers|Core@@VERSION@,ThaumicTinkerer@2.8.5,ThaumcraftResearchTweaks@1.0.6,OilTweak@1.0.4,AdvancedSolarPanel@1.7.10-3.5.1,AFSU@1.2.6-GTNH,JABBA@1.3.1,angermod@0.6.3,ProjRed|Transportation@4.8.1-GTNH,mixingasm@0.3,AppleCore@3.2.12,cb4bq@3.4.7-GTNH,bartworkscrossmod@0.8.23,TiCTooltips@1.3.0,universalsingularities@8.6.7,supersolarpanel@1.7.10-1.1.1-GT-NH-Mod,GalacticraftAmunRa@0.5.0,HungerOverhaul@1.0.4-GTNH,gtnhlib@0.0.13,visualprospecting@1.2.1,ThaumicMachina@0.2.1,NEIAddons|CraftingTables@GRADLETOKEN_VERSION,NEIAddons|ExNihilo@GRADLETOKEN_VERSION,WailaHarvestability@1.1.10-GTNH,unimixins@0.1.14,Botania@1.10.3-GTNH,bartworkscrossmodtgregworkscontainer@0.8.23,personalspace@1.0.28,beebetteratbees@0.3.1-GTNH,Avaritia@1.46,craftpresence@2.2.5,ForgeRelocation@0.0.3,ProjRed|Compatibility@4.8.1-GTNH,TConstruct@1.10.13-GTNH,asielib@0.5.4,StevesFactoryManager@1.1.7-GTNH,BinnieCore@2.2.4,inpure|core@1.1.5-GTNH,sharewhereiam@2.0.2,RelocationFMP@0.0.4,wawla@1.1.3-GTNH,Genetics@2.2.4,mcp@9.05,unimixins-mixin@0.1.14,Mantle@0.3.7,journeymap@5.1.4p6,appliedenergistics2@rv3-beta-292-GTNH,SGCraft@1.3.13-GTNH,thaumcraftneiplugin@@VERSION@,AromaBackupRecovery@1.0,GRADLETOKEN_MODID@GRADLETOKEN_VERSION,DraconicEvolution@1.2.1-GTNH,WR-CBE|Core@1.4.8,StorageDrawersMisc@1.11.18-GTNH,harvestcraft@1.1.4-GTNH,TaintedMagic@r7.6,TwilightForest@2.5.1,BuildCraft|Factory@7.1.38,ProjectBlue@1.1.12-GTNH,computronics@1.7.1-GTNH,GraviSuite@1.7.10-2.0.3,nutrition@0.0.5,NEIAddons|AppEng@GRADLETOKEN_VERSION,neicustomdiagram@1.5.14,GalacticraftMars@3.0.75-GTNH,BuildCraft|Compat@7.1.16,wailaplugins@0.3.0,HelpFixer@1.1.0,neenergistics@1.4.6,AWWayofTime@1.4.3,IronChest@6.0.74,RandomThings@2.4.6,creativecore@1.3.31-GTNH,bugtorch@1.2.12-GTNH,thaumicbases@1.5.6,SpiceOfLife@2.1.1-carrot,thaumicboots@1.1.0,StorageDrawersNatura@1.11.17-GTNH,spongemixins@2.0.1,BuildCraft|Transport@7.1.38,StorageDrawersBop@1.11.17-GTNH,wanionlib@1.8.4,Aroma1997CoreHelper@1.0.2.16,chisel@2.12.3-GTNH,StevesAddons@0.10.27,Backpack@2.2.12-GTNH,ToxicEverglades@1.10.54,ThaumcraftMobAspects@1.0.0-GTNH,witchery@0.24.1,overloadedarmorbar@1.0.3,WitchingGadgets@1.3.6-GTNH,BuildCraft|Builders@7.1.38,ggfab@0.3.9,chiseltones@1.0.4-GTNH,littletiles@1.2.9-GTNH,tectech@5.3.23,BloodArsenal@1.2.11
+[23:55:16] [Netty IO #2/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[23:55:16] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:55:16] [Netty IO #2/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:74): Sending id data for player: EntityPlayerMP['RedSmelterDemon'/1000215, l='World', x=57.50, y=92.00, z=13.50]
+[23:55:17] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:55:17] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:55:17] [Netty IO #2/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:55:17] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[23:55:17] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: RedSmelterDemon
+[23:55:17] [Server thread/INFO] [EnderCore/]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[23:55:17] [Server thread/INFO] [kubatech/]: Sending config to RedSmelterDemon
+[23:55:17] [Server thread/INFO] [mobsinfo/]: Sending config to RedSmelterDemon
+[23:55:17] [Server thread/INFO] [EnderCore/]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[23:55:17] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: RedSmelterDemon
+[23:55:17] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: RedSmelterDemon
+[23:55:17] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['RedSmelterDemon'/1000215, l='World', x=-1864.78, y=71.00, z=-6034.13] connected. Sending ping
+[23:55:17] [Thread-76/INFO] [betterquesting/]: Start force party quest sync
+[23:55:17] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player RedSmelterDemon
+[23:55:18] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: RedSmelterDemon
+[23:55:18] [Server thread/INFO] [JourneyMapServer/]: RedSmelterDemon is an EntityPlayerMP attempting to send the worldId packet
+[23:55:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2830 times.
+
+[23:55:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:56:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2835 times.
+
+[23:56:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:57:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:57:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2840 times.
+
+[23:58:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:58:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2845 times.
+
+[23:58:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:59:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2850 times.
+
+[23:59:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[23:59:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2855 times.
+
+[00:00:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:00:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2860 times.
+
+[00:01:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:01:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2865 times.
+
+[00:01:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:02:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2870 times.
+
+[00:02:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:03:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2875 times.
+
+[00:03:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:04:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2880 times.
+
+[00:04:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:04:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:04:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2885 times.
+
+[00:05:23] [Server thread/INFO] [Morpheus/]: Augustym_ is now sleeping. 1/2 (50%)
+[00:05:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:05:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2890 times.
+
+[00:06:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:06:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2895 times.
+
+[00:07:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:07:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2900 times.
+
+[00:07:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:08:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2905 times.
+
+[00:08:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:09:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2910 times.
+
+[00:09:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:09:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2915 times.
+
+[00:10:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:10:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2920 times.
+
+[00:10:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:11:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2925 times.
+
+[00:11:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:12:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:12:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2930 times.
+
+[00:12:33] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: RedSmelterDemon
+[00:13:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:13:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2935 times.
+
+[00:13:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:14:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2940 times.
+
+[00:14:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:14:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2945 times.
+
+[00:15:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:15:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2950 times.
+
+[00:16:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:16:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2955 times.
+
+[00:16:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:17:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2960 times.
+
+[00:17:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:18:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2965 times.
+
+[00:18:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:19:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2970 times.
+
+[00:19:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:19:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:19:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2975 times.
+
+[00:20:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:20:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2980 times.
+
+[00:21:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:21:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2985 times.
+
+[00:22:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:22:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2990 times.
+
+[00:22:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:23:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 2995 times.
+
+[00:23:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:24:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3000 times.
+
+[00:24:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:24:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3005 times.
+
+[00:25:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:25:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3010 times.
+
+[00:25:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:26:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3015 times.
+
+[00:26:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:27:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:27:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3020 times.
+
+[00:28:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:28:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3025 times.
+
+[00:28:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:29:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3030 times.
+
+[00:29:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:29:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3035 times.
+
+[00:30:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:30:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3040 times.
+
+[00:31:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:31:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3045 times.
+
+[00:31:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:32:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3050 times.
+
+[00:32:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:33:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3055 times.
+
+[00:33:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:34:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3060 times.
+
+[00:34:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:34:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:34:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3065 times.
+
+[00:35:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:35:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3070 times.
+
+[00:36:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:36:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3075 times.
+
+[00:36:39] [Netty IO #4/TRACE] [FML/]: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:36:39] [Netty IO #4/INFO] [FML/]: Client protocol version 2
+[00:36:39] [Netty IO #4/TRACE] [FML/]: $ModList:302 mods->FMLHandshakeServerState$2:HELLO
+[00:36:39] [Netty IO #4/INFO] [FML/]: Client attempting to join with 302 mods : BuildCraft|Silicon@7.1.38,AromaBackup@0.1.0.0,ProjRed|Expansion@4.8.1-GTNH,ExtraBees@2.2.4,HardcoreEnderExpansion@1.9.7-GTNH,blocklimiter@0.55,MouseTweaks@2.4.9-GTNH,Botany@2.2.4,dreamcraft@2.2.55,endercore@0.2.19,travellersgearneo@1.0,mixinbooterlegacy@1.2.1,BWCore@0.0.1,BuildCraft|Robotics@7.1.38,kubatech@0.13.12,irontank@1.2.6,forgelin@1.9.6-GTNH,galacticgreg@1.0.10,Ic2Nei@1.2.1,openglasses@1.4.2-GTNH,GalaxySpace@1.2.15-GTNH,betterbuilderswands@0.10.1-GTNH,BiomesOPlenty@2.1.0,LunatriusCore@1.1.7-GTNH,bettercrashes@1.3.5-GTNH,gtnhtcwands@1.3.1,openmodularturrets@2.2.11-247,ForgeMultipart@1.4.1,hodgepodge@2.3.41,lootgames@2.0.8,malisisdoors@1.14.0-GTNH,berriespp@1.5.12,matmos@1.7.10-36.0.1,BrandonsCore@1.0.0.13-GTNH,CoFHCore@1.7.10R3.1.4,malisiscore@0.14.9,catwalks@2.0.4,defaultkeys@1.1.6,ExtraTrees@2.2.4,ae2fc@1.1.74-gtnh,StorageDrawers@1.12.2-GTNH,gendustry@1.6.5.5-GTNH,TGregworks@GTNH-1.0.25,enhancedlootbags@1.1.0,BuildCraft|Energy@7.1.38,modtweaker2@0.9.10,IC2@2.2.828-experimental,WitcheryExtras_ASM@0.1-Beta,IguanaTweaksTConstruct@2.3.0,FML@7.10.99.99,Natura@2.5.7,modularui@1.1.24,defaultserverlist@1.4.0,NEIAddons|Forestry@GRADLETOKEN_VERSION,serverutilities@2.0.34,ThE-core@1.0.0.1,BiblioWoodsNatura@1.5,<CoFH ASM>@000,Automagy@0.28.2,ProjRed|Illumination@4.8.1-GTNH,hydroenergy@1.1.1,TMechworks@0.3.0,LogisticsPipes@1.0.8-GTNH,thaumicinsurgence@0.2.7,NotEnoughItems@2.4.13-GTNH,Thaumcraft@4.2.3.5,opensecurity@1.0.120-GTNH,Waila@1.6.5,eternalsingularity@1.1.2,PlayerAPI@1.4.3,unimixins-compat@0.1.11,appliedenergistics2-core@rv3-beta-292-GTNH,NEIAddons@GRADLETOKEN_VERSION,StorageDrawersForestry@1.11.17-GTNH,BiblioCraft@1.11.7,WarpTheory@1.2.17-GTNH,BuildCraft|Core@7.1.38,custommainmenu@1.10.3,OpenModsCore@0.10.6,betterloadingscreen@1.5.3-GTNH,bdlib@1.9.8-GTNH,NEIAddons|Developer@GRADLETOKEN_VERSION,tcinventoryscan@1.0.12-GTNH,ProjRed|Transmission@4.8.1-GTNH,naturescompass@1.3.6-GTNH,WR-CBE|Logic@1.4.8,DummyCore@1.17.0,WitcheryExtras@1.1.14,RWG@alpha-1.3.9-pre,BetterAchievements@0.1.3,MobiusCore@1.3.9-mapless,inventorytweaks@1.6.1,defaultworldgenerator@0.2,InGameInfoXML@2.8.5,EMT@1.3.8,findit@1.1.0,GT++_Preloader@0.5-Beta,OpenBlocks@1.8.3-GTNH,harvestthenether@1.7.10,GoodGenerator@0.7.17,gasstation@0.5.1,EnderStorage@1.4.12,ForbiddenMagic@0.6.7-GTNH,alchgrate@1.0.3-GTNH,gregtech@MC1710,CropLoadCoreASM@0.0.2,CarpentersBlocks@3.4.1-GTNH,dsurround@1.0.6.4,EnderIO@2.5.9,Translocator@1.1.2.21,blockrenderer6343@1.0.6,no_fog@1.0.0,InfernalMobs@1.7.9-GTNH,neiintegration@1.3.3,miscutils@1.10.54,MrTJPCoreMod@1.1.5,Roguelike@1.5.3-GTNH,SpecialMobs@3.4.3,NEIAddons|Botany@GRADLETOKEN_VERSION,sleepingbag@0.1.4,gtnhlanth@0.11.9,thaumicenergistics@1.5.4-GTNH,Aroma1997Core@1.0.2.16,CodeChickenCore@1.1.13,mobsinfo@0.1.13-GTNH,YAMCore@0.5.86,MineTweaker3@3.2.13,openprinter@0.1.3-GTNH,GTTweaker@2.0.5,ThaumicTinkerer-preloader@0.1,oauth@1.06.1-GTNH,structurelib@1.2.9,bartworks@0.8.23,gtnhmixins@2.1.13,NodalMechanics@1.1.-6-GTNH,TravellersGear@1.16.6,adventurebackpack@1.0.17-GTNH,gtneioreplugin@1.1.3,gadomancy@1.2.0,betterp2p@1.1.20,Baubles@1.0.3,ProjRed|Core@4.8.1-GTNH,gtnhintergalactic@1.2.9,mxrandom@0.2.0,FloodLights@1.2.9,TML@4.1.0-GTNH,ArchitectureCraft@1.8.6,ProjRed|Exploration@4.8.1-GTNH,holoinventory@2.3.2-GTNH,Forestry@4.7.1,ae2wct@1.10.1,Schematica@1.9.3-GTNH,OpenMods@0.10.6,ifu@1.9.6,RIO@2.4.8,tcneiadditions@1.2.2,GalacticraftCore@3.0.75-GTNH,BiblioWoodsBoP@1.9,torohealthmod@1.0.1,tc4tweak@1.5.15,tcnodetracker@1.1.7,netherportalfix@1.1.2,questbook@3.4.7-GTNH,battlegear2@1.3.0,ForgeMicroblock@1.4.1,botanichorizons@1.0.19-GTNH,Ztones@1.7.10,ThaumicExploration@1.2.0-GTNH,duradisplay@1.0.10,EnderZoo@1.0.23,MagicBees@2.7.1-GTNH,ProjRed|Integration@4.8.1-GTNH,betterquesting@3.4.7-GTNH,controlling@2.0.1,cookingforblockheads@1.2.16-GTNH,txloader@1.6.3,compactkineticgenerators@1.7.10-1.0,neid@1.5.3,ae2stuff@0.6.0-GTNH,mixinextras@0.1.11,OpenComputers@1.9.21-GTNH,McMultipart@1.4.1,kekztech@0.9.6,gravisuiteneo@1.0.20,ProjRed|Fabrication@4.8.1-GTNH,SuperTic@1.2.5,ExtraUtilities@1.2.12,Railcraft@9.15.3,amazingtrophies@1.1.4,detravscannermod@1.7.2,bq_standard@3.4.7-GTNH,WR-CBE|Addons@1.4.8,IC2NuclearControl@2.5.1,StevesCarts@2.0.2,MCFrames@0.0.3,ThaumicHorizons@1.4.2,BiblioWoodsForestry@1.7,ironchestminecarts@1.0.8,structurecompat@0.4.0,FastCraft@1.25,Forge@10.13.4.1614,avaritiaddons@1.6.0-GTNH,croploadcore@0.1.10,HardcoreDarkness@1.7,tinkersdefense@1.2,OpenComputers|Core@@VERSION@,ThaumicTinkerer@2.8.5,ThaumcraftResearchTweaks@1.0.6,OilTweak@1.0.4,AdvancedSolarPanel@1.7.10-3.5.1,AFSU@1.2.6-GTNH,JABBA@1.3.1,angermod@0.6.3,ProjRed|Transportation@4.8.1-GTNH,mixingasm@0.2.2,AppleCore@3.2.12,cb4bq@3.4.7-GTNH,bartworkscrossmod@0.8.23,TiCTooltips@1.3.0,universalsingularities@8.6.7,supersolarpanel@1.7.10-1.1.1-GT-NH-Mod,GalacticraftAmunRa@0.5.0,HungerOverhaul@1.0.4-GTNH,gtnhlib@0.0.13,visualprospecting@1.2.1,ThaumicMachina@0.2.1,NEIAddons|CraftingTables@GRADLETOKEN_VERSION,NEIAddons|ExNihilo@GRADLETOKEN_VERSION,WailaHarvestability@1.1.10-GTNH,unimixins@0.1.11,Botania@1.10.3-GTNH,bartworkscrossmodtgregworkscontainer@0.8.23,personalspace@1.0.28,beebetteratbees@0.3.1-GTNH,Avaritia@1.46,craftpresence@2.2.5,ForgeRelocation@0.0.3,ProjRed|Compatibility@4.8.1-GTNH,TConstruct@1.10.13-GTNH,asielib@0.5.4,StevesFactoryManager@1.1.7-GTNH,BinnieCore@2.2.4,inpure|core@1.1.5-GTNH,sharewhereiam@2.0.2,RelocationFMP@0.0.4,wawla@1.1.3-GTNH,Genetics@2.2.4,mcp@9.05,unimixins-mixin@0.1.11,Mantle@0.3.7,journeymap@5.1.4p6,appliedenergistics2@rv3-beta-292-GTNH,SGCraft@1.3.13-GTNH,thaumcraftneiplugin@@VERSION@,AromaBackupRecovery@1.0,GRADLETOKEN_MODID@GRADLETOKEN_VERSION,DraconicEvolution@1.2.1-GTNH,WR-CBE|Core@1.4.8,StorageDrawersMisc@1.11.18-GTNH,harvestcraft@1.1.4-GTNH,TaintedMagic@r7.6,TwilightForest@2.5.1,BuildCraft|Factory@7.1.38,ProjectBlue@1.1.12-GTNH,computronics@1.7.1-GTNH,GraviSuite@1.7.10-2.0.3,nutrition@0.0.5,NEIAddons|AppEng@GRADLETOKEN_VERSION,neicustomdiagram@1.5.14,GalacticraftMars@3.0.75-GTNH,BuildCraft|Compat@7.1.16,wailaplugins@0.3.0,HelpFixer@1.1.0,neenergistics@1.4.6,AWWayofTime@1.4.3,IronChest@6.0.74,RandomThings@2.4.6,creativecore@1.3.31-GTNH,bugtorch@1.2.12-GTNH,thaumicbases@1.5.6,SpiceOfLife@2.1.1-carrot,thaumicboots@1.1.0,StorageDrawersNatura@1.11.17-GTNH,spongemixins@2.0.1,BuildCraft|Transport@7.1.38,StorageDrawersBop@1.11.17-GTNH,wanionlib@1.8.4,Aroma1997CoreHelper@1.0.2.16,chisel@2.12.3-GTNH,StevesAddons@0.10.27,Backpack@2.2.12-GTNH,ToxicEverglades@1.10.54,ThaumcraftMobAspects@1.0.0-GTNH,witchery@0.24.1,overloadedarmorbar@1.0.3,WitchingGadgets@1.3.6-GTNH,BuildCraft|Builders@7.1.38,ggfab@0.3.9,chiseltones@1.0.4-GTNH,littletiles@1.2.9-GTNH,tectech@5.3.23,BloodArsenal@1.2.11
+[00:36:39] [Netty IO #4/INFO] [FML/]: Attempting connection with missing mods [JourneyMapServer, Morpheus] at CLIENT
+[00:36:39] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:36:39] [Netty IO #4/DEBUG] [OpenMods/]: openmods.network.IdSyncManager$InboundHandler.userEventTriggered(IdSyncManager.java:74): Sending id data for player: EntityPlayerMP['herobrainbraga'/1078492, l='World', x=72.50, y=107.00, z=12.50]
+[00:36:40] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:36:40] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:36:40] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[00:36:40] [Netty IO #4/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:36:40] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: herobrainbraga
+[00:36:40] [Server thread/INFO] [EnderCore/]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[00:36:40] [Server thread/INFO] [kubatech/]: Sending config to herobrainbraga
+[00:36:40] [Thread-81/INFO] [betterquesting/]: Start force party quest sync
+[00:36:40] [Server thread/INFO] [mobsinfo/]: Sending config to herobrainbraga
+[00:36:40] [Thread-81/INFO] [betterquesting/]: Force party quest sync: completed 1 quests for 7800f48a-7838-4eb7-950f-43ec1aa76cf7 (Ravara)
+[00:36:40] [Thread-81/INFO] [betterquesting/]: Force party quest sync: completed 1 quests for 59885135-c7a2-4d45-b554-625602c74866 (herobrainbraga)
+[00:36:40] [Thread-81/INFO] [betterquesting/]: Force party quest sync: completed 1 quests for 3f4be91d-e2b4-432b-ba2d-ae289c46c6a0 (RedSmelterDemon)
+[00:36:40] [Server thread/INFO] [EnderCore/]: Sending server configs to client for tterrag.wailaplugins.config.WPConfigHandler
+[00:36:40] [Server thread/DEBUG] [NotEnoughItems/]: Loading Player: herobrainbraga
+[00:36:40] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: herobrainbraga
+[00:36:40] [Server thread/INFO] [Waila/]: Player EntityPlayerMP['herobrainbraga'/1078492, l='World', x=-1874.68, y=71.00, z=-6051.10] connected. Sending ping
+[00:36:40] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player herobrainbraga
+[00:36:43] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: herobrainbraga
+[00:36:43] [Server thread/INFO] [JourneyMapServer/]: herobrainbraga is an EntityPlayerMP attempting to send the worldId packet
+[00:36:51] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: herobrainbraga
+[00:36:51] [Server thread/INFO] [JourneyMapServer/]: herobrainbraga is an EntityPlayerMP attempting to send the worldId packet
+[00:37:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:37:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3080 times.
+
+[00:37:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:38:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3085 times.
+
+[00:38:26] [Server thread/INFO] [Morpheus/]: herobrainbraga is now sleeping. 1/2 (50%)
+[00:38:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:39:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3090 times.
+
+[00:39:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:39:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3095 times.
+
+[00:40:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:40:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3100 times.
+
+[00:40:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:41:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3105 times.
+
+[00:41:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:42:19] [Server thread/INFO] [Server Utilities/]: Augustym_ is now AFK
+[00:42:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:42:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3110 times.
+
+[00:43:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:43:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3115 times.
+
+[00:43:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:44:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3120 times.
+
+[00:44:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:44:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3125 times.
+
+[00:45:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:45:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3130 times.
+
+[00:46:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:46:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3135 times.
+
+[00:46:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:47:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3140 times.
+
+[00:47:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:48:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3145 times.
+
+[00:48:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:49:02] [Server thread/INFO] [Morpheus/]: herobrainbraga is now sleeping. 1/2 (50%)
+[00:49:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3150 times.
+
+[00:49:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:49:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:49:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3155 times.
+
+[00:50:22] [Server thread/INFO] [Server Utilities/]: Augustym_ is no longer AFK
+[00:50:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:50:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3160 times.
+
+[00:51:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:51:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3165 times.
+
+[00:52:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:52:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3170 times.
+
+[00:52:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:53:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3175 times.
+
+[00:53:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:54:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3180 times.
+
+[00:54:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:54:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3185 times.
+
+[00:55:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:55:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3190 times.
+
+[00:55:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:56:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3195 times.
+
+[00:56:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:57:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:57:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3200 times.
+
+[00:58:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:58:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3205 times.
+
+[00:58:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:59:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3210 times.
+
+[00:59:36] [Server thread/INFO] [Morpheus/]: herobrainbraga is now sleeping. 1/2 (50%)
+[00:59:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[00:59:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3215 times.
+
+[01:00:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[01:00:48] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Augustym_
+[01:00:49] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3220 times.
+
+[01:01:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[01:01:32] [Netty IO #4/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Connection reset by peer
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[?:1.8.0_402]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[?:1.8.0_402]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_402]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_402]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379) ~[?:1.8.0_402]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:436) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:870) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:480) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_402]
+[01:01:32] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: herobrainbraga
+[01:01:39] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3225 times.
+
+[01:01:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[01:02:29] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3230 times.
+
+[01:02:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[01:03:19] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3235 times.
+
+[01:03:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[01:04:09] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3240 times.
+
+[01:04:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[01:04:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[01:04:59] [Server thread/DEBUG] [FML/]: The world 7a1b03e6 (World) may have leaked: seen 3245 times.
+
