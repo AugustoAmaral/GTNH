@@ -22,3 +22,5 @@
 [09:36:51] [User Authenticator #3/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
 [09:36:52] [Server thread/INFO]: Augustym_[/177.98.68.244:49542] logged in with entity id 325537 at (-1845.6761534929265, 53.0, -6028.400536717332)
 [09:36:52] [Server thread/INFO]: Augustym_ joined the game
+[10:54:50] [Server thread/WARN]: Fetching addPacket for removed entity
+[10:55:19] [Server thread/WARN]: Fetching addPacket for removed entity
