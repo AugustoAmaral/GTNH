@@ -1,26 +1,69 @@
-[04:00:29] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[04:01:34] [Server thread/INFO]: Loading properties
-[04:01:34] [Server thread/INFO]: Default game type: SURVIVAL
-[04:01:34] [Server thread/INFO]: Generating keypair
-[04:01:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:03:36] [Server thread/INFO]: Preparing level "World"
-[04:03:38] [Server thread/INFO]: Preparing start region for level 0
-[04:03:39] [Server thread/INFO]: Preparing spawn area: 55%
-[04:03:39] [Server thread/INFO]: Done (4.063s)! For help, type "help" or "?"
-[04:03:44] [Server thread/INFO]: Reloaded default quest database
-[04:09:44] [User Authenticator #1/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[04:09:45] [Server thread/INFO]: Ravara[/177.131.185.95:9919] logged in with entity id 1948 at (-1929.7308223408343, 104.0, -6156.539996325773)
-[04:09:45] [Server thread/INFO]: Ravara joined the game
-[04:12:28] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:12:28] [Server thread/INFO]: Ravara left the game
-[05:14:34] [User Authenticator #2/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[05:14:35] [Server thread/INFO]: Ravara[/177.131.185.95:9881] logged in with entity id 15483 at (-1875.5, 71.0, -6046.5)
-[05:14:35] [Server thread/INFO]: Ravara joined the game
-[06:33:27] [Server thread/INFO]: Ravara has just earned the achievement [Repopulation]
-[06:58:15] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[06:58:15] [Server thread/INFO]: Ravara left the game
-[09:36:51] [User Authenticator #3/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
-[09:36:52] [Server thread/INFO]: Augustym_[/177.98.68.244:49542] logged in with entity id 325537 at (-1845.6761534929265, 53.0, -6028.400536717332)
-[09:36:52] [Server thread/INFO]: Augustym_ joined the game
-[10:54:50] [Server thread/WARN]: Fetching addPacket for removed entity
-[10:55:19] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:00:29] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[16:01:34] [Server thread/INFO]: Loading properties
+[16:01:34] [Server thread/INFO]: Default game type: SURVIVAL
+[16:01:34] [Server thread/INFO]: Generating keypair
+[16:01:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:03:39] [Server thread/INFO]: Preparing level "World"
+[16:03:41] [Server thread/INFO]: Preparing start region for level 0
+[16:03:42] [Server thread/INFO]: Preparing spawn area: 57%
+[16:03:42] [Server thread/INFO]: Done (3.968s)! For help, type "help" or "?"
+[16:03:47] [Server thread/INFO]: Reloaded default quest database
+[16:04:38] [User Authenticator #1/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[16:04:39] [Server thread/INFO]: herobrainbraga[/177.47.131.33:45248] logged in with entity id 1700 at (-1822.4869108216974, 70.0, -6106.802527019364)
+[16:04:39] [Server thread/INFO]: herobrainbraga joined the game
+[16:04:42] [User Authenticator #2/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[16:04:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2654ms behind, skipping 53 tick(s)
+[16:04:43] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:04:43] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:04:43] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:04:43] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:04:43] [Server thread/INFO]: Ravara[/177.131.185.95:9203] logged in with entity id 2253 at (-1888.2941031195223, 73.0, -6070.322328423892)
+[16:04:43] [Server thread/INFO]: Ravara joined the game
+[16:04:49] [Server thread/INFO]: <herobrainbraga> hello 2
+[16:04:51] [Server thread/INFO]: <herobrainbraga> kkkkk
+[16:05:06] [Server thread/INFO]: <Ravara> olá 2 kkk
+[16:11:46] [Server thread/INFO]: <Ravara> drawer 2x2 ta bom?
+[16:11:54] [Server thread/INFO]: <Ravara> quer dizer, 1x2
+[16:13:26] [Server thread/INFO]: <herobrainbraga> opa
+[16:13:29] [Server thread/INFO]: <herobrainbraga> yep yep
+[16:13:35] [Server thread/INFO]: <herobrainbraga> dx eu ver qnt vai precisar
+[16:13:47] [Server thread/INFO]: <herobrainbraga> 8 drawr
+[16:13:50] [Server thread/INFO]: <Ravara> fiz 10
+[16:13:52] [User Authenticator #3/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[16:13:53] [Server thread/INFO]: Augustym_[/177.98.68.244:60403] logged in with entity id 22354 at (-2086.3962732663736, 43.0, -5791.540197536436)
+[16:13:53] [Server thread/INFO]: Augustym_ joined the game
+[16:13:54] [Server thread/INFO]: <herobrainbraga> opa ai sim
+[16:14:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f71566d[id=<null>,name=Augustym_,properties={},legacy=false] (/177.98.68.244:60400) lost connection: Disconnected
+[16:14:33] [Server thread/INFO]: <Augustym_> oi
+[16:14:38] [Server thread/INFO]: <Ravara> oi
+[16:15:00] [Server thread/INFO]: <herobrainbraga> mlr nao em cima
+[16:15:04] [Server thread/INFO]: <herobrainbraga> pq do jeito q ta agr
+[16:15:10] [Server thread/INFO]: <herobrainbraga> a organizado por garden type
+[16:15:40] [Server thread/INFO]: <herobrainbraga> deu certinho
+[16:15:42] [Server thread/INFO]: <herobrainbraga> kskkass
+[16:15:47] [Server thread/INFO]: <Ravara> qqr coisa mais pra frente eu mudo
+[16:15:49] [Server thread/INFO]: <Ravara> pq essa area aqui
+[16:15:52] [Server thread/INFO]: <Ravara> onde tem o tijolo
+[16:15:55] [Server thread/INFO]: <Ravara> é pra ser a cozinha
+[16:16:00] [Server thread/INFO]: <Ravara> ai vai ter os cabinets e tal
+[16:16:03] [Server thread/INFO]: <herobrainbraga> eh a gente vai ter q botar
+[16:16:18] [Server thread/INFO]: <Ravara> fridge, oven e tals
+[16:16:23] [Server thread/INFO]: <herobrainbraga> uhum
+[16:16:25] [Server thread/INFO]: <Ravara> a proposito
+[16:16:31] [Server thread/INFO]: <herobrainbraga> nao acha mlr fazer nesse canto aqui nao
+[16:16:42] [Server thread/INFO]: <Ravara> to torrando a durabilidade da minha butcher knife pra transformar ela em mais um utensilho do pam
+[16:16:54] [Server thread/INFO]: <herobrainbraga> blz
+[16:17:05] [Server thread/INFO]: <Ravara> é que achei que ia ficar apertado
+[16:17:16] [Server thread/INFO]: <Ravara> qqr coisa puxo a construção +1 bloco
+[16:17:25] [Server thread/INFO]: <herobrainbraga> ok
+[16:17:31] [Server thread/INFO]: <Ravara> já acostumei a derrubar as casinhas dos vilagers, uma parede é mole kkkkk
+[16:17:35] [Server thread/INFO]: <herobrainbraga> kkkkk
+[16:17:56] [Server thread/INFO]: <herobrainbraga> rapidin ja volto
+[16:17:58] [Server thread/INFO]: herobrainbraga lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:17:58] [Server thread/INFO]: herobrainbraga left the game
+[16:19:16] [Server thread/INFO]: <Ravara> é muita vaca né cara
+[16:19:17] [Server thread/INFO]: <Ravara> surreal
+[16:19:24] [Server thread/INFO]: <Ravara> nunca vi tanta vaca no mine
+[16:22:13] [Server thread/INFO]: <Ravara> brb
+[16:56:24] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:56:24] [Server thread/INFO]: Augustym_ left the game
