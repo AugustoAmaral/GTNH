@@ -13,3 +13,9 @@
 [04:11:50] [Server thread/INFO]: Ravara joined the game
 [05:17:14] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [05:17:14] [Server thread/INFO]: Ravara left the game
+[12:58:07] [User Authenticator #2/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[12:58:07] [Server thread/INFO]: Augustym_[/177.98.68.244:50423] logged in with entity id 170571 at (-1861.429425756759, 71.0, -6028.508669945736)
+[12:58:07] [Server thread/INFO]: Augustym_ joined the game
+[13:23:57] [Server thread/INFO]: Augustym_ drowned
+[13:25:59] [Server thread/INFO]: Opped augustym_
+[13:26:06] [Server thread/INFO]: <Augustym_> a
