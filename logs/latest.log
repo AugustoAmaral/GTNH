@@ -22,3 +22,12 @@
 [16:57:00] [Server thread/INFO]: Ravara was slain by Brutish Zombie
 [17:11:24] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [17:11:24] [Server thread/INFO]: Ravara left the game
+[17:35:38] [User Authenticator #3/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[17:35:39] [Server thread/INFO]: Ravara[/177.131.185.95:9961] logged in with entity id 119260 at (-1923.300000011921, 11.0, -6095.300000011921)
+[17:35:39] [Server thread/INFO]: Ravara joined the game
+[17:38:38] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:38:38] [Server thread/INFO]: Ravara left the game
+[18:12:00] [User Authenticator #4/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[18:12:01] [Server thread/INFO]: Ravara[/177.131.185.95:9746] logged in with entity id 125918 at (-1926.6646042937246, 10.0, -6101.699999988079)
+[18:12:01] [Server thread/INFO]: Ravara joined the game
+[18:27:34] [Server thread/INFO]: Ravara was slain by Zombie
