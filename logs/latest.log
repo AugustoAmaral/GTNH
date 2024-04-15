@@ -19,3 +19,8 @@
 [16:13:59] [Server thread/INFO]: Ravara joined the game
 [16:22:57] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [16:22:57] [Server thread/INFO]: Ravara left the game
+[19:13:00] [User Authenticator #3/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[19:13:01] [Server thread/INFO]: Ravara[/177.131.185.95:9879] logged in with entity id 236336 at (-1873.5457752563432, 71.0, -6039.487886142402)
+[19:13:01] [Server thread/INFO]: Ravara joined the game
+[19:20:26] [Server thread/WARN]: Fetching addPacket for removed entity
+[19:20:26] [Server thread/WARN]: Fetching addPacket for removed entity
