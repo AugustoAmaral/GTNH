@@ -14,3 +14,8 @@
 [14:22:34] [Server thread/INFO]: Ravara has just earned the achievement [Learning to Tinker]
 [15:33:01] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [15:33:01] [Server thread/INFO]: Ravara left the game
+[16:13:57] [User Authenticator #2/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[16:13:59] [Server thread/INFO]: Ravara[/177.131.185.95:9042] logged in with entity id 202007 at (-1871.742241422275, 71.0, -6052.2827602387815)
+[16:13:59] [Server thread/INFO]: Ravara joined the game
+[16:22:57] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:22:57] [Server thread/INFO]: Ravara left the game
