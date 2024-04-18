@@ -19,3 +19,8 @@
 [01:19:02] [Server thread/INFO]: Augustym_ joined the game
 [01:26:59] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [01:26:59] [Server thread/INFO]: Augustym_ left the game
+[01:53:18] [User Authenticator #3/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[01:53:19] [Server thread/INFO]: Augustym_[/177.47.141.117:28573] logged in with entity id 36273 at (-1799.7201109468385, 71.0, -6099.389560559377)
+[01:53:19] [Server thread/INFO]: Augustym_ joined the game
+[02:09:43] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:09:43] [Server thread/INFO]: Augustym_ left the game
