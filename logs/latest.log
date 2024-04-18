@@ -1,10 +1,26 @@
-[07:00:26] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[07:01:26] [Server thread/INFO]: Loading properties
-[07:01:26] [Server thread/INFO]: Default game type: SURVIVAL
-[07:01:26] [Server thread/INFO]: Generating keypair
-[07:01:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:03:19] [Server thread/INFO]: Preparing level "World"
-[07:03:21] [Server thread/INFO]: Preparing start region for level 0
-[07:03:22] [Server thread/INFO]: Preparing spawn area: 62%
-[07:03:22] [Server thread/INFO]: Done (3.751s)! For help, type "help" or "?"
-[07:03:27] [Server thread/INFO]: Reloaded default quest database
+[07:38:27] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[07:39:27] [Server thread/INFO]: Loading properties
+[07:39:27] [Server thread/INFO]: Default game type: SURVIVAL
+[07:39:27] [Server thread/INFO]: Generating keypair
+[07:39:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:41:23] [Server thread/INFO]: Preparing level "World"
+[07:41:25] [Server thread/INFO]: Preparing start region for level 0
+[07:41:26] [Server thread/INFO]: Preparing spawn area: 63%
+[07:41:26] [Server thread/INFO]: Done (3.766s)! For help, type "help" or "?"
+[07:41:31] [Server thread/INFO]: Reloaded default quest database
+[07:42:54] [User Authenticator #1/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[07:42:55] [Server thread/INFO]: Augustym_[/177.47.141.117:27981] logged in with entity id 1530 at (-1813.9477563002206, 70.0, -6086.9580265451705)
+[07:42:55] [Server thread/INFO]: Augustym_ joined the game
+[07:42:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2166ms behind, skipping 43 tick(s)
+[07:51:26] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[07:51:26] [Server thread/INFO]: Augustym_ left the game
+[07:51:39] [User Authenticator #2/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[07:51:40] [Server thread/INFO]: Augustym_[/177.47.141.117:27822] logged in with entity id 24178 at (-1850.8008048505808, 75.62680610533977, -6081.648254318943)
+[07:51:40] [Server thread/INFO]: Augustym_ joined the game
+[07:54:02] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[07:54:02] [Server thread/INFO]: Augustym_ left the game
+[07:54:12] [User Authenticator #3/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[07:54:13] [Server thread/INFO]: Augustym_[/177.47.141.117:27877] logged in with entity id 29758 at (-1836.3259319888027, 70.0, -6096.251600730524)
+[07:54:13] [Server thread/INFO]: Augustym_ joined the game
+[08:04:18] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[08:04:18] [Server thread/INFO]: Augustym_ left the game
