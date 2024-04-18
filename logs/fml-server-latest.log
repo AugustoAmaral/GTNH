@@ -30080,3 +30080,103 @@ java.io.IOException: Connection reset by peer
 [19:38:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [19:39:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [19:40:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:41:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:41:13] [Server thread/INFO] [Server Utilities/]: Augustym_ is now AFK
+[19:41:35] [Thread-99/INFO] [Server Utilities/]: Backing up 1634 files...
+[19:41:35] [Thread-99/INFO] [Server Utilities/]: Compressing 1634 files!
+[19:41:35] [Thread-99/INFO] [Server Utilities/]: [0 | 0%]: World/RandomThings.dat
+[19:41:40] [Thread-99/INFO] [Server Utilities/]: [458 | 28.02%]: World/region/r.-5.-9.mca
+[19:41:45] [Thread-99/INFO] [Server Utilities/]: [474 | 29%]: World/region/r.-2.-16.mca
+[19:41:51] [Thread-99/INFO] [Server Utilities/]: [495 | 30.29%]: World/region/r.1.-8.mca
+[19:41:56] [Thread-99/INFO] [Server Utilities/]: [510 | 31.21%]: World/region/r.-5.-12.mca
+[19:42:01] [Thread-99/INFO] [Server Utilities/]: [531 | 32.49%]: World/region/r.1.0.mca
+[19:42:06] [Thread-99/INFO] [Server Utilities/]: [553 | 33.84%]: World/region/r.-2.-6.mca
+[19:42:12] [Thread-99/INFO] [Server Utilities/]: [567 | 34.70%]: World/region/r.-5.-11.mca
+[19:42:17] [Thread-99/INFO] [Server Utilities/]: [1459 | 89.29%]: World/DIM-1/region/r.-2.-1.mca
+[19:42:17] [Thread-99/INFO] [Server Utilities/]: [1633 | 99.93%]: World/gadomancy/data.dat
+[19:42:17] [Thread-99/INFO] [Server Utilities/]: Done compressing in 00:42 seconds (839.2MB)!
+[19:42:17] [Thread-99/INFO] [Server Utilities/]: Created /home/ubuntu/gtnh_server/./backups/2024-04-18-19-41-35.zip from /home/ubuntu/gtnh_server/./World
+[19:42:17] [Thread-99/INFO] [Server Utilities/]: Deleting 1 old backups
+[19:42:17] [Thread-99/INFO] [Server Utilities/]: Deleted old backup: ./backups/2024-04-16-19-03-47.zip
+[19:42:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:43:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:44:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:44:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:45:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:46:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:47:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:47:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:48:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:49:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:50:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:50:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:51:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:52:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:53:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:53:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:54:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:55:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:56:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:56:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:57:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:58:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:59:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[19:59:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:00:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:01:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:02:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:02:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:03:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:04:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:05:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:05:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:06:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:07:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:08:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:08:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:09:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:10:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:11:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:11:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:12:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:13:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:14:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:14:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:15:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:16:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:17:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:17:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:18:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:19:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:20:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:20:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:21:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:22:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:23:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:23:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:24:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:25:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:26:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:26:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:27:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:28:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:29:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:29:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:29:51] [Server thread/INFO] [Server Utilities/]: Augustym_ is no longer AFK
+[20:30:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:31:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:32:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:32:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:33:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:34:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:35:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:35:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:36:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:37:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:38:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:38:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:39:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:40:18] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:41:03] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:41:48] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[20:42:33] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
