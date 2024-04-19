@@ -6906,3 +6906,16 @@ GT_Mod: Crafting Recipes
 GT_Mod: ServerStarting-Phase finished!
 GT_Mod: Cleaning up all OreDict Crafting Recipes, which have an empty List in them, since they are never meeting any Condition.
 Started assline validation
+java.lang.NullPointerException
+	at gregtech.common.tileentities.boilers.GT_MetaTileEntity_Boiler_Bronze.updateFuel(GT_MetaTileEntity_Boiler_Bronze.java:266)
+	at gregtech.common.tileentities.boilers.GT_MetaTileEntity_Boiler.updateFuelTimed(GT_MetaTileEntity_Boiler.java:277)
+	at gregtech.common.tileentities.boilers.GT_MetaTileEntity_Boiler.onPostTick(GT_MetaTileEntity_Boiler.java:252)
+	at gregtech.common.tileentities.boilers.GT_MetaTileEntity_Boiler_Bronze.onPostTick(GT_MetaTileEntity_Boiler_Bronze.java:147)
+	at gregtech.api.metatileentity.BaseMetaTileEntity.func_145845_h(BaseMetaTileEntity.java:547)
+	at net.minecraft.world.World.func_72939_s(World.java:1939)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:1146)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:636)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)

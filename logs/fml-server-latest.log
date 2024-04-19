@@ -29434,3 +29434,106 @@ Caused by: java.lang.IllegalArgumentException
 [15:47:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [15:48:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [15:49:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:50:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:50:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:51:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:52:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:53:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:53:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:54:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:55:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:56:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:56:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:57:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:58:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:59:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:59:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:00:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:01:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:02:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:02:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:03:04] [Server thread/DEBUG] [Multipart ASM/]: Generation [codechicken/microblock/Microblock with codechicken/microblock/FaceMicroblock] took 37ms
+[16:03:04] [Server thread/DEBUG] [Multipart ASM/]: Generation [codechicken/multipart/TileMultipart with codechicken/multipart/scalatraits/TSlottedTile, codechicken/multipart/scalatraits/TPartialOcclusionTile] took 9ms
+[16:03:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:04:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:05:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:05:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:06:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:07:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:08:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:08:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:09:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.NullPointerException
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at gregtech.common.tileentities.boilers.GT_MetaTileEntity_Boiler_Bronze.updateFuel(GT_MetaTileEntity_Boiler_Bronze.java:266)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at gregtech.common.tileentities.boilers.GT_MetaTileEntity_Boiler.updateFuelTimed(GT_MetaTileEntity_Boiler.java:277)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at gregtech.common.tileentities.boilers.GT_MetaTileEntity_Boiler.onPostTick(GT_MetaTileEntity_Boiler.java:252)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at gregtech.common.tileentities.boilers.GT_MetaTileEntity_Boiler_Bronze.onPostTick(GT_MetaTileEntity_Boiler_Bronze.java:147)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at gregtech.api.metatileentity.BaseMetaTileEntity.func_145845_h(BaseMetaTileEntity.java:547)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.World.func_72939_s(World.java:1939)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:1146)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:636)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+[16:09:57] [Server thread/INFO] [STDERR/]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+[16:10:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:11:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:11:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:11:58] [Server thread/INFO] [Server Utilities/]: Ravara is now AFK
+[16:12:32] [Server thread/INFO] [Server Utilities/]: Ravara is no longer AFK
+[16:12:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:13:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:14:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:14:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:15:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:16:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:17:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:17:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:18:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:19:19] [Server thread/DEBUG] [Multipart ASM/]: 112029 bytes of permGen has been used by ASMMixinCompiler
+[16:19:19] [Server thread/DEBUG] [Multipart ASM/]: Generation [codechicken/multipart/TileMultipart with codechicken/multipart/scalatraits/TSlottedTile, codechicken/multipart/scalatraits/TRedstoneTile] took 20ms
+[16:19:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:20:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:20:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:21:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:22:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:23:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:23:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:24:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:25:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:26:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:26:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:27:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:28:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:29:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:29:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:30:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:31:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:32:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:32:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:33:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:34:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:35:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:35:43] [Server thread/INFO] [Server Utilities/]: Ravara is now AFK
+[16:35:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:36:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:37:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:37:52] [Server thread/INFO] [Server Utilities/]: Ravara is no longer AFK
+[16:38:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:38:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:39:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:40:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:41:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:41:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:42:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:42:52] [Server thread/INFO] [Server Utilities/]: Ravara is now AFK
+[16:43:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:44:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:44:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:45:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:46:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:47:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:47:52] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:48:37] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:49:22] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:50:07] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
