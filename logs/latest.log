@@ -92,3 +92,14 @@
 [17:21:01] [User Authenticator #6/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
 [17:21:02] [Server thread/INFO]: Ravara[/177.131.185.95:9585] logged in with entity id 753243 at (-1865.9708986835928, 71.0, -6043.6773818182355)
 [17:21:02] [Server thread/INFO]: Ravara joined the game
+[17:59:34] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:59:34] [Server thread/INFO]: Ravara left the game
+[18:13:37] [User Authenticator #7/INFO]: UUID of player RedSmelterDemon is 3f4be91d-e2b4-432b-ba2d-ae289c46c6a0
+[18:13:37] [Server thread/INFO]: RedSmelterDemon[/181.223.99.104:58581] logged in with entity id 826174 at (-1886.128472393008, 61.0, -6015.316048486423)
+[18:13:37] [Server thread/INFO]: RedSmelterDemon joined the game
+[18:26:14] [Server thread/INFO]: RedSmelterDemon has just earned the achievement [Tubes]
+[18:27:36] [Server thread/INFO]: RedSmelterDemon was burnt to a crisp whilst fighting Brutish Zombie
+[18:30:59] [Server thread/WARN]: RedSmelterDemon moved wrongly!
+[18:32:23] [Server thread/INFO]: RedSmelterDemon was fireballed by Spitfire Skeleton
+[18:40:00] [Server thread/INFO]: RedSmelterDemon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:40:00] [Server thread/INFO]: RedSmelterDemon left the game
