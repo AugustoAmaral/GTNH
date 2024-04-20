@@ -1,8 +1,10 @@
-[01:28:58] [User Authenticator #10/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[01:28:59] [Server thread/INFO]: Ravara[/177.131.185.95:9231] logged in with entity id 1433663 at (-1873.1460889095624, 61.0, -6027.464646128597)
-[01:28:59] [Server thread/INFO]: Ravara joined the game
-[01:30:05] [Server thread/INFO]: <Ravara> He
-[01:30:06] [Server thread/INFO]: <Ravara> low
-[01:33:52] [Server thread/INFO]: <Ravara> oq vc achou do update estético da base?
-[01:50:10] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:50:10] [Server thread/INFO]: Ravara left the game
+[07:00:29] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[07:01:31] [Server thread/INFO]: Loading properties
+[07:01:31] [Server thread/INFO]: Default game type: SURVIVAL
+[07:01:31] [Server thread/INFO]: Generating keypair
+[07:01:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:03:30] [Server thread/INFO]: Preparing level "World"
+[07:03:32] [Server thread/INFO]: Preparing start region for level 0
+[07:03:33] [Server thread/INFO]: Preparing spawn area: 58%
+[07:03:33] [Server thread/INFO]: Done (3.903s)! For help, type "help" or "?"
+[07:03:38] [Server thread/INFO]: Reloaded default quest database
