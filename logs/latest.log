@@ -61,3 +61,6 @@
 [11:22:24] [Server thread/INFO]: <Ravara> discord?
 [11:22:32] [Server thread/INFO]: <Augustym_> to la
 [11:37:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2015ms behind, skipping 40 tick(s)
+[12:07:58] [Server thread/INFO]: <Augustym_> betterquesting.msg.sharequest:AAAAAAAAAAAAAAAAAAADEA==
+[12:10:22] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[12:10:22] [Server thread/INFO]: Ravara left the game
