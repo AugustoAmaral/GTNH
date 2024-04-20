@@ -87,3 +87,8 @@
 [16:53:04] [Server thread/WARN]: Fetching addPacket for removed entity
 [16:53:04] [Server thread/WARN]: Fetching addPacket for removed entity
 [16:53:04] [Server thread/WARN]: Fetching addPacket for removed entity
+[17:09:48] [Server thread/INFO]: RedSmelterDemon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:09:48] [Server thread/INFO]: RedSmelterDemon left the game
+[17:21:01] [User Authenticator #6/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[17:21:02] [Server thread/INFO]: Ravara[/177.131.185.95:9585] logged in with entity id 753243 at (-1865.9708986835928, 71.0, -6043.6773818182355)
+[17:21:02] [Server thread/INFO]: Ravara joined the game
