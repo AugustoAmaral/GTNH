@@ -29310,3 +29310,95 @@ java.io.IOException: Connection reset by peer
 [15:14:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [15:15:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [15:15:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:16:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:17:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:18:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:18:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:19:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:20:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:21:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:21:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:22:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:23:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:24:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:24:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:25:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:26:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:27:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:27:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:28:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:29:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:30:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:30:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:31:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:32:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:33:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:33:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:34:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:35:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:36:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:36:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:37:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:38:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:39:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:39:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:40:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:41:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:42:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:42:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:43:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:44:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:45:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:45:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:46:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:47:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:48:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:48:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:49:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:50:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:51:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:51:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:52:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:53:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:54:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:54:37] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: herobrainbraga
+[15:54:37] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: herobrainbraga
+[15:54:37] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: herobrainbraga
+[15:54:37] [Server thread/INFO] [JourneyMapServer/]: herobrainbraga is an EntityPlayerMP attempting to send the worldId packet
+[15:54:40] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: herobrainbraga
+[15:54:40] [Server thread/INFO] [JourneyMapServer/]: herobrainbraga is an EntityPlayerMP attempting to send the worldId packet
+[15:54:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:55:18] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: herobrainbraga
+[15:55:18] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: herobrainbraga
+[15:55:19] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: herobrainbraga
+[15:55:19] [Server thread/INFO] [JourneyMapServer/]: herobrainbraga is an EntityPlayerMP attempting to send the worldId packet
+[15:55:22] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: herobrainbraga
+[15:55:22] [Server thread/INFO] [JourneyMapServer/]: herobrainbraga is an EntityPlayerMP attempting to send the worldId packet
+[15:55:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:56:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:57:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:57:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:58:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:59:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:00:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:00:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:01:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:02:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:03:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:03:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:04:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:05:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:06:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:06:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:07:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:08:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:09:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:09:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:10:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:11:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:12:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:12:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:13:31] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:14:16] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:15:01] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:15:46] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
