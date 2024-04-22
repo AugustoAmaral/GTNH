@@ -24,3 +24,10 @@
 [03:10:55] [User Authenticator #27/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
 [03:10:58] [Server thread/INFO]: herobrainbraga[/190.180.177.231:1706] logged in with entity id 3356772 at (-1851.6313828509685, 73.625, -6010.866584500638)
 [03:10:58] [Server thread/INFO]: herobrainbraga joined the game
+[03:12:40] [Server thread/INFO]: herobrainbraga lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:12:40] [Server thread/INFO]: herobrainbraga left the game
+[03:18:57] [User Authenticator #28/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[03:18:58] [Server thread/INFO]: herobrainbraga[/190.180.177.231:1696] logged in with entity id 3396731 at (-1851.6313828509685, 73.625, -6010.866584500638)
+[03:18:58] [Server thread/INFO]: herobrainbraga joined the game
+[04:46:44] [Server thread/INFO]: herobrainbraga lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:46:44] [Server thread/INFO]: herobrainbraga left the game
