@@ -9,3 +9,16 @@
 [07:03:34] [Server thread/INFO]: Done (3.994s)! For help, type "help" or "?"
 [07:03:40] [Server thread/INFO]: Reloaded default quest database
 [07:03:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2628ms behind, skipping 52 tick(s)
+[11:38:58] [User Authenticator #1/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[11:38:59] [Server thread/INFO]: Ravara[/177.131.185.95:9458] logged in with entity id 22788 at (-1875.2289701431046, 71.0, -6049.281079042051)
+[11:38:59] [Server thread/INFO]: Ravara joined the game
+[11:41:55] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:41:55] [Server thread/INFO]: Ravara left the game
+[13:14:02] [User Authenticator #2/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[13:14:03] [Server thread/INFO]: herobrainbraga[/177.47.139.244:32292] logged in with entity id 35909 at (-1886.0577469593245, 71.0, -6005.376199594613)
+[13:14:03] [Server thread/INFO]: herobrainbraga joined the game
+[13:35:03] [Server thread/INFO]: herobrainbraga lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:35:03] [Server thread/INFO]: herobrainbraga left the game
+[13:37:45] [User Authenticator #3/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[13:37:47] [Server thread/INFO]: herobrainbraga[/177.47.139.244:32546] logged in with entity id 80677 at (-1854.8858280484035, 84.0, -6010.926307383443)
+[13:37:47] [Server thread/INFO]: herobrainbraga joined the game
