@@ -55,3 +55,52 @@
 [21:55:36] [Server thread/INFO]: Augustym_ joined the game
 [22:13:17] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [22:13:17] [Server thread/INFO]: Augustym_ left the game
+[22:32:50] [User Authenticator #9/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[22:32:55] [Server thread/INFO]: herobrainbraga[/177.47.139.244:32066] logged in with entity id 820581 at (-216.5186179220533, 13.0, -377.53421753544126)
+[22:32:55] [Server thread/INFO]: herobrainbraga joined the game
+[22:37:21] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:37:21] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:37:21] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:37:40] [User Authenticator #10/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[22:37:40] [Server thread/INFO]: Augustym_[/191.34.136.245:60845] logged in with entity id 835588 at (-1879.3064565457362, 61.0, -6016.669531703637)
+[22:37:40] [Server thread/INFO]: Augustym_ joined the game
+[22:37:44] [Server thread/WARN]: herobrainbraga moved wrongly!
+[22:37:44] [Server thread/WARN]: herobrainbraga moved wrongly!
+[22:37:45] [Server thread/WARN]: herobrainbraga moved wrongly!
+[22:37:51] [Server thread/INFO]: <Augustym_> OLÁ
+[22:37:54] [Server thread/INFO]: <herobrainbraga> ola
+[22:38:14] [Server thread/INFO]: <herobrainbraga> entrou e tou me indo
+[22:38:19] [Server thread/INFO]: <herobrainbraga> mas mais tarde to ai
+[22:38:22] [Server thread/INFO]: <herobrainbraga> boas minings
+[22:38:23] [Server thread/INFO]: <Augustym_> até mais
+[22:38:26] [Server thread/INFO]: <Augustym_> boa noite
+[22:38:30] [Server thread/INFO]: herobrainbraga lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:38:30] [Server thread/INFO]: herobrainbraga left the game
+[22:38:30] [Server thread/INFO]: <Augustym_> obrigado
+[22:55:07] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:55:07] [Server thread/INFO]: Augustym_ left the game
+[22:55:15] [User Authenticator #11/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[22:55:16] [Server thread/INFO]: Augustym_[/191.34.136.245:61920] logged in with entity id 883193 at (-253.58366289478175, 64.0, -499.173823818957)
+[22:55:16] [Server thread/INFO]: Augustym_ joined the game
+[22:55:38] [Server thread/INFO]: <Augustym_> -254 -500 64
+[22:55:58] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:55:58] [Server thread/INFO]: Augustym_ left the game
+[23:01:33] [User Authenticator #12/INFO]: UUID of player RAR1DAD3 is 87ace11b-7360-4650-999e-ec8dbd6233ed
+[23:01:34] [Server thread/INFO]: RAR1DAD3[/191.34.136.245:62332] logged in with entity id 885421 at (-2148.613056321406, 72.0, -5811.077962161434)
+[23:01:34] [Server thread/INFO]: RAR1DAD3 (formerly known as Minecrafter3572) joined the game
+[23:01:36] [Server thread/WARN]: Fetching addPacket for removed entity
+[23:01:36] [Server thread/WARN]: Fetching addPacket for removed entity
+[23:04:37] [Server thread/INFO]: RAR1DAD3 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:04:37] [Server thread/INFO]: RAR1DAD3 left the game
+[23:04:54] [User Authenticator #13/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[23:04:54] [Server thread/INFO]: Augustym_[/191.34.136.245:62566] logged in with entity id 907277 at (-253.58366289478175, 64.0, -499.173823818957)
+[23:04:54] [Server thread/INFO]: Augustym_ joined the game
+[23:04:56] [Server thread/WARN]: Fetching addPacket for removed entity
+[23:04:56] [Server thread/WARN]: Fetching addPacket for removed entity
+[23:05:03] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:05:03] [Server thread/INFO]: Augustym_ left the game
+[23:15:35] [User Authenticator #14/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[23:15:36] [Server thread/INFO]: Augustym_[/191.34.136.245:63244] logged in with entity id 908717 at (-253.58366289478175, 64.0, -499.173823818957)
+[23:15:36] [Server thread/INFO]: Augustym_ joined the game
+[23:16:57] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:16:57] [Server thread/INFO]: Augustym_ left the game
