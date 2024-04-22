@@ -14,3 +14,13 @@
 [02:09:52] [Server thread/INFO]: RedSmelterDemon joined the game
 [02:09:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 29105ms behind, skipping 582 tick(s)
 [02:10:26] [Server thread/INFO]: RedSmelterDemon was slain by Giant Zombie
+[02:13:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3614ms behind, skipping 72 tick(s)
+[02:23:30] [Server thread/INFO]: RedSmelterDemon was slain by Mother Cave Spider
+[02:49:21] [User Authenticator #26/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[02:49:22] [Server thread/INFO]: herobrainbraga[/190.180.177.231:1496] logged in with entity id 3231467 at (-1844.7551007521763, 75.0, -6087.40176207658)
+[02:49:22] [Server thread/INFO]: herobrainbraga joined the game
+[03:04:22] [Server thread/INFO]: herobrainbraga lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:04:22] [Server thread/INFO]: herobrainbraga left the game
+[03:10:55] [User Authenticator #27/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[03:10:58] [Server thread/INFO]: herobrainbraga[/190.180.177.231:1706] logged in with entity id 3356772 at (-1851.6313828509685, 73.625, -6010.866584500638)
+[03:10:58] [Server thread/INFO]: herobrainbraga joined the game
