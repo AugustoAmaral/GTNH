@@ -35316,9 +35316,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "59885135-c7a2-4d45-b554-625602c74866",
-					"timestamp:4": 1713130023912
+					"timestamp:4": 1713882401960
 				}
 			},
 			"questIDLow:4": 2443,
@@ -56583,9 +56583,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "59885135-c7a2-4d45-b554-625602c74866",
-					"timestamp:4": 1712738276784
+					"timestamp:4": 1713882399859
 				}
 			},
 			"questIDLow:4": 2442,
