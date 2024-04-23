@@ -22,3 +22,6 @@
 [13:05:00] [Server thread/INFO]: Ravara joined the game
 [13:10:35] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [13:10:35] [Server thread/INFO]: Ravara left the game
+[14:24:05] [User Authenticator #3/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[14:24:05] [Server thread/INFO]: herobrainbraga[/190.180.172.146:33176] logged in with entity id 107434 at (-1864.3659381233135, 75.0, -5994.237500011921)
+[14:24:05] [Server thread/INFO]: herobrainbraga joined the game
