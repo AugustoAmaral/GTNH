@@ -1,6 +1,11 @@
-[01:05:57] [User Authenticator #16/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
-[01:05:58] [Server thread/INFO]: herobrainbraga[/177.47.139.244:31998] logged in with entity id 926791 at (-1875.90581478209, 71.0, -6026.168376839693)
-[01:05:58] [Server thread/INFO]: herobrainbraga joined the game
-[01:22:22] [Server thread/INFO]: herobrainbraga lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:22:22] [Server thread/INFO]: herobrainbraga left the game
-[01:25:14] [Server thread/INFO]: /109.123.240.84:59400 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.io.IOException: Packet was larger than I expected, found 17 bytes extra whilst reading packet 0
+[07:00:27] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[07:01:29] [Server thread/INFO]: Loading properties
+[07:01:29] [Server thread/INFO]: Default game type: SURVIVAL
+[07:01:29] [Server thread/INFO]: Generating keypair
+[07:01:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:03:29] [Server thread/INFO]: Preparing level "World"
+[07:03:31] [Server thread/INFO]: Preparing start region for level 0
+[07:03:32] [Server thread/INFO]: Preparing spawn area: 53%
+[07:03:32] [Server thread/INFO]: Done (3.986s)! For help, type "help" or "?"
+[07:03:37] [Server thread/INFO]: Reloaded default quest database
+[07:03:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2703ms behind, skipping 54 tick(s)
