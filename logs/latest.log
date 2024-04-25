@@ -9,3 +9,8 @@
 [07:03:34] [Server thread/INFO]: Done (4.065s)! For help, type "help" or "?"
 [07:03:39] [Server thread/INFO]: Reloaded default quest database
 [07:03:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2815ms behind, skipping 56 tick(s)
+[08:17:56] [User Authenticator #1/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[08:17:57] [Server thread/INFO]: Augustym_[/191.34.136.245:49434] logged in with entity id 7949 at (-1864.2221666155656, 72.0, -6011.559119306552)
+[08:17:57] [Server thread/INFO]: Augustym_ joined the game
+[09:49:14] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[09:49:14] [Server thread/INFO]: Augustym_ left the game
