@@ -1,2 +1,6 @@
 [00:38:05] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [00:38:05] [Server thread/INFO]: Augustym_ left the game
+[02:52:41] [User Authenticator #12/INFO]: UUID of player herobrainbraga is 59885135-c7a2-4d45-b554-625602c74866
+[02:52:44] [Server thread/INFO]: herobrainbraga[/191.82.70.155:43904] logged in with entity id 1656655 at (-1870.7060283538442, 72.0, -5999.314490594954)
+[02:52:44] [Server thread/INFO]: herobrainbraga joined the game
+[03:36:35] [Server thread/WARN]: herobrainbraga moved wrongly!
