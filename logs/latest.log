@@ -9,3 +9,6 @@
 [07:03:34] [Server thread/INFO]: Done (3.943s)! For help, type "help" or "?"
 [07:03:39] [Server thread/INFO]: Reloaded default quest database
 [07:03:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2695ms behind, skipping 53 tick(s)
+[12:10:16] [User Authenticator #1/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[12:10:17] [Server thread/INFO]: Ravara[/177.131.185.95:9590] logged in with entity id 25845 at (-1880.3140519591238, 71.0, -6026.712577194506)
+[12:10:17] [Server thread/INFO]: Ravara joined the game
