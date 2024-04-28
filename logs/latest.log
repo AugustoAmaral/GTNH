@@ -9,3 +9,6 @@
 [07:03:36] [Server thread/INFO]: Done (4.127s)! For help, type "help" or "?"
 [07:03:41] [Server thread/INFO]: Reloaded default quest database
 [07:03:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2839ms behind, skipping 56 tick(s)
+[13:10:19] [User Authenticator #1/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[13:10:20] [Server thread/INFO]: Augustym_[/191.34.136.245:49536] logged in with entity id 27207 at (-1875.2364527676712, 76.0, -6038.815919730977)
+[13:10:20] [Server thread/INFO]: Augustym_ joined the game
