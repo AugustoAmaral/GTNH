@@ -3,3 +3,9 @@
 [07:01:30] [Server thread/INFO]: Default game type: SURVIVAL
 [07:01:30] [Server thread/INFO]: Generating keypair
 [07:01:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:03:33] [Server thread/INFO]: Preparing level "World"
+[07:03:35] [Server thread/INFO]: Preparing start region for level 0
+[07:03:36] [Server thread/INFO]: Preparing spawn area: 54%
+[07:03:36] [Server thread/INFO]: Done (4.127s)! For help, type "help" or "?"
+[07:03:41] [Server thread/INFO]: Reloaded default quest database
+[07:03:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2839ms behind, skipping 56 tick(s)
