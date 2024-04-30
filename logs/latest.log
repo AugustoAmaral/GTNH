@@ -9,3 +9,10 @@
 [07:03:38] [Server thread/INFO]: Done (4.128s)! For help, type "help" or "?"
 [07:03:43] [Server thread/INFO]: Reloaded default quest database
 [07:03:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2868ms behind, skipping 57 tick(s)
+[17:55:56] [User Authenticator #1/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[17:55:58] [Server thread/INFO]: Ravara[/177.131.185.95:9907] logged in with entity id 45391 at (-3986.1159537038134, 70.0, -4518.518054861045)
+[17:55:58] [Server thread/INFO]: Ravara joined the game
+[17:56:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2898ms behind, skipping 57 tick(s)
+[17:56:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2471ms behind, skipping 49 tick(s)
+[18:03:43] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:03:43] [Server thread/INFO]: Ravara left the game
