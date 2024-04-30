@@ -21,3 +21,7 @@
 [18:57:31] [Server thread/INFO]: Ravara joined the game
 [21:11:17] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [21:11:17] [Server thread/INFO]: Ravara left the game
+[21:44:05] [User Authenticator #3/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[21:44:06] [Server thread/INFO]: Ravara[/177.131.185.95:9085] logged in with entity id 320211 at (-1869.0075366636693, 72.0, -6011.388938730485)
+[21:44:06] [Server thread/INFO]: Ravara joined the game
+[22:13:36] [Server thread/INFO]: Ravara was slain by Fallen Knight
