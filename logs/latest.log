@@ -16,3 +16,8 @@
 [17:56:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2471ms behind, skipping 49 tick(s)
 [18:03:43] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [18:03:43] [Server thread/INFO]: Ravara left the game
+[18:57:30] [User Authenticator #2/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[18:57:31] [Server thread/INFO]: Ravara[/177.131.185.95:9082] logged in with entity id 74704 at (-1864.699999988079, 72.0, -6019.608603419253)
+[18:57:31] [Server thread/INFO]: Ravara joined the game
+[21:11:17] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:11:17] [Server thread/INFO]: Ravara left the game
