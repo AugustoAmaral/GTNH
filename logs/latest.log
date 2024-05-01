@@ -96,3 +96,5 @@
 [16:18:01] [User Authenticator #4/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
 [16:18:02] [Server thread/INFO]: Ravara[/177.131.185.95:9506] logged in with entity id 497774 at (-1867.979499347927, 72.0, -6010.725509496183)
 [16:18:02] [Server thread/INFO]: Ravara joined the game
+[17:20:26] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:20:26] [Server thread/INFO]: Ravara left the game
