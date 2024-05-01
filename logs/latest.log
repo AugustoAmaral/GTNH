@@ -1,31 +1,55 @@
-[07:00:27] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[07:01:31] [Server thread/INFO]: Loading properties
-[07:01:31] [Server thread/INFO]: Default game type: SURVIVAL
-[07:01:31] [Server thread/INFO]: Generating keypair
-[07:01:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:03:35] [Server thread/INFO]: Preparing level "World"
-[07:03:36] [Server thread/INFO]: Preparing start region for level 0
-[07:03:37] [Server thread/INFO]: Preparing spawn area: 49%
-[07:03:38] [Server thread/INFO]: Done (4.128s)! For help, type "help" or "?"
-[07:03:43] [Server thread/INFO]: Reloaded default quest database
-[07:03:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2868ms behind, skipping 57 tick(s)
-[17:55:56] [User Authenticator #1/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[17:55:58] [Server thread/INFO]: Ravara[/177.131.185.95:9907] logged in with entity id 45391 at (-3986.1159537038134, 70.0, -4518.518054861045)
-[17:55:58] [Server thread/INFO]: Ravara joined the game
-[17:56:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2898ms behind, skipping 57 tick(s)
-[17:56:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2471ms behind, skipping 49 tick(s)
-[18:03:43] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:03:43] [Server thread/INFO]: Ravara left the game
-[18:57:30] [User Authenticator #2/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[18:57:31] [Server thread/INFO]: Ravara[/177.131.185.95:9082] logged in with entity id 74704 at (-1864.699999988079, 72.0, -6019.608603419253)
-[18:57:31] [Server thread/INFO]: Ravara joined the game
-[21:11:17] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[21:11:17] [Server thread/INFO]: Ravara left the game
-[21:44:05] [User Authenticator #3/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[21:44:06] [Server thread/INFO]: Ravara[/177.131.185.95:9085] logged in with entity id 320211 at (-1869.0075366636693, 72.0, -6011.388938730485)
-[21:44:06] [Server thread/INFO]: Ravara joined the game
-[22:13:36] [Server thread/INFO]: Ravara was slain by Fallen Knight
-[23:23:25] [User Authenticator #4/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
-[23:23:25] [Server thread/INFO]: Augustym_[/186.214.48.138:51888] logged in with entity id 496002 at (-1873.970377608308, 71.0, -6043.037537078897)
-[23:23:25] [Server thread/INFO]: Augustym_ joined the game
-[23:23:40] [Server thread/INFO]: <Augustym_> oi
+[00:03:05] [Server thread/INFO]: De-opped Augustym_
+[00:31:17] [Server thread/INFO]: <Ravara> DISC?
+[00:33:23] [Server thread/INFO]: <Augustym_> oie
+[00:33:28] [Server thread/INFO]: <Augustym_> n da agora
+[00:33:32] [Server thread/INFO]: <Ravara> ok
+[00:34:06] [Server thread/INFO]: <Ravara> Commom pricess! =D
+[00:34:43] [Server thread/INFO]: <Ravara> todos os 5 cruzos que to dando estão começando a mutar pra common
+[00:34:55] [Server thread/INFO]: <Augustym_> nice
+[00:35:02] [Server thread/INFO]: <Augustym_> mt boa
+[00:35:07] [Server thread/INFO]: <Ravara> 1 passo
+[00:35:08] [Server thread/INFO]: <Augustym_> ta sentindo a nostalgia?
+[00:35:11] [Server thread/INFO]: <Ravara> +-
+[00:35:15] [Server thread/INFO]: <Ravara> queria mais apiary
+[00:35:19] [Server thread/INFO]: <Ravara> mas é MV se n me engano
+[00:35:50] [Server thread/INFO]: <Ravara> na real até da pra fazer
+[00:36:08] [Server thread/INFO]: <Ravara> no carpenter do forestry, mas agnt n ta gerando RF né?
+[00:36:14] [Server thread/INFO]: <Ravara> tem que fazer conversor?
+[00:36:19] [Server thread/INFO]: <Augustym_> N precisa
+[00:36:21] [Server thread/INFO]: <Augustym_> converte direto
+[00:36:26] [Server thread/INFO]: <Ravara> dlç
+[00:36:28] [Server thread/INFO]: <Augustym_> 1EU -> 3.6RF
+[00:37:11] [Server thread/INFO]: <Ravara> ta trabalhando no EBF?
+[00:37:24] [Server thread/INFO]: <Augustym_> to trapalhando em fazer as wrench eletronicasla
+[00:37:34] [Server thread/INFO]: <Augustym_> pra ter um bagulho melhor ja de cara
+[00:37:36] [Server thread/INFO]: <Augustym_> e o ima
+[00:37:59] [Server thread/INFO]: <Augustym_> que vai ajudar bastante
+[00:38:02] [Server thread/INFO]: <Augustym_> mesmo
+[00:38:28] [Server thread/INFO]: <Augustym_> precisa pegar salt ore
+[00:39:50] [Server thread/INFO]: <Ravara> onde tem isso?
+[00:40:11] [Server thread/INFO]: <Ravara> nosso iron ta secando
+[00:41:18] [Server thread/INFO]: <Ravara> to achando que esses bronze fluid pipes n tão dando mt mais conta n
+[00:41:24] [Server thread/INFO]: <Augustym_> n
+[00:41:28] [Server thread/INFO]: <Augustym_> tem que trocar pra potin
+[00:41:29] [Server thread/INFO]: <Ravara> n tava chegando steam no gerador
+[00:47:06] [Server thread/INFO]: <Ravara> farm de peanuts
+[00:47:26] [Server thread/INFO]: <Ravara> squeezer e carpenter
+[00:47:39] [Server thread/INFO]: <Ravara> vc ta focando no EBF? quer ajuda nele?
+[00:47:45] [Server thread/INFO]: <Ravara> arrumei um projeto paralelo kkk
+[00:48:05] [Server thread/INFO]: <Augustym_> to fazendo as coisas de lead
+[00:48:09] [Server thread/INFO]: <Augustym_> pra liberar as baterias
+[00:48:11] [Server thread/INFO]: <Augustym_> e tudo mais
+[00:48:17] [Server thread/INFO]: <Augustym_> mas já fiz uma chemical reactor
+[00:48:19] [Server thread/INFO]: <Augustym_> pra fazer rubber
+[00:48:25] [Server thread/INFO]: <Augustym_> bem melhor pra fazer cable
+[00:48:37] [Server thread/INFO]: <Ravara> show
+[00:48:50] [Server thread/INFO]: <Augustym_> assim que eu terminar essa quest:
+[00:48:56] [Server thread/INFO]: <Augustym_> betterquesting.msg.sharequest:AAAAAAAAAAAAAAAAAAAGAQ==
+[00:49:05] [Server thread/INFO]: <Augustym_> e essa quest
+[00:49:10] [Server thread/INFO]: <Augustym_> betterquesting.msg.sharequest:AAAAAAAAAAAAAAAAAAALSw==
+[00:49:16] [Server thread/INFO]: <Augustym_> eu foco em fazer a ebf
+[00:49:19] [Server thread/INFO]: <Augustym_> ja volto
+[00:49:20] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:49:20] [Server thread/INFO]: Augustym_ left the game
+[01:09:13] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:09:13] [Server thread/INFO]: Ravara left the game
