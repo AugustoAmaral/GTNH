@@ -102,3 +102,5 @@
 [17:42:55] [Server thread/INFO]: Ravara[/177.131.185.95:9191] logged in with entity id 612284 at (-1877.265508816853, 71.0, -6027.559515517753)
 [17:42:55] [Server thread/INFO]: Ravara joined the game
 [20:06:33] [Server thread/INFO]: Ravara has just earned the achievement [achievement.basic_steam_turbine]
+[21:06:47] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[21:06:47] [Server thread/INFO]: Ravara left the game
