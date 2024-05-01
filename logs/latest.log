@@ -86,3 +86,6 @@
 [02:37:31] [Server thread/INFO]: <Ravara> do server
 [02:52:26] [Server thread/INFO]: <Augustym_> betterquesting.msg.sharequest:AAAAAAAAAAAAAAAAAAALSw==
 [03:25:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2167ms behind, skipping 43 tick(s)
+[03:50:36] [Server thread/INFO]: Augustym_ lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:50:36] [Server thread/INFO]: Augustym_ left the game
+[04:13:23] [Server thread/INFO]: Ravara has just earned the achievement [Potin!]
