@@ -30273,3 +30273,259 @@ java.io.IOException: Connection reset by peer
 [21:43:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
 [21:44:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 615 times.
 
+[21:44:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:44:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 620 times.
+
+[21:45:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:45:35] [Server thread/INFO] [Adventure Backpack/]: Stored spawn data for Ravara: Pos{x=-1833, y=36, z=-6200} dimID: 0
+[21:45:41] [Server thread/INFO] [Morpheus/]: Ravara foi de neneca... 1/2 (50%)
+[21:45:41] [Server thread/INFO] [Adventure Backpack/]: Player just woke up in a portable sleeping bag.
+[21:45:41] [Server thread/INFO] [Adventure Backpack/]: Restored spawn data for Ravara: Pos{x=-1833, y=36, z=-6200} dimID: 0
+[21:45:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 625 times.
+
+[21:45:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:46:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 630 times.
+
+[21:46:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:47:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 635 times.
+
+[21:47:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:47:44] [Netty IO #7/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Connection reset by peer
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[?:1.8.0_402]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[?:1.8.0_402]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_402]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_402]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379) ~[?:1.8.0_402]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:436) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:870) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:480) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_402]
+[21:47:44] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Augustym_
+[21:48:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:48:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 640 times.
+
+[21:48:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:49:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 645 times.
+
+[21:49:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:49:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 650 times.
+
+[21:50:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:50:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 655 times.
+
+[21:51:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:51:18] [Server thread/INFO] [Server Utilities/]: Ravara is now AFK
+[21:51:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 660 times.
+
+[21:51:49] [Server thread/INFO] [Server Utilities/]: Ravara is no longer AFK
+[21:51:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:52:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 665 times.
+
+[21:52:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:53:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 670 times.
+
+[21:53:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:54:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 675 times.
+
+[21:54:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:54:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 680 times.
+
+[21:54:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:55:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:55:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 685 times.
+
+[21:56:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:56:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 690 times.
+
+[21:57:02] [Server thread/INFO] [Server Utilities/]: Ravara is now AFK
+[21:57:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:57:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 695 times.
+
+[21:57:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:58:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 700 times.
+
+[21:58:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:59:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 705 times.
+
+[21:59:08] [Server thread/INFO] [Server Utilities/]: Ravara is no longer AFK
+[21:59:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[21:59:31] [Server thread/INFO] [Adventure Backpack/]: Stored spawn data for Ravara: Pos{x=-1833, y=36, z=-6200} dimID: 0
+[21:59:36] [Server thread/INFO] [Adventure Backpack/]: Player just woke up in a portable sleeping bag.
+[21:59:36] [Server thread/INFO] [Adventure Backpack/]: Restored spawn data for Ravara: Pos{x=-1833, y=36, z=-6200} dimID: 0
+[21:59:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 710 times.
+
+[22:00:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:00:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 715 times.
+
+[22:00:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:01:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 720 times.
+
+[22:01:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:02:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 725 times.
+
+[22:02:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:03:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:03:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 730 times.
+
+[22:03:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:04:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 735 times.
+
+[22:04:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:04:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 740 times.
+
+[22:05:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:05:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 745 times.
+
+[22:06:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:06:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 750 times.
+
+[22:06:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:07:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 755 times.
+
+[22:07:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:08:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 760 times.
+
+[22:08:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:09:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 765 times.
+
+[22:09:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:09:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 770 times.
+
+[22:09:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:10:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:10:42] [Server thread/INFO] [Server Utilities/]: Ravara is now AFK
+[22:10:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 775 times.
+
+[22:11:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:11:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 780 times.
+
+[22:12:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:12:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 785 times.
+
+[22:12:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:13:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 790 times.
+
+[22:13:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:14:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 795 times.
+
+[22:14:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:14:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 800 times.
+
+[22:15:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:15:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 805 times.
+
+[22:15:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:16:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 810 times.
+
+[22:16:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:17:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 815 times.
+
+[22:17:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:18:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:18:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 820 times.
+
+[22:18:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:19:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 825 times.
+
+[22:19:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:19:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 830 times.
+
+[22:20:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:20:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 835 times.
+
+[22:21:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:21:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 840 times.
+
+[22:21:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:22:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 845 times.
+
+[22:22:32] [Server thread/INFO] [Server Utilities/]: Ravara is no longer AFK
+[22:22:36] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Ravara
+[22:22:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:23:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 850 times.
+
+[22:23:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:24:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 855 times.
+
+[22:24:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:24:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 860 times.
+
+[22:24:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:25:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:25:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 865 times.
+
+[22:26:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:26:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 870 times.
+
+[22:27:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:27:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 875 times.
+
+[22:27:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:28:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 880 times.
+
+[22:28:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:29:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 885 times.
+
+[22:29:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:29:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 890 times.
+
+[22:30:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:30:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 895 times.
+
+[22:30:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:31:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 900 times.
+
+[22:31:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:32:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 905 times.
+
+[22:32:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:33:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:33:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 910 times.
+
+[22:33:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:34:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 915 times.
+
+[22:34:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:34:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 920 times.
+
+[22:35:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:35:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 925 times.
+
+[22:36:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:36:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 930 times.
+
+[22:36:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:37:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 935 times.
+
+[22:37:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:38:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 940 times.
+
+[22:38:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:39:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 945 times.
+
+[22:39:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:39:55] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 950 times.
+
+[22:39:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:40:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:40:45] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 955 times.
+
+[22:41:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:41:35] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 960 times.
+
+[22:42:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:42:25] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 965 times.
+
+[22:42:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:43:15] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 970 times.
+
+[22:43:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[22:44:05] [Server thread/DEBUG] [FML/]: The world 679e5154 (World) may have leaked: seen 975 times.
+
+[22:44:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
