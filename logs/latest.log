@@ -35,3 +35,5 @@
 [02:55:45] [Server thread/INFO]: Ravara[/177.131.185.95:9632] logged in with entity id 1378161 at (-1584.9999880038943, 40.0, -6121.42788092828)
 [02:55:45] [Server thread/INFO]: Ravara joined the game
 [03:13:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3398ms behind, skipping 67 tick(s)
+[04:54:05] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:54:05] [Server thread/INFO]: Ravara left the game
