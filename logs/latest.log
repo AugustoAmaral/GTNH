@@ -18,3 +18,6 @@
 [08:17:38] [Server thread/WARN]: Fetching addPacket for removed entity
 [08:19:08] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [08:19:08] [Server thread/INFO]: Augustym_ left the game
+[13:04:05] [User Authenticator #2/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[13:04:06] [Server thread/INFO]: Ravara[/177.131.185.95:9199] logged in with entity id 29494 at (-2042.7058180994095, 64.0, -6161.6940017815305)
+[13:04:06] [Server thread/INFO]: Ravara joined the game
