@@ -29187,3 +29187,105 @@ java.io.IOException: Connection reset by peer
 [14:02:56] [Server thread/DEBUG] [hydroenergy/]: [HydroEnergy] Sent synchronize packet to player Augustym_
 [14:02:56] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
 [14:02:56] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[14:03:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:03:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:04:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:05:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:06:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:06:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:07:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:08:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:08:23] [Server thread/INFO] [Adventure Backpack/]: Stored spawn data for Augustym_: Pos{x=-1870, y=72, z=-6026} dimID: 0
+[14:08:28] [Server thread/INFO] [Adventure Backpack/]: Player just woke up in a portable sleeping bag.
+[14:08:28] [Server thread/INFO] [Adventure Backpack/]: Restored spawn data for Augustym_: Pos{x=-1870, y=72, z=-6026} dimID: 0
+[14:09:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:09:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:10:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:11:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:12:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:12:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:13:34] [Server thread/DEBUG] [Forestry/]: BetterQuesting 3 Standard Expansion crafting quest compat enabled.
+[14:13:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:14:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:15:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:15:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:16:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:17:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:18:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:18:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:19:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:20:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:21:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:21:48] [Server thread/INFO] [Adventure Backpack/]: Stored spawn data for Augustym_: Pos{x=-1870, y=72, z=-6026} dimID: 0
+[14:21:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:21:53] [Server thread/INFO] [Adventure Backpack/]: Player just woke up in a portable sleeping bag.
+[14:21:53] [Server thread/INFO] [Adventure Backpack/]: Restored spawn data for Augustym_: Pos{x=-1870, y=72, z=-6026} dimID: 0
+[14:22:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:23:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:24:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:24:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:25:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:26:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:27:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:27:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:28:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:29:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:30:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:30:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:31:03] [Server thread/INFO] [Server Utilities/]: Augustym_ is now AFK
+[14:31:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:32:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:33:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:33:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:34:07] [Server thread/INFO] [Server Utilities/]: Augustym_ is no longer AFK
+[14:34:25] [Server thread/INFO] [Adventure Backpack/]: Stored spawn data for Augustym_: Pos{x=-1870, y=72, z=-6026} dimID: 0
+[14:34:30] [Server thread/INFO] [Adventure Backpack/]: Player just woke up in a portable sleeping bag.
+[14:34:30] [Server thread/INFO] [Adventure Backpack/]: Restored spawn data for Augustym_: Pos{x=-1870, y=72, z=-6026} dimID: 0
+[14:34:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:35:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:36:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:36:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:37:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:38:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:39:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:39:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:40:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:41:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:42:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:42:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:43:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:44:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:45:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:45:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:46:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:46:58] [Server thread/INFO] [Adventure Backpack/]: Stored spawn data for Augustym_: Pos{x=-1870, y=72, z=-6026} dimID: 0
+[14:47:03] [Server thread/INFO] [Adventure Backpack/]: Player just woke up in a portable sleeping bag.
+[14:47:03] [Server thread/INFO] [Adventure Backpack/]: Restored spawn data for Augustym_: Pos{x=-1870, y=72, z=-6026} dimID: 0
+[14:47:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:47:26] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[14:47:27] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[14:47:27] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[14:47:27] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[14:47:28] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[14:47:28] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[14:48:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:48:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:49:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:50:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:51:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:51:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:52:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:53:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:54:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:54:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:55:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:56:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:57:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:57:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:58:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[14:59:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:00:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:00:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:01:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:02:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[15:03:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
