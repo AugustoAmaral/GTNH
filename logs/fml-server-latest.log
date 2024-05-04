@@ -29424,3 +29424,148 @@ java.io.IOException: Connection reset by peer
 [16:03:10] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
 [16:03:10] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
 [16:03:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:04:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:05:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:05:21] [Server thread/INFO] [Server Utilities/]: Ravara is no longer AFK
+[16:06:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:06:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:07:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:08:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:08:45] [Server thread/INFO] [Server Utilities/]: Augustym_ is now AFK
+[16:09:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:09:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:10:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:11:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:12:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:12:35] [Server thread/INFO] [Server Utilities/]: Ravara is now AFK
+[16:12:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:13:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:14:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:15:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:15:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:16:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:17:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:17:35] [Server thread/INFO] [Server Utilities/]: Augustym_ is no longer AFK
+[16:17:43] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[16:17:43] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[16:17:44] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[16:17:44] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[16:17:45] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[16:17:45] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[16:18:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:18:07] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:65): Grave @ (-111,10,-923) dimension = -1 destroyed by player EntityPlayerMP['Augustym_'/120791, l='World', x=-111.75, y=9.00, z=-922.32]
+[16:18:07] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.func_149749_a(BlockGrave.java:60): Grave @ (-111,10,-923) dimension = -1 destroyed
+[16:18:08] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:325): Storing post-mortem inventory into /home/ubuntu/gtnh_server/./World/data/inventory-Augustym_-2024-05-04_16.18.08-death-0.dat. It can be restored with command '/ob_inventory restore Augustym_ Augustym_-2024-05-04_16.18.08-death-0'
+[16:18:08] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:417): Scheduling grave placement for player 'EntityPlayerMP['Augustym_'/120791, l='World', x=-111.50, y=9.00, z=-922.92]':'com.mojang.authlib.GameProfile@e6016ff[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@4d5a9c3a]},legacy=false]' with 37 item(s) stored and 0 item(s) dropped
+[16:18:08] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:255): Grave for com.mojang.authlib.GameProfile@e6016ff[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@4d5a9c3a]},legacy=false] will be spawned at (-112,9,-923)
+[16:18:08] [Server thread/DEBUG] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:300): Grave backup for player com.mojang.authlib.GameProfile@e6016ff[id=49e1b2a9-d73e-4a53-9726-98afa31cb8a9,name=Augustym_,properties={textures=[com.mojang.authlib.properties.Property@4d5a9c3a]},legacy=false] saved to ./World/data/inventory-Augustym_-2024-05-04_16.18.08-grave-0.dat
+[16:18:08] [Server thread/INFO] [OpenMods/]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:217): Grave for (49e1b2a9-d73e-4a53-9726-98afa31cb8a9,Augustym_) was spawned at (-112,9,-923)
+[16:18:11] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[16:18:11] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[16:18:12] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[16:18:12] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[16:18:23] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[16:18:28] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[16:18:28] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[16:18:29] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[16:18:29] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[16:18:48] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:65): Grave @ (-112,9,-923) dimension = -1 destroyed by player EntityPlayerMP['Augustym_'/120791, l='World', x=-111.38, y=9.20, z=-922.62]
+[16:18:48] [Server thread/DEBUG] [OpenMods/]: openblocks.common.block.BlockGrave.func_149749_a(BlockGrave.java:60): Grave @ (-112,9,-923) dimension = -1 destroyed
+[16:18:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:19:32] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[16:19:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:20:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:21:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:21:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:22:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:23:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:24:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:24:38] [Server thread/INFO] [Server Utilities/]: Ravara is no longer AFK
+[16:24:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:25:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:25:36] [Server thread/INFO] [Adventure Backpack/]: Joined EntityPlayer of name: Augustym_
+[16:25:36] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: Augustym_
+[16:25:38] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[16:25:38] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[16:25:38] [Server thread/INFO] [JourneyMapServer/]: On Request: Sending WorldID packet to: Augustym_
+[16:25:38] [Server thread/INFO] [JourneyMapServer/]: Augustym_ is an EntityPlayerMP attempting to send the worldId packet
+[16:25:41] [Server thread/WARN] [Adventure Backpack/]: Cannot store spawn data for Augustym_
+[16:25:47] [Server thread/INFO] [Morpheus/]: Augustym_ foi de neneca... 1/2 (50%)
+[16:25:47] [Server thread/INFO] [Adventure Backpack/]: Player just woke up in a portable sleeping bag.
+[16:25:47] [Server thread/WARN] [Adventure Backpack/]: No spawn data to restore for Augustym_
+[16:26:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:27:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:27:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:28:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:29:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:29:43] [Server thread/INFO] [Server Utilities/]: Ravara is now AFK
+[16:30:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:30:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:31:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:32:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:33:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:33:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:34:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:35:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:36:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:36:50] [Server thread/INFO] [Morpheus/]: Augustym_ foi de neneca... 1/2 (50%)
+[16:36:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:37:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:38:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:39:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:39:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:40:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:41:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:42:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:42:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:43:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:44:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:45:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:45:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:46:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:47:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:47:35] [Server thread/INFO] [Adventure Backpack/]: Stored spawn data for Augustym_: Pos{x=-1878, y=76, z=-6039} dimID: 0
+[16:47:40] [Server thread/INFO] [Morpheus/]: Augustym_ foi de neneca... 1/2 (50%)
+[16:47:40] [Server thread/INFO] [Adventure Backpack/]: Player just woke up in a portable sleeping bag.
+[16:47:40] [Server thread/INFO] [Adventure Backpack/]: Restored spawn data for Augustym_: Pos{x=-1878, y=76, z=-6039} dimID: 0
+[16:48:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:48:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:49:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:50:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:51:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:51:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:52:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:53:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:54:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:54:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:55:16] [Netty IO #7/ERROR] [FML/]: NetworkDispatcher exception
+java.io.IOException: Connection reset by peer
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method) ~[?:1.8.0_402]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39) ~[?:1.8.0_402]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_402]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_402]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379) ~[?:1.8.0_402]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:436) ~[UnpooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:870) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:208) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:87) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:480) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101) [SingleThreadEventExecutor$2.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_402]
+[16:55:17] [Server thread/DEBUG] [NotEnoughItems/]: Unloading Player: Ravara
+[16:55:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:56:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:57:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:57:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:58:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:59:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[16:59:26] [Server thread/INFO] [Server Utilities/]: Augustym_ is now AFK
+[17:00:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[17:00:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[17:01:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[17:02:20] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[17:03:05] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[17:03:50] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
+[17:04:35] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save World
