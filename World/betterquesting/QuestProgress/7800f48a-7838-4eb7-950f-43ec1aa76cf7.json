@@ -2480,7 +2480,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0
+								56
 							],
 							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
 						}
@@ -15864,12 +15864,27 @@
 		},
 		"907:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1714852789819
+				}
+			},
 			"questIDLow:4": 117,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
-					"userProgress:9": {},
+					"completeUsers:9": {
+						"0:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
+					},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								1
+							],
+							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:retrieval"
 				}
@@ -18082,7 +18097,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
-							"value:3": 3
+							"value:3": 5
 						}
 					},
 					"index:3": 0,
@@ -24178,7 +24193,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
-							"value:3": 12
+							"value:3": 13
 						}
 					},
 					"index:3": 0,
@@ -27417,12 +27432,27 @@
 		},
 		"1555:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 1,
+					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
+					"timestamp:4": 1714852210718
+				}
+			},
 			"questIDLow:4": 1865,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
-					"userProgress:9": {},
+					"completeUsers:9": {
+						"0:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
+					},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								1
+							],
+							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:retrieval"
 				}
@@ -45141,7 +45171,7 @@
 				"0:10": {
 					"claimed:1": 1,
 					"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7",
-					"timestamp:4": 1714844810769
+					"timestamp:4": 1714852170971
 				}
 			},
 			"questIDLow:4": 884,
@@ -60928,7 +60958,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0,
+								1,
 								0
 							],
 							"uuid:8": "7800f48a-7838-4eb7-950f-43ec1aa76cf7"
