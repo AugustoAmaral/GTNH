@@ -1,80 +1,16 @@
-[00:46:06] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:46:06] [Server thread/INFO]: Ravara left the game
-[01:24:07] [User Authenticator #8/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[01:24:08] [Server thread/INFO]: Ravara[/177.131.185.95:9286] logged in with entity id 1553456 at (-1866.0506389825332, 75.0, -6014.698815308331)
-[01:24:08] [Server thread/INFO]: Ravara joined the game
-[01:24:16] [Server thread/INFO]: <Augustym_> ja entro disc
-[01:26:20] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[01:26:20] [Server thread/INFO]: Ravara left the game
-[01:34:04] [User Authenticator #9/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[01:34:05] [Server thread/INFO]: Ravara[/177.131.185.95:9289] logged in with entity id 1576104 at (-1866.0506389825332, 75.0, -6014.698815308331)
-[01:34:05] [Server thread/INFO]: Ravara joined the game
-[01:46:41] [Server thread/INFO]: <Ravara> betterquesting.msg.sharequest:AAAAAAAAAAAAAAAAAAACEw==
-[01:49:38] [Server thread/INFO]: <Ravara> betterquesting.msg.sharequest:AAAAAAAAAAAAAAAAAAAEcA==
-[01:58:53] [Server thread/INFO]: <Ravara> betterquesting.msg.sharequest:AAAAAAAAAAAAAAAAAAALIg==
-[02:12:35] [Server thread/INFO]: Ravara has just earned the achievement [Buried secrets]
-[02:16:08] [Server thread/INFO]: Ravara has just earned the achievement [My precious!]
-[02:19:27] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:19:27] [Server thread/INFO]: Augustym_ left the game
-[03:23:19] [Server thread/INFO]: Ravara drowned
-[03:24:26] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[03:24:26] [Server thread/INFO]: Ravara left the game
-[05:45:56] [User Authenticator #10/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
-[05:45:56] [Server thread/INFO]: Ravara[/177.131.185.95:9519] logged in with entity id 1832731 at (-1805.674117858003, 70.0, -6032.65907561208)
-[05:45:56] [Server thread/INFO]: Ravara joined the game
-[07:00:00] [Server thread/INFO]: Stopping server
-[07:00:00] [Server thread/INFO]: Saving players
-[07:00:00] [Server thread/INFO]: Saving worlds
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Seth
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Horus
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Neper
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
-[07:00:00] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
+[07:00:29] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[07:01:34] [Server thread/INFO]: Loading properties
+[07:01:34] [Server thread/INFO]: Default game type: SURVIVAL
+[07:01:34] [Server thread/INFO]: Generating keypair
+[07:01:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:03:36] [Server thread/INFO]: Preparing level "World"
+[07:03:38] [Server thread/INFO]: Preparing start region for level 0
+[07:03:39] [Server thread/INFO]: Preparing spawn area: 53%
+[07:03:39] [Server thread/INFO]: Done (4.027s)! For help, type "help" or "?"
+[07:03:44] [Server thread/INFO]: Reloaded default quest database
+[07:03:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3082ms behind, skipping 61 tick(s)
+[07:04:16] [User Authenticator #1/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[07:04:17] [Server thread/INFO]: Ravara[/177.131.185.95:9291] logged in with entity id 1424 at (-1861.4914261814206, 72.0, -6023.855492607919)
+[07:04:17] [Server thread/INFO]: Ravara joined the game
+[07:15:23] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[07:15:23] [Server thread/INFO]: Ravara left the game
