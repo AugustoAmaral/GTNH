@@ -1,12 +1,11 @@
-[02:15:43] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[02:15:43] [Server thread/INFO]: Ravara left the game
-[03:54:44] [Server thread/WARN]: Failed to handle packet for /155.248.209.22:61000
-java.lang.UnsupportedOperationException: Unexpected change in protocol to null
-	at net.minecraft.server.network.NetHandlerStatusServer.func_147232_a(SourceFile:26) ~[nq.class:?]
-	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:201) ~[ej.class:?]
-	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165) [nc.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
+[07:00:28] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[07:01:31] [Server thread/INFO]: Loading properties
+[07:01:31] [Server thread/INFO]: Default game type: SURVIVAL
+[07:01:31] [Server thread/INFO]: Generating keypair
+[07:01:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:03:30] [Server thread/INFO]: Preparing level "World"
+[07:03:32] [Server thread/INFO]: Preparing start region for level 0
+[07:03:33] [Server thread/INFO]: Preparing spawn area: 55%
+[07:03:33] [Server thread/INFO]: Done (4.046s)! For help, type "help" or "?"
+[07:03:38] [Server thread/INFO]: Reloaded default quest database
+[07:03:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2867ms behind, skipping 57 tick(s)
