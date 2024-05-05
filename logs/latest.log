@@ -302,3 +302,11 @@
 [20:59:27] [Server thread/INFO]: §cRavara§f writhed in pain
 [20:59:27] [Server thread/INFO]: Ravara was shot by Brutish Zombie
 [21:33:43] [Server thread/INFO]: <Augustym_> ola
+[23:23:18] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:23:18] [Server thread/INFO]: Ravara left the game
+[23:25:08] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:25:08] [Server thread/INFO]: Augustym_ left the game
+[23:41:55] [User Authenticator #7/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[23:41:56] [Server thread/INFO]: Ravara[/177.131.185.95:9520] logged in with entity id 1647759 at (-1877.5, 71.0, -6052.5)
+[23:41:56] [Server thread/INFO]: Ravara joined the game
+[23:41:57] [Server thread/WARN]: Fetching addPacket for removed entity
