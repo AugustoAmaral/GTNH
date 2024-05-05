@@ -127,7 +127,7 @@ How many circuits have you crafted in your life?
 JourneyMap: Press [J]
 Not by Vazkii
 sqrt(-1) loves you!
-(MultiMC || Prism > Curse) && (Technic > Curse): true
+((MultiMC | Prism) > Curse) && (Technic > Curse): true
 All you had to do was follow the damn quest line, CJ!
 Click on an item in the quest book to show its recipe in NEI
 Why not visit GregTech? We have... microcrafting
@@ -160,3 +160,4 @@ Daddy Kitten has no power over staff - boubou_19
 Try downloading more RAM
 Try downloading more WAM
 The Item Dislocator is available sooner than you might think!
+Please, refrain from eating optical fiber cable.
