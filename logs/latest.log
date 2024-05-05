@@ -1,2 +1,12 @@
 [02:15:43] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [02:15:43] [Server thread/INFO]: Ravara left the game
+[03:54:44] [Server thread/WARN]: Failed to handle packet for /155.248.209.22:61000
+java.lang.UnsupportedOperationException: Unexpected change in protocol to null
+	at net.minecraft.server.network.NetHandlerStatusServer.func_147232_a(SourceFile:26) ~[nq.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:201) ~[ej.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165) [nc.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334) [lt.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685) [li.class:?]
