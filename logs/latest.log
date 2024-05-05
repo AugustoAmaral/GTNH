@@ -1,0 +1,602 @@
+[16:21:44] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[16:22:45] [Server thread/INFO]: Loading properties
+[16:22:45] [Server thread/INFO]: Default game type: SURVIVAL
+[16:22:45] [Server thread/INFO]: Generating keypair
+[16:22:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:25:03] [Server thread/INFO]: Preparing level "World"
+[16:25:06] [Server thread/INFO]: Preparing start region for level 0
+[16:25:07] [Server thread/INFO]: Preparing spawn area: 41%
+[16:25:07] [Server thread/INFO]: Done (4.897s)! For help, type "help" or "?"
+[16:25:14] [Server thread/INFO]: Reloaded default quest database
+[16:26:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3138ms behind, skipping 62 tick(s)
+[16:43:11] [User Authenticator #1/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[16:43:12] [Server thread/INFO]: Augustym_[/186.214.48.138:64910] logged in with entity id 24502390 at (-1872.0254943347231, 85.0, -6010.002010236926)
+[16:43:12] [Server thread/INFO]: Augustym_ joined the game
+[16:43:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3199ms behind, skipping 63 tick(s)
+[16:43:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17221ms behind, skipping 344 tick(s)
+[16:44:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3197ms behind, skipping 63 tick(s)
+[16:44:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13717ms behind, skipping 274 tick(s)
+[16:44:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5386ms behind, skipping 107 tick(s)
+[16:45:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13331ms behind, skipping 266 tick(s)
+[16:45:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5033ms behind, skipping 100 tick(s)
+[16:45:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12612ms behind, skipping 252 tick(s)
+[16:45:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4685ms behind, skipping 93 tick(s)
+[16:46:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10666ms behind, skipping 213 tick(s)
+[16:46:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7029ms behind, skipping 140 tick(s)
+[16:46:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9311ms behind, skipping 186 tick(s)
+[16:47:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5854ms behind, skipping 117 tick(s)
+[16:47:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8430ms behind, skipping 168 tick(s)
+[16:47:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6422ms behind, skipping 128 tick(s)
+[16:48:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8753ms behind, skipping 175 tick(s)
+[16:48:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5849ms behind, skipping 116 tick(s)
+[16:48:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8436ms behind, skipping 168 tick(s)
+[16:48:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6894ms behind, skipping 137 tick(s)
+[16:49:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11176ms behind, skipping 223 tick(s)
+[16:49:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6936ms behind, skipping 138 tick(s)
+[16:50:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10227ms behind, skipping 204 tick(s)
+[16:50:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5752ms behind, skipping 115 tick(s)
+[16:50:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8215ms behind, skipping 164 tick(s)
+[16:50:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5748ms behind, skipping 114 tick(s)
+[16:51:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8699ms behind, skipping 173 tick(s)
+[16:51:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5473ms behind, skipping 109 tick(s)
+[16:51:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9885ms behind, skipping 197 tick(s)
+[16:52:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6600ms behind, skipping 132 tick(s)
+[16:52:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9246ms behind, skipping 184 tick(s)
+[16:52:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5689ms behind, skipping 113 tick(s)
+[16:52:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8162ms behind, skipping 163 tick(s)
+[16:53:12] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:53:12] [Server thread/INFO]: Augustym_ left the game
+[16:53:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7521ms behind, skipping 150 tick(s)
+[16:53:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3309ms behind, skipping 66 tick(s)
+[16:53:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3060ms behind, skipping 61 tick(s)
+[16:53:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3058ms behind, skipping 61 tick(s)
+[17:00:59] [User Authenticator #2/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[17:01:00] [Server thread/INFO]: Ravara[/177.131.185.95:9555] logged in with entity id 24515786 at (-1881.893524740464, 72.0, -6030.980606322489)
+[17:01:00] [Server thread/INFO]: Ravara joined the game
+[17:01:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)
+[17:01:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14136ms behind, skipping 282 tick(s)
+[17:01:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5031ms behind, skipping 100 tick(s)
+[17:02:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14044ms behind, skipping 280 tick(s)
+[17:02:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5097ms behind, skipping 101 tick(s)
+[17:02:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11546ms behind, skipping 230 tick(s)
+[17:03:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7911ms behind, skipping 158 tick(s)
+[17:03:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7222ms behind, skipping 144 tick(s)
+[17:03:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10709ms behind, skipping 214 tick(s)
+[17:04:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6775ms behind, skipping 135 tick(s)
+[17:04:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9668ms behind, skipping 193 tick(s)
+[17:04:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6109ms behind, skipping 122 tick(s)
+[17:05:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10586ms behind, skipping 211 tick(s)
+[17:05:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7217ms behind, skipping 144 tick(s)
+[17:05:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8863ms behind, skipping 177 tick(s)
+[17:05:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6499ms behind, skipping 129 tick(s)
+[17:06:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11008ms behind, skipping 220 tick(s)
+[17:06:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5721ms behind, skipping 114 tick(s)
+[17:06:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8391ms behind, skipping 167 tick(s)
+[17:07:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6838ms behind, skipping 136 tick(s)
+[17:07:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10689ms behind, skipping 213 tick(s)
+[17:07:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5743ms behind, skipping 114 tick(s)
+[17:08:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9869ms behind, skipping 197 tick(s)
+[17:08:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7099ms behind, skipping 141 tick(s)
+[17:08:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7019ms behind, skipping 140 tick(s)
+[17:09:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9719ms behind, skipping 194 tick(s)
+[17:09:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6946ms behind, skipping 138 tick(s)
+[17:09:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10538ms behind, skipping 210 tick(s)
+[17:09:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5593ms behind, skipping 111 tick(s)
+[17:10:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8826ms behind, skipping 176 tick(s)
+[17:10:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6813ms behind, skipping 136 tick(s)
+[17:10:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10623ms behind, skipping 212 tick(s)
+[17:11:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6727ms behind, skipping 134 tick(s)
+[17:11:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10155ms behind, skipping 203 tick(s)
+[17:11:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6977ms behind, skipping 139 tick(s)
+[17:12:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9896ms behind, skipping 197 tick(s)
+[17:12:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6006ms behind, skipping 120 tick(s)
+[17:12:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9758ms behind, skipping 195 tick(s)
+[17:13:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7086ms behind, skipping 141 tick(s)
+[17:13:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9159ms behind, skipping 183 tick(s)
+[17:13:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6904ms behind, skipping 138 tick(s)
+[17:14:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11448ms behind, skipping 228 tick(s)
+[17:14:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8651ms behind, skipping 173 tick(s)
+[17:14:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7794ms behind, skipping 155 tick(s)
+[17:14:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7846ms behind, skipping 156 tick(s)
+[17:15:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8232ms behind, skipping 164 tick(s)
+[17:15:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8374ms behind, skipping 167 tick(s)
+[17:15:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7520ms behind, skipping 150 tick(s)
+[17:16:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7570ms behind, skipping 151 tick(s)
+[17:16:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7669ms behind, skipping 153 tick(s)
+[17:16:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8091ms behind, skipping 161 tick(s)
+[17:16:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7213ms behind, skipping 144 tick(s)
+[17:17:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7640ms behind, skipping 152 tick(s)
+[17:17:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7674ms behind, skipping 153 tick(s)
+[17:17:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7570ms behind, skipping 151 tick(s)
+[17:17:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7920ms behind, skipping 158 tick(s)
+[17:18:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7499ms behind, skipping 149 tick(s)
+[17:18:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7829ms behind, skipping 156 tick(s)
+[17:18:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8394ms behind, skipping 167 tick(s)
+[17:18:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8616ms behind, skipping 172 tick(s)
+[17:19:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6968ms behind, skipping 139 tick(s)
+[17:19:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11553ms behind, skipping 231 tick(s)
+[17:19:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7765ms behind, skipping 155 tick(s)
+[17:20:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7976ms behind, skipping 159 tick(s)
+[17:20:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7503ms behind, skipping 150 tick(s)
+[17:20:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7571ms behind, skipping 151 tick(s)
+[17:20:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8063ms behind, skipping 161 tick(s)
+[17:21:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7699ms behind, skipping 153 tick(s)
+[17:21:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8082ms behind, skipping 161 tick(s)
+[17:21:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7588ms behind, skipping 151 tick(s)
+[17:22:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7977ms behind, skipping 159 tick(s)
+[17:22:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8357ms behind, skipping 167 tick(s)
+[17:22:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8676ms behind, skipping 173 tick(s)
+[17:22:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8280ms behind, skipping 165 tick(s)
+[17:23:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8330ms behind, skipping 166 tick(s)
+[17:23:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8207ms behind, skipping 164 tick(s)
+[17:23:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8417ms behind, skipping 168 tick(s)
+[17:23:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7874ms behind, skipping 157 tick(s)
+[17:24:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8074ms behind, skipping 161 tick(s)
+[17:24:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7712ms behind, skipping 154 tick(s)
+[17:24:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7685ms behind, skipping 153 tick(s)
+[17:25:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7363ms behind, skipping 147 tick(s)
+[17:25:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7763ms behind, skipping 155 tick(s)
+[17:25:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7538ms behind, skipping 150 tick(s)
+[17:25:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7918ms behind, skipping 158 tick(s)
+[17:26:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6911ms behind, skipping 138 tick(s)
+[17:26:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4508ms behind, skipping 90 tick(s)
+[17:26:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5647ms behind, skipping 112 tick(s)
+[17:26:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7536ms behind, skipping 150 tick(s)
+[17:27:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5535ms behind, skipping 110 tick(s)
+[17:27:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5737ms behind, skipping 114 tick(s)
+[17:27:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7106ms behind, skipping 142 tick(s)
+[17:28:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6577ms behind, skipping 131 tick(s)
+[17:28:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5940ms behind, skipping 118 tick(s)
+[17:28:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7279ms behind, skipping 145 tick(s)
+[17:29:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9839ms behind, skipping 196 tick(s)
+[17:29:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6468ms behind, skipping 129 tick(s)
+[17:29:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12281ms behind, skipping 245 tick(s)
+[17:29:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5055ms behind, skipping 101 tick(s)
+[17:30:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12724ms behind, skipping 254 tick(s)
+[17:30:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5087ms behind, skipping 101 tick(s)
+[17:31:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13107ms behind, skipping 262 tick(s)
+[17:31:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4882ms behind, skipping 97 tick(s)
+[17:31:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12374ms behind, skipping 247 tick(s)
+[17:31:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4944ms behind, skipping 98 tick(s)
+[17:32:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12005ms behind, skipping 240 tick(s)
+[17:32:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4903ms behind, skipping 98 tick(s)
+[17:32:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12530ms behind, skipping 250 tick(s)
+[17:32:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4933ms behind, skipping 98 tick(s)
+[17:33:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11371ms behind, skipping 227 tick(s)
+[17:33:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8085ms behind, skipping 161 tick(s)
+[17:33:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8281ms behind, skipping 165 tick(s)
+[17:34:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7674ms behind, skipping 153 tick(s)
+[17:34:23] [User Authenticator #3/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[17:34:24] [Server thread/INFO]: Augustym_[/186.214.48.138:52170] logged in with entity id 24561319 at (-1862.5464388046198, 61.0, -5987.117354498453)
+[17:34:24] [Server thread/INFO]: Augustym_ joined the game
+[17:34:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8463ms behind, skipping 169 tick(s)
+[17:34:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8687ms behind, skipping 173 tick(s)
+[17:34:53] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:34:53] [Server thread/INFO]: Augustym_ left the game
+[17:35:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8501ms behind, skipping 170 tick(s)
+[17:35:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8435ms behind, skipping 168 tick(s)
+[17:35:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8006ms behind, skipping 160 tick(s)
+[17:35:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7669ms behind, skipping 153 tick(s)
+[17:36:02] [User Authenticator #4/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[17:36:02] [Server thread/INFO]: Augustym_[/186.214.48.138:52293] logged in with entity id 24563064 at (-1862.5464388046198, 61.0, -5987.117354498453)
+[17:36:02] [Server thread/INFO]: Augustym_ joined the game
+[17:36:08] [Server thread/INFO]: <Ravara> oia o homi ai
+[17:36:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8313ms behind, skipping 166 tick(s)
+[17:36:12] [Server thread/INFO]: <Augustym_> olá olá
+[17:36:24] [Server thread/INFO]: <Ravara> pq nosso nome ta amarelo?
+[17:36:25] [Server thread/INFO]: <Ravara> gostei
+[17:36:26] [Server thread/INFO]: <Ravara> kkkk
+[17:36:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8407ms behind, skipping 168 tick(s)
+[17:36:30] [Server thread/INFO]: <Ravara> chama mais a aten
+[17:36:34] [Server thread/INFO]: <Ravara> chama mais a atenção
+[17:36:38] [Server thread/INFO]: <Augustym_> pq eu achei mais bonito que o cinza kkkk
+[17:36:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8973ms behind, skipping 179 tick(s)
+[17:36:50] [Server thread/INFO]: <Ravara> agora vai lá spawnar enderman
+[17:36:53] [Server thread/INFO]: <Ravara> chop chop kkkk
+[17:37:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8509ms behind, skipping 170 tick(s)
+[17:37:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8669ms behind, skipping 173 tick(s)
+[17:37:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9319ms behind, skipping 186 tick(s)
+[17:37:41] [Server thread/INFO]: <Augustym_> nossa
+[17:37:44] [Server thread/INFO]: <Augustym_> o jogo ta mt mais liso
+[17:37:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8688ms behind, skipping 173 tick(s)
+[17:37:59] [Server thread/INFO]: <Ravara> seguinte
+[17:38:00] [Server thread/INFO]: <Ravara> to saindo
+[17:38:09] [Server thread/INFO]: <Augustym_> calmai
+[17:38:10] [Server thread/INFO]: <Augustym_> pera
+[17:38:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8513ms behind, skipping 170 tick(s)
+[17:38:13] [Server thread/INFO]: <Ravara> vou levar ester na emergencia, ela n ta mt legal
+[17:38:24] [Server thread/INFO]: Opped augustym_
+[17:38:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8336ms behind, skipping 166 tick(s)
+[17:38:28] [Server thread/INFO]: [Augustym_: Set own game mode to Creative Mode]
+[17:38:31] [Server thread/INFO]: <Ravara> n ta comendo direito faz uns 3 dias e ontem tava vomitando
+[17:38:36] [Server thread/INFO]: [Augustym_: Given [Prospector's Log] * 1 to Augustym_]
+[17:38:42] [Server thread/INFO]: <Augustym_> aquii
+[17:38:43] [Server thread/INFO]: <Ravara> fala ai rápido
+[17:38:44] [Server thread/INFO]: <Augustym_> clica
+[17:38:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9647ms behind, skipping 192 tick(s)
+[17:38:51] [Server thread/INFO]: <Augustym_> da use
+[17:38:53] [Server thread/INFO]: <Augustym_> e me devolve
+[17:38:55] [Server thread/INFO]: <Augustym_> por favor
+[17:38:59] [Server thread/INFO]: <Augustym_> e melhoras pra ela
+[17:39:03] [Server thread/INFO]: <Augustym_> ela comeu algo diferente
+[17:39:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8764ms behind, skipping 175 tick(s)
+[17:39:14] [Server thread/INFO]: <Augustym_> ue
+[17:39:14] [Server thread/INFO]: <Ravara> to sem mapa
+[17:39:17] [Server thread/INFO]: <Augustym_> pq?
+[17:39:19] [Server thread/INFO]: <Ravara> n sei
+[17:39:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8646ms behind, skipping 172 tick(s)
+[17:39:24] [Server thread/INFO]: <Augustym_> perai
+[17:39:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8530ms behind, skipping 170 tick(s)
+[17:39:45] [Server thread/INFO]: <Augustym_> aqui
+[17:39:53] [Server thread/INFO]: <Augustym_> testa
+[17:39:54] [Server thread/INFO]: [Augustym_: Given [Prospector's Log] * 1 to Augustym_]
+[17:39:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9204ms behind, skipping 184 tick(s)
+[17:40:01] [Server thread/INFO]: <Augustym_> liberou o seu?
+[17:40:05] [Server thread/INFO]: <Ravara> failed: what?!? that was empity?
+[17:40:12] [Server thread/INFO]: <Augustym_> deixa entao
+[17:40:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8253ms behind, skipping 165 tick(s)
+[17:40:16] [Server thread/INFO]: <Augustym_> melhoras pra ela
+[17:40:19] [Server thread/INFO]: <Ravara> dps vejo esse troço de mapa
+[17:40:22] [Server thread/INFO]: <Ravara> bjs
+[17:40:29] [Server thread/INFO]: [Augustym_: Set own game mode to Survival Mode]
+[17:40:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8227ms behind, skipping 164 tick(s)
+[17:40:30] [Server thread/INFO]: Ravara lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:40:30] [Server thread/INFO]: Ravara left the game
+[17:40:34] [Server thread/INFO]: De-opped Augustym_
+[17:40:42] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:40:42] [Server thread/INFO]: Augustym_ left the game
+[17:40:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7342ms behind, skipping 146 tick(s)
+[17:40:46] [User Authenticator #5/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[17:40:47] [Server thread/INFO]: Augustym_[/186.214.48.138:52608] logged in with entity id 24569757 at (-1882.6295382467786, 72.0, -6018.877032680293)
+[17:40:47] [Server thread/INFO]: Augustym_ joined the game
+[17:41:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10767ms behind, skipping 215 tick(s)
+[17:41:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8689ms behind, skipping 173 tick(s)
+[17:41:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8288ms behind, skipping 165 tick(s)
+[17:41:45] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:41:45] [Server thread/INFO]: Augustym_ left the game
+[17:42:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8481ms behind, skipping 169 tick(s)
+[17:42:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4388ms behind, skipping 87 tick(s)
+[17:52:57] [User Authenticator #6/INFO]: UUID of player Augustym_ is 49e1b2a9-d73e-4a53-9726-98afa31cb8a9
+[17:52:58] [Server thread/INFO]: Augustym_[/186.214.48.138:53450] logged in with entity id 24572953 at (-1863.5, 70.0, -6053.5)
+[17:52:58] [Server thread/INFO]: Augustym_ joined the game
+[17:53:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2327ms behind, skipping 46 tick(s)
+[17:53:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13473ms behind, skipping 269 tick(s)
+[17:53:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5269ms behind, skipping 105 tick(s)
+[17:54:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12262ms behind, skipping 245 tick(s)
+[17:54:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5238ms behind, skipping 104 tick(s)
+[17:54:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12230ms behind, skipping 244 tick(s)
+[17:54:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5224ms behind, skipping 104 tick(s)
+[17:55:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11464ms behind, skipping 229 tick(s)
+[17:55:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7183ms behind, skipping 143 tick(s)
+[17:55:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7353ms behind, skipping 147 tick(s)
+[17:56:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7346ms behind, skipping 146 tick(s)
+[17:56:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10511ms behind, skipping 210 tick(s)
+[17:56:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7414ms behind, skipping 148 tick(s)
+[17:57:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7743ms behind, skipping 154 tick(s)
+[17:57:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8170ms behind, skipping 163 tick(s)
+[17:57:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7883ms behind, skipping 157 tick(s)
+[17:57:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7917ms behind, skipping 158 tick(s)
+[17:58:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7517ms behind, skipping 150 tick(s)
+[17:58:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7746ms behind, skipping 154 tick(s)
+[17:58:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8155ms behind, skipping 163 tick(s)
+[17:58:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5767ms behind, skipping 115 tick(s)
+[17:59:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8713ms behind, skipping 174 tick(s)
+[17:59:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5010ms behind, skipping 100 tick(s)
+[17:59:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7672ms behind, skipping 153 tick(s)
+[18:00:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14937ms behind, skipping 298 tick(s)
+[18:00:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11114ms behind, skipping 222 tick(s)
+[18:00:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11217ms behind, skipping 224 tick(s)
+[18:01:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9149ms behind, skipping 182 tick(s)
+[18:01:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11674ms behind, skipping 233 tick(s)
+[18:01:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7765ms behind, skipping 155 tick(s)
+[18:02:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16331ms behind, skipping 326 tick(s)
+[18:02:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4623ms behind, skipping 92 tick(s)
+[18:02:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18261ms behind, skipping 365 tick(s)
+[18:02:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3227ms behind, skipping 64 tick(s)
+[18:03:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14247ms behind, skipping 284 tick(s)
+[18:03:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5551ms behind, skipping 111 tick(s)
+[18:03:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13178ms behind, skipping 263 tick(s)
+[18:04:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4273ms behind, skipping 85 tick(s)
+[18:04:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9594ms behind, skipping 191 tick(s)
+[18:04:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8072ms behind, skipping 161 tick(s)
+[18:04:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7402ms behind, skipping 148 tick(s)
+[18:05:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8211ms behind, skipping 164 tick(s)
+[18:05:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8219ms behind, skipping 164 tick(s)
+[18:05:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8686ms behind, skipping 173 tick(s)
+[18:06:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9175ms behind, skipping 183 tick(s)
+[18:06:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8935ms behind, skipping 178 tick(s)
+[18:06:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8372ms behind, skipping 167 tick(s)
+[18:06:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8217ms behind, skipping 164 tick(s)
+[18:07:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8555ms behind, skipping 171 tick(s)
+[18:07:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8597ms behind, skipping 171 tick(s)
+[18:07:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8418ms behind, skipping 168 tick(s)
+[18:08:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8635ms behind, skipping 172 tick(s)
+[18:08:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8386ms behind, skipping 167 tick(s)
+[18:08:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8663ms behind, skipping 173 tick(s)
+[18:08:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8598ms behind, skipping 171 tick(s)
+[18:09:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10848ms behind, skipping 216 tick(s)
+[18:09:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11076ms behind, skipping 221 tick(s)
+[18:10:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12687ms behind, skipping 253 tick(s)
+[18:10:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6362ms behind, skipping 127 tick(s)
+[18:10:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12399ms behind, skipping 247 tick(s)
+[18:10:37] [User Authenticator #7/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[18:10:38] [Server thread/INFO]: Ravara[/177.131.185.95:9632] logged in with entity id 24614244 at (-1866.6547087837487, 72.0, -6027.1581961944785)
+[18:10:38] [Server thread/INFO]: Ravara joined the game
+[18:10:39] [Server thread/WARN]: Fetching addPacket for removed entity
+[18:10:39] [Server thread/WARN]: Fetching addPacket for removed entity
+[18:10:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10172ms behind, skipping 203 tick(s)
+[18:11:00] [Server thread/INFO]: <Ravara> agora o mapa apareceu
+[18:11:10] [Server thread/INFO]: <Augustym_> tio
+[18:11:11] [Server thread/INFO]: <Augustym_> op
+[18:11:14] [Server thread/INFO]: <Augustym_> top
+[18:11:16] [Server thread/INFO]: <Augustym_> já foi la?
+[18:11:19] [Server thread/INFO]: <Ravara> tio op kkk
+[18:11:20] [Server thread/INFO]: <Ravara> n
+[18:11:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23318ms behind, skipping 466 tick(s)
+[18:11:28] [Server thread/INFO]: <Augustym_> aconteceu alguma coisa?
+[18:11:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4401ms behind, skipping 88 tick(s)
+[18:11:39] [Server thread/INFO]: <Augustym_> qual o nome da maquina de coletar berry mesmo?
+[18:11:41] [Server thread/INFO]: <Ravara> tomei banho com ester, ai Davi vai ficar na casa da avó e ta tomando banho tbm
+[18:11:43] [Server thread/INFO]: <Ravara> to só esperando
+[18:11:47] [Server thread/INFO]: <Ravara> crop manager
+[18:11:56] [Server thread/INFO]: <Augustym_> Ah, eu lembro que vc perguntou do cachorro e me distrai todas as vcezes
+[18:11:59] [Server thread/INFO]: <Ravara> a berry precisa de pouca luz, lembre-se disso
+[18:12:03] [Server thread/INFO]: <Augustym_> ele ta bem, vai fazer exame amanha e fez hoje tbm
+[18:12:04] [Server thread/INFO]: <Ravara> reparei kkk
+[18:12:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21782ms behind, skipping 435 tick(s)
+[18:12:09] [Server thread/INFO]: <Augustym_> mas n saiu o resultado ainda
+[18:12:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4449ms behind, skipping 88 tick(s)
+[18:12:36] [Server thread/INFO]: <Ravara> progress bitch
+[18:12:39] [Server thread/INFO]: <Ravara> mano
+[18:12:41] [Server thread/INFO]: <Ravara> nem fiz frame
+[18:12:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21242ms behind, skipping 424 tick(s)
+[18:12:48] [Server thread/INFO]: <Ravara> e já ta dando mt mais resultado kkk
+[18:12:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4521ms behind, skipping 90 tick(s)
+[18:12:57] [Server thread/INFO]: <Augustym_> boa
+[18:13:05] [Server thread/INFO]: <Augustym_> vou fazer esse oreberry ai
+[18:13:12] [Server thread/INFO]: <Augustym_> cara
+[18:13:15] [Server thread/INFO]: <Augustym_> o jogo ta mt mais liso
+[18:13:18] [Server thread/INFO]: <Augustym_> puta que pariu kkkkkk
+[18:13:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16359ms behind, skipping 327 tick(s)
+[18:13:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4205ms behind, skipping 84 tick(s)
+[18:13:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18113ms behind, skipping 362 tick(s)
+[18:13:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4216ms behind, skipping 84 tick(s)
+[18:14:30] [Server thread/INFO]: <Ravara> cadiq?
+[18:14:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18410ms behind, skipping 368 tick(s)
+[18:14:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3918ms behind, skipping 78 tick(s)
+[18:15:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14745ms behind, skipping 294 tick(s)
+[18:15:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7606ms behind, skipping 152 tick(s)
+[18:15:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14696ms behind, skipping 293 tick(s)
+[18:15:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7655ms behind, skipping 153 tick(s)
+[18:16:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7647ms behind, skipping 152 tick(s)
+[18:16:12] [Server thread/INFO]: <Ravara> vou automatizar 4 abelhas
+[18:16:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13961ms behind, skipping 279 tick(s)
+[18:16:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7238ms behind, skipping 144 tick(s)
+[18:17:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15462ms behind, skipping 309 tick(s)
+[18:17:11] [Server thread/INFO]: <Augustym_> depois tira essa chest do meio das maquina aqui pfvr kkkkk
+[18:17:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4070ms behind, skipping 81 tick(s)
+[18:17:16] [Server thread/INFO]: <Augustym_> por causa do mod angelica
+[18:17:16] [Server thread/INFO]: <Ravara> vou tirar kkkk
+[18:17:23] [Server thread/INFO]: <Ravara> é pq n tem slot no carpenter
+[18:17:24] [Server thread/INFO]: <Augustym_> é um mod de otimizaçao feito só pro GT
+[18:17:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14248ms behind, skipping 284 tick(s)
+[18:17:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5660ms behind, skipping 113 tick(s)
+[18:18:23] [User Authenticator #8/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[18:18:24] [Server thread/INFO]: Ravara[/177.131.185.95:9885] logged in with entity id 24626898 at (-1867.011137420064, 78.02987646735536, -6010.597455287927)
+[18:18:24] [Server thread/INFO]: Ravara joined the game
+[18:18:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16110ms behind, skipping 322 tick(s)
+[18:18:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3467ms behind, skipping 69 tick(s)
+[18:18:53] [Server thread/INFO]: <Ravara> guto
+[18:18:59] [Server thread/INFO]: <Ravara> aconteceu uma parada muito bizarra
+[18:19:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17323ms behind, skipping 346 tick(s)
+[18:19:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3433ms behind, skipping 68 tick(s)
+[18:19:21] [Server thread/INFO]: <Ravara> tomei um time out e deu rollback no meu inventario
+[18:19:28] [Server thread/INFO]: <Augustym_> ???
+[18:19:35] [Server thread/INFO]: <Ravara> vc colocou red alloy pra fazer?
+[18:19:39] [Server thread/INFO]: <Augustym_> n
+[18:19:49] [Server thread/INFO]: <Ravara> pois é, os ingredientes apareceram no meu inv
+[18:19:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18020ms behind, skipping 360 tick(s)
+[18:19:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3388ms behind, skipping 67 tick(s)
+[18:20:02] [Server thread/INFO]: <Augustym_> q kkkkkkk
+[18:20:19] [Server thread/INFO]: <Ravara> peguei 1 stack de copper e 4 de redstone, coloquei pra fazer red alloy
+[18:20:25] [Server thread/INFO]: <Ravara> dps tava falando com vc e deu timed out
+[18:20:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15944ms behind, skipping 318 tick(s)
+[18:20:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3335ms behind, skipping 66 tick(s)
+[18:20:37] [Server thread/INFO]: <Ravara> ai quando loguei, o copper e redstone estavam no inventario
+[18:20:49] [Server thread/INFO]: <Ravara> mas tbm tava fazendo
+[18:20:52] [Server thread/INFO]: <Ravara> a red alloy
+[18:20:59] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:20:59] [Server thread/INFO]: Ravara left the game
+[18:21:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16434ms behind, skipping 328 tick(s)
+[18:21:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3306ms behind, skipping 66 tick(s)
+[18:21:16] [Server thread/INFO]: <Ravara> agora apareceu que sai do jogo
+[18:21:22] [Server thread/INFO]: <Augustym_> ue
+[18:21:26] [Server thread/INFO]: <Augustym_> e saiu mesmo ou n?
+[18:21:27] [Server thread/INFO]: <Ravara> apareceu ai?
+[18:21:28] [Server thread/INFO]: <Ravara> n
+[18:21:30] [Server thread/INFO]: <Ravara> kkkkkkkkkkkkkkkk
+[18:21:38] [Server thread/INFO]: <Ravara> mistérios
+[18:21:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14869ms behind, skipping 297 tick(s)
+[18:21:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5664ms behind, skipping 113 tick(s)
+[18:22:18] [Server thread/INFO]: <Augustym_> bom
+[18:22:22] [Server thread/INFO]: <Augustym_> fica com os itens aushdiahsda
+[18:22:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16387ms behind, skipping 327 tick(s)
+[18:22:29] [Server thread/INFO]: <Augustym_> n é culpa sua
+[18:22:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3311ms behind, skipping 66 tick(s)
+[18:22:42] [Server thread/INFO]: <Ravara> fiquei
+[18:22:43] [Server thread/INFO]: <Ravara> rsrs
+[18:22:54] [Server thread/INFO]: <Ravara> botei pra fazer mais red alloy
+[18:23:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14904ms behind, skipping 298 tick(s)
+[18:23:06] [Server thread/INFO]: <Augustym_> contanto que n seja cheat
+[18:23:08] [Server thread/INFO]: <Augustym_> ta valendo
+[18:23:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5452ms behind, skipping 109 tick(s)
+[18:23:29] [Server thread/INFO]: <Ravara> mirage enderman
+[18:23:35] [Server thread/INFO]: <Ravara> é raro vir regen?
+[18:23:37] [Server thread/INFO]: <Ravara> n to dando sorte
+[18:23:37] [Server thread/INFO]: <Augustym_> sim
+[18:23:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14702ms behind, skipping 294 tick(s)
+[18:23:48] [Server thread/INFO]: <Augustym_> é um pouco
+[18:23:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5419ms behind, skipping 108 tick(s)
+[18:24:15] [Server thread/INFO]: <Ravara> cursed
+[18:24:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15043ms behind, skipping 300 tick(s)
+[18:24:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3303ms behind, skipping 66 tick(s)
+[18:25:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16318ms behind, skipping 326 tick(s)
+[18:25:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3369ms behind, skipping 67 tick(s)
+[18:25:26] [Server thread/INFO]: <Ravara> coloca o bloco do chão ai
+[18:25:38] [Server thread/INFO]: <Ravara> tava no bau
+[18:25:39] [Server thread/INFO]: <Ravara> botei
+[18:25:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15313ms behind, skipping 306 tick(s)
+[18:25:41] [Server thread/INFO]: <Augustym_> ?
+[18:25:42] [Server thread/INFO]: <Augustym_> a
+[18:25:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3278ms behind, skipping 65 tick(s)
+[18:26:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14517ms behind, skipping 290 tick(s)
+[18:26:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5386ms behind, skipping 107 tick(s)
+[18:26:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15204ms behind, skipping 304 tick(s)
+[18:27:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3293ms behind, skipping 65 tick(s)
+[18:27:03] [Server thread/INFO]: <Ravara> guto
+[18:27:14] [Server thread/INFO]: <Ravara> pega as recompensas dos dois capitulos de abelha por favor
+[18:27:27] [Server thread/INFO]: <Ravara> bota nesse bau aqui que eu organizo
+[18:27:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16533ms behind, skipping 330 tick(s)
+[18:27:38] [Server thread/INFO]: <Ravara> vou abrir as bags pra ver se vem coisa boa
+[18:27:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3339ms behind, skipping 66 tick(s)
+[18:28:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15426ms behind, skipping 308 tick(s)
+[18:28:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3313ms behind, skipping 66 tick(s)
+[18:28:27] [Server thread/INFO]: <Ravara> rapidão
+[18:28:44] [Server thread/INFO]: <Ravara> ana terminou de arrumar davi, vamos sair agora
+[18:28:47] [Server thread/INFO]: <Augustym_> ok
+[18:28:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15871ms behind, skipping 317 tick(s)
+[18:28:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3351ms behind, skipping 67 tick(s)
+[18:29:17] [Server thread/INFO]: <Augustym_> o q?
+[18:29:19] [Server thread/INFO]: <Augustym_> a ta
+[18:29:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16579ms behind, skipping 331 tick(s)
+[18:29:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3305ms behind, skipping 66 tick(s)
+[18:29:57] [Server thread/INFO]: <Augustym_> tem umas abelhas pra pegar
+[18:30:06] [Server thread/INFO]: <Ravara> deixa elas ai
+[18:30:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15681ms behind, skipping 313 tick(s)
+[18:30:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3376ms behind, skipping 67 tick(s)
+[18:30:19] [Server thread/INFO]: <Ravara> qqr coisa pega mais pra frente
+[18:30:22] [Server thread/INFO]: <Ravara> se precisar de uma especifica
+[18:30:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14422ms behind, skipping 288 tick(s)
+[18:30:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5474ms behind, skipping 109 tick(s)
+[18:31:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16420ms behind, skipping 328 tick(s)
+[18:31:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3408ms behind, skipping 68 tick(s)
+[18:32:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16371ms behind, skipping 327 tick(s)
+[18:32:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3393ms behind, skipping 67 tick(s)
+[18:32:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17343ms behind, skipping 346 tick(s)
+[18:32:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3304ms behind, skipping 66 tick(s)
+[18:33:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16829ms behind, skipping 336 tick(s)
+[18:33:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3276ms behind, skipping 65 tick(s)
+[18:34:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21173ms behind, skipping 423 tick(s)
+[18:34:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3766ms behind, skipping 75 tick(s)
+[18:35:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 26305ms behind, skipping 526 tick(s)
+[18:35:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3801ms behind, skipping 76 tick(s)
+[18:35:24] [Server thread/INFO]: Ravara lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:35:24] [Server thread/INFO]: Ravara left the game
+[18:35:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23318ms behind, skipping 466 tick(s)
+[18:35:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3553ms behind, skipping 71 tick(s)
+[18:36:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19275ms behind, skipping 385 tick(s)
+[18:36:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3281ms behind, skipping 65 tick(s)
+[18:37:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14259ms behind, skipping 285 tick(s)
+[18:37:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5113ms behind, skipping 102 tick(s)
+[18:37:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14210ms behind, skipping 284 tick(s)
+[18:38:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5266ms behind, skipping 105 tick(s)
+[18:38:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13851ms behind, skipping 277 tick(s)
+[18:38:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5425ms behind, skipping 108 tick(s)
+[18:39:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15060ms behind, skipping 301 tick(s)
+[18:39:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3204ms behind, skipping 64 tick(s)
+[18:39:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13658ms behind, skipping 273 tick(s)
+[18:39:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5365ms behind, skipping 107 tick(s)
+[18:40:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15204ms behind, skipping 304 tick(s)
+[18:40:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3207ms behind, skipping 64 tick(s)
+[18:41:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13496ms behind, skipping 269 tick(s)
+[18:41:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5361ms behind, skipping 107 tick(s)
+[18:41:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13760ms behind, skipping 275 tick(s)
+[18:41:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5122ms behind, skipping 102 tick(s)
+[18:42:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13428ms behind, skipping 268 tick(s)
+[18:42:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5883ms behind, skipping 117 tick(s)
+[18:43:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13790ms behind, skipping 275 tick(s)
+[18:43:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5352ms behind, skipping 107 tick(s)
+[18:43:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13339ms behind, skipping 266 tick(s)
+[18:43:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5041ms behind, skipping 100 tick(s)
+[18:44:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12314ms behind, skipping 246 tick(s)
+[18:44:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5262ms behind, skipping 105 tick(s)
+[18:44:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13449ms behind, skipping 268 tick(s)
+[18:45:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5192ms behind, skipping 103 tick(s)
+[18:45:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12637ms behind, skipping 252 tick(s)
+[18:45:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5275ms behind, skipping 105 tick(s)
+[18:46:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14187ms behind, skipping 283 tick(s)
+[18:46:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5008ms behind, skipping 100 tick(s)
+[18:46:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13001ms behind, skipping 260 tick(s)
+[18:47:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5262ms behind, skipping 105 tick(s)
+[18:47:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14316ms behind, skipping 286 tick(s)
+[18:47:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5340ms behind, skipping 106 tick(s)
+[18:48:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13303ms behind, skipping 266 tick(s)
+[18:48:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5108ms behind, skipping 102 tick(s)
+[18:48:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13971ms behind, skipping 279 tick(s)
+[18:49:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5161ms behind, skipping 103 tick(s)
+[18:49:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13743ms behind, skipping 274 tick(s)
+[18:49:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5485ms behind, skipping 109 tick(s)
+[18:50:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15320ms behind, skipping 306 tick(s)
+[18:50:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3363ms behind, skipping 67 tick(s)
+[18:50:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15623ms behind, skipping 312 tick(s)
+[18:50:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3241ms behind, skipping 64 tick(s)
+[18:51:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3354ms behind, skipping 67 tick(s)
+[18:51:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9828ms behind, skipping 196 tick(s)
+[18:51:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8545ms behind, skipping 170 tick(s)
+[18:52:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5009ms behind, skipping 100 tick(s)
+[18:52:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2049ms behind, skipping 40 tick(s)
+[18:52:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3865ms behind, skipping 77 tick(s)
+[18:52:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4004ms behind, skipping 80 tick(s)
+[18:53:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4217ms behind, skipping 84 tick(s)
+[18:53:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6907ms behind, skipping 138 tick(s)
+[18:53:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6646ms behind, skipping 132 tick(s)
+[18:54:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5691ms behind, skipping 113 tick(s)
+[18:54:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14087ms behind, skipping 281 tick(s)
+[18:54:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5389ms behind, skipping 107 tick(s)
+[18:55:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14552ms behind, skipping 291 tick(s)
+[18:55:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4978ms behind, skipping 99 tick(s)
+[18:55:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12770ms behind, skipping 255 tick(s)
+[18:55:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5035ms behind, skipping 100 tick(s)
+[18:56:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14736ms behind, skipping 294 tick(s)
+[18:56:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5430ms behind, skipping 108 tick(s)
+[18:57:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14564ms behind, skipping 291 tick(s)
+[18:57:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5629ms behind, skipping 112 tick(s)
+[18:57:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14399ms behind, skipping 287 tick(s)
+[18:58:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5384ms behind, skipping 107 tick(s)
+[18:58:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16242ms behind, skipping 324 tick(s)
+[18:58:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3150ms behind, skipping 63 tick(s)
+[18:59:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14649ms behind, skipping 292 tick(s)
+[18:59:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5462ms behind, skipping 109 tick(s)
+[18:59:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15708ms behind, skipping 314 tick(s)
+[18:59:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3001ms behind, skipping 60 tick(s)
+[19:00:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11136ms behind, skipping 222 tick(s)
+[19:00:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8246ms behind, skipping 164 tick(s)
+[19:00:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8517ms behind, skipping 170 tick(s)
+[19:01:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8691ms behind, skipping 173 tick(s)
+[19:01:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7931ms behind, skipping 158 tick(s)
+[19:01:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8002ms behind, skipping 160 tick(s)
+[19:02:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8049ms behind, skipping 160 tick(s)
+[19:02:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8255ms behind, skipping 165 tick(s)
+[19:02:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8397ms behind, skipping 167 tick(s)
+[19:02:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7955ms behind, skipping 159 tick(s)
+[19:03:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8040ms behind, skipping 160 tick(s)
+[19:03:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8212ms behind, skipping 164 tick(s)
+[19:03:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8483ms behind, skipping 169 tick(s)
+[19:03:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7789ms behind, skipping 155 tick(s)
+[19:04:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7793ms behind, skipping 155 tick(s)
+[19:04:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8020ms behind, skipping 160 tick(s)
+[19:04:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8269ms behind, skipping 165 tick(s)
+[19:05:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7781ms behind, skipping 155 tick(s)
+[19:05:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8078ms behind, skipping 161 tick(s)
+[19:05:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7751ms behind, skipping 155 tick(s)
+[19:05:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7805ms behind, skipping 156 tick(s)
+[19:06:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7178ms behind, skipping 143 tick(s)
+[19:06:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7757ms behind, skipping 155 tick(s)
+[19:06:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7776ms behind, skipping 155 tick(s)
+[19:06:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7760ms behind, skipping 155 tick(s)
+[19:07:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7709ms behind, skipping 154 tick(s)
+[19:07:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7762ms behind, skipping 155 tick(s)
+[19:07:29] [Server thread/INFO]: Augustym_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:07:29] [Server thread/INFO]: Augustym_ left the game
+[19:07:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5181ms behind, skipping 103 tick(s)
+[19:07:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4271ms behind, skipping 85 tick(s)

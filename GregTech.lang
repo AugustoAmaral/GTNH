@@ -47,9 +47,9 @@ languagefile {
     S:"Book.Multi-Machine Manual.Page00"=This Multiblock, depending upon the mode used, can function as a variety of different machines. The idea behind this, was that most of these machines are rather niche compared to any others, as such, not used often.
     S:"Book.Multi-Machine Manual.Page01"=To build, you need to construct a hollow 3x3x3 structure made from Multi-Use casings, With a minimum of 6. Any Casing position can be substituted out with an Input Hatch/Bus, an Output Hatch/Bus, Muffler, Maint. Hatch or Energy Injector Hatch.
     S:"Book.Multi-Machine Manual.Page02"=The Mode can be set by using a Screwdriver on the controller block. Each mode allows the use of Numbered Circuits, to allow a different machine 'type' for each input bus.
-    S:"Book.Multi-Machine Manual.Page03"=[Metal Work] Mode A - Allows the multiblock to function as a Compressor, a Lathe or an Electro-Magnet. To allow a hatch to run in Compressor mode, insert a No. 20 circuit. For Lathe, use No. 21 and for Electro-Magnet use No. 22.
-    S:"Book.Multi-Machine Manual.Page04"=[Fluid Work] Mode B - Allows the multiblock to function as a Fermenter, a Fluid Extractor or an Extractor. To allow a hatch to run in Fermenter mode, insert a No. 20 circuit. For Fluid Extractor, use No. 21 and for Extractor use No. 22.
-    S:"Book.Multi-Machine Manual.Page05"=[Misc. Work] Mode C - Allows the multiblock to function as a Laser Engraver, an Autoclave or a Fluid Solidifier. To allow a hatch to run in Laser Engraver mode, insert a No. 20 circuit. For Autoclave, use No. 21 and for Solidifier use No. 22.
+    S:"Book.Multi-Machine Manual.Page03"=[Metal Work] Mode Metal - Allows the multiblock to function as a Compressor, a Lathe or an Electro-Magnet. To allow a hatch to run in Compressor mode, insert a No. 20 circuit. For Lathe, use No. 21 and for Electro-Magnet use No. 22.
+    S:"Book.Multi-Machine Manual.Page04"=[Fluid Work] Mode Fluid - Allows the multiblock to function as a Fermenter, a Fluid Extractor or an Extractor. To allow a hatch to run in Fermenter mode, insert a No. 20 circuit. For Fluid Extractor, use No. 21 and for Extractor use No. 22.
+    S:"Book.Multi-Machine Manual.Page05"=[Misc. Work] Mode Misc - Allows the multiblock to function as a Laser Engraver, an Autoclave or a Fluid Solidifier. To allow a hatch to run in Laser Engraver mode, insert a No. 20 circuit. For Autoclave, use No. 21 and for Solidifier use No. 22.
     S:"Book.Nuclear Chemistry [FFPP].Name"=Nuclear Chemistry [FFPP]
     S:"Book.Nuclear Chemistry [FFPP].Page00"=Fission Fuel Processing Plant<BR>Size: 3x9x3 [LxHxW]<BR>Controller: Center, Bottom<BR>4x Input Hatch<BR>2x Output Hatch<BR>1x Output Bus<BR>1x ZPM+ Muffler<BR>1x Maintenance Hatch<BR>1x Energy Hatch<BR>
     S:"Book.Nuclear Chemistry [FFPP].Page01"=[1] 7x Hastelloy-X or I/O<BR>[2] 5x Incoloy-DS Fluid Containment<BR>[3] 4x Zeron-100 Shielding<BR>[4] 17x Hastelloy-N Sealant Case<BR>Multiblock Construction<BR>Convention is [LxHxW]<BR><BR>
@@ -198,6 +198,7 @@ languagefile {
     S:Interaction_DESCRIPTION_Index_092= set to: 
     S:Interaction_DESCRIPTION_Index_093=Strong
     S:Interaction_DESCRIPTION_Index_094=Weak
+    S:Interaction_DESCRIPTION_Index_094.1=Not enough soldering material!
     S:Interaction_DESCRIPTION_Index_095=Input from Output Side allowed
     S:Interaction_DESCRIPTION_Index_096=Input from Output Side forbidden
     S:Interaction_DESCRIPTION_Index_098=Do not regulate Item Stack Size
@@ -545,8 +546,10 @@ languagefile {
     S:MU-metaitem.01.name=Generated Item
     S:"Material.1,1dimethylhydrazine"=1,1-Dimethylhydrazine
     S:"Material.1,3dimethylbenzen"=1,3-Dimethylbenzen
+    S:"Material.1,3dimethylbenzene"=1,3-Dimethylbenzene
     S:"Material.1,4-butanediol"=1,4-Butanediol
     S:"Material.1,4dimethylbenzen"=1,4-Dimethylbenzen
+    S:"Material.1,4dimethylbenzene"=1,4-Dimethylbenzene
     S:Material.2-ethyl-1-hexanol=2-Ethyl-1-Hexanol
     S:Material.2butin14diol=2-Butin-1,4-diol
     S:Material.2nitrochlorobenzene=2-Nitrochlorobenzene
@@ -835,7 +838,7 @@ languagefile {
     S:Material.dimensionallytranscendentresplendentcatalyst=Dimensionally Transcendent Resplendent Catalyst
     S:Material.dimensionallytranscendentstellarcatalyst=Dimensionally Transcendent Stellar Catalyst
     S:Material.dimethylamine=Dimethylamine
-    S:Material.dimethylbenzene=1,2-Dimethylbenzen
+    S:Material.dimethylbenzene=1,2-Dimethylbenzene
     S:Material.dimethyldichlorosilane=Dimethyldichlorosilane
     S:Material.dimethylterephthalate=Dimethyl Terephthalate
     S:Material.dinitrogentetroxide=Dinitrogen Tetroxide
@@ -1188,6 +1191,7 @@ languagefile {
     S:Material.lutetiumoreconcentrate=Lutetium Ore Concentrate
     S:Material.magic=Magic
     S:Material.magma=Magma
+    S:Material.magmatter=Magmatter
     S:Material.magnalium=Magnalium
     S:Material.magnesia=Magnesia
     S:Material.magnesite=Magnesite
@@ -1449,6 +1453,7 @@ languagefile {
     S:Material.pyrotheum=Pyrotheum
     S:Material.quantium=Quantium
     S:Material.quantum=Quantum
+    S:Material.quarkgluonplasma=Degenerate Quark Gluon Plasma
     S:Material.quartz=Quartz
     S:Material.quartzite=Quartzite
     S:Material.quartzsand=Quartz Sand
@@ -2120,6 +2125,7 @@ languagefile {
     S:bw.werkstoff.10011.name=Plutonium Based Liquid Fuel (Excited State)
     S:bw.werkstoff.10012.name=Plutonium Based Liquid Fuel (Depleted)
     S:bw.werkstoff.10013.name=Oxalate
+    S:bw.werkstoff.10014.name=Vanadium Pentoxide
     S:bw.werkstoff.10015.name=Thorium Nitrate
     S:bw.werkstoff.10019.name=Thorium Tetrachloride
     S:bw.werkstoff.10020.name=Thorium Tetrafluoride
@@ -2137,6 +2143,7 @@ languagefile {
     S:bw.werkstoff.10032.name=Antimony Pentachloride
     S:bw.werkstoff.10033.name=Antimony Pentafluoride
     S:bw.werkstoff.10034.name=Fluoroantimonic Acid
+    S:bw.werkstoff.10035.name=Radioactive Sludge
     S:bw.werkstoff.10036.name=Acid Naquadah Emulsion
     S:bw.werkstoff.10037.name=Naquadah Emulsion
     S:bw.werkstoff.10038.name=Naquadah Solution
@@ -2150,8 +2157,10 @@ languagefile {
     S:bw.werkstoff.10049.name=Naquadah Based Liquid Fuel MkIV (Depleted)
     S:bw.werkstoff.10050.name=Naquadah Based Liquid Fuel MkV
     S:bw.werkstoff.10051.name=Naquadah Based Liquid Fuel MkV (Depleted)
+    S:bw.werkstoff.10052.name=Zinc Chloride
     S:bw.werkstoff.10053.name=Zn-Th Alloy
     S:bw.werkstoff.10054.name=Naquadah Oxide Mixture
+    S:bw.werkstoff.10055.name=Titanium Trifluoride
     S:bw.werkstoff.10056.name=Low Quality Naquadah Emulsion
     S:bw.werkstoff.10058.name=Low Quality Naquadah Solution
     S:bw.werkstoff.10059.name=2-Ethyl-1-Hexanol
@@ -2160,11 +2169,14 @@ languagefile {
     S:bw.werkstoff.10062.name=Naquadah-Rich Solution
     S:bw.werkstoff.10064.name=Fluorine-Rich Waste Liquid
     S:bw.werkstoff.10065.name=Waste Liquid
+    S:bw.werkstoff.10066.name=Adamantine
     S:bw.werkstoff.10067.name=Enriched-Naquadah Oxide Mixture
     S:bw.werkstoff.10069.name=Enriched-Naquadah-Rich Solution
+    S:bw.werkstoff.10071.name=Enriched-Naquadah Sulphate
     S:bw.werkstoff.10072.name=Naquadria Oxide Mixture
     S:bw.werkstoff.10075.name=Naquadria-Rich Solution
     S:bw.werkstoff.10077.name=Low Quality Naquadria Sulphate
+    S:bw.werkstoff.10078.name=Naquadria Sulphate
     S:bw.werkstoff.10079.name=Naquadah Goo
     S:bw.werkstoff.10080.name=Enriched Naquadah Goo
     S:bw.werkstoff.10081.name=Naquadria Goo
@@ -2192,6 +2204,7 @@ languagefile {
     S:bw.werkstoff.10105.name=Hikarium
     S:bw.werkstoff.10106.name=Tairitsu
     S:bw.werkstoff.10107.name=Antimony Pentafluoride Solution
+    S:bw.werkstoff.10108.name=Magnesium Sulphate
     S:bw.werkstoff.10109.name=Precious Metals Alloy
     S:bw.werkstoff.10110.name=Enriched Naquadah Alloy
     S:bw.werkstoff.10111.name=Metastable Oganesson
@@ -2199,6 +2212,7 @@ languagefile {
     S:bw.werkstoff.10116.name=Naquadah Based Liquid Fuel MkVI
     S:bw.werkstoff.10117.name=Naquadah Based Liquid Fuel MkVI (Depleted)
     S:bw.werkstoff.11000.name=Hafnium
+    S:bw.werkstoff.11001.name=Low-Purity Hafnium
     S:bw.werkstoff.11004.name=Hafnium Tetrachloride Solution
     S:bw.werkstoff.11007.name=Zirconium
     S:bw.werkstoff.11010.name=Zirconium Tetrachloride Solution
@@ -2208,21 +2222,35 @@ languagefile {
     S:bw.werkstoff.11016.name=Diluted Monazite Sulfate
     S:bw.werkstoff.11017.name=Nitrogenated Monazite Rare Earth Concentrate
     S:bw.werkstoff.11018.name=Nitric Monazite Leached Concentrate
+    S:bw.werkstoff.11021.name=Monazite Rare Earth Filtrate
+    S:bw.werkstoff.11024.name=Dried Monazite Rare Earth Concentrate
+    S:bw.werkstoff.11028.name=Cerium (III) Oxide
+    S:bw.werkstoff.11032.name=Heterogenous Halogenic Monazite Rare Earth Mixture
     S:bw.werkstoff.11036.name=Ammonium Nitrate Solution
+    S:bw.werkstoff.11038.name=Thorium-Phosphate Concentrate
+    S:bw.werkstoff.11039.name=UraniumFiltrate
     S:bw.werkstoff.11042.name=Seaweed Concentrate
+    S:bw.werkstoff.11043.name=Potassium Permanganate
     S:bw.werkstoff.11044.name=Potassium Permanganate Solution
     S:bw.werkstoff.11045.name=Seaweed Byproducts
     S:bw.werkstoff.11046.name=Nitric-Leached Monazite Mixture
+    S:bw.werkstoff.11047.name=Europium Oxide
+    S:bw.werkstoff.11048.name=Europium Sulfide
     S:bw.werkstoff.11100.name=Muddy Bastnasite Rare Earth Solution
     S:bw.werkstoff.11102.name=Sodiumfluorosilicate
     S:bw.werkstoff.11103.name=Steam-Cracked Bastnasite Mud
     S:bw.werkstoff.11104.name=Conditioned Bastnasite Mud
     S:bw.werkstoff.11105.name=Diluted Bastnasite Mud
     S:bw.werkstoff.11106.name=Filtered Bastnasite Mud
+    S:bw.werkstoff.11107.name=Bastnasite Rare Earth Oxides
+    S:bw.werkstoff.11110.name=Roasted Rare Earth Oxides
     S:bw.werkstoff.11114.name=Nitrogenated Bastnasite Rarer Earth Oxides
     S:bw.werkstoff.11115.name=Bastnasite Rarer Earth Oxide Suspension
     S:bw.werkstoff.11116.name=Samaric Rare Earth Concentrate
+    S:bw.werkstoff.11121.name=Lanthanium Chloride
+    S:bw.werkstoff.11122.name=Neodymium Oxide
     S:bw.werkstoff.11124.name=Calcium Fluoride
+    S:bw.werkstoff.11127.name=Terbium Nitrate
     S:bw.werkstoff.11128.name=Samarium Ore Concentrate
     S:bw.werkstoff.11300.name=Tetrahydrofuran
     S:bw.werkstoff.11301.name=1,4-Butanediol
@@ -2288,12 +2316,15 @@ languagefile {
     S:bw.werkstoff.11463.name=Diluted Samarium Rare Earth Solution
     S:bw.werkstoff.11465.name=Impure Samarium Chloride
     S:bw.werkstoff.11466.name=Samarium Chloride-Sodium Chloride Blend
+    S:bw.werkstoff.11468.name=Samarium Oxide
     S:bw.werkstoff.11469.name=Chlorinated Rare Earth Concentrate
     S:bw.werkstoff.11470.name=Chlorinated Rare Earth Enriched Solution
     S:bw.werkstoff.11471.name=Chlorinated Rare Earth Diluted Solution
     S:bw.werkstoff.11498.name=Cerium-doped Lutetium Aluminium Oxygen Blend
+    S:bw.werkstoff.11499.name=Cerium-doped Lutetium Aluminium Garnet (Ce:LuAG)
     S:bw.werkstoff.11500.name=Liquid Helium
     S:bw.werkstoff.11503.name=Tantalum Hafnium Carbide
+    S:bw.werkstoff.29901.name=Tungsten Trioxide
     S:bw.werkstoff.29904.name=Sodium Tungstate
     S:bw.werkstoff.29905.name=Phosgene
     S:bw.werkstoff.29914.name=Nitromethane
@@ -2480,8 +2511,10 @@ languagefile {
     S:enchantment.protection.hazmat=Hazmat
     S:"fluid.1,1dimethylhydrazine"=1,1-Dimethylhydrazine
     S:"fluid.1,3dimethylbenzen"=1,3-Dimethylbenzen
+    S:"fluid.1,3dimethylbenzene"=1,3-Dimethylbenzene
     S:"fluid.1,4-butanediol"=1,4-Butanediol
     S:"fluid.1,4dimethylbenzen"=1,4-Dimethylbenzen
+    S:"fluid.1,4dimethylbenzene"=1,4-Dimethylbenzene
     S:fluid.2-ethyl-1-hexanol=2-Ethyl-1-Hexanol
     S:fluid.2nitrochlorobenzene=2-Nitrochlorobenzene
     S:"fluid.3,3diaminobenzidine"=3,3-Diaminobenzidine
@@ -2567,7 +2600,7 @@ languagefile {
     S:fluid.dimensionallytranscendentresplendentcatalyst=Dimensionally Transcendent Resplendent Catalyst
     S:fluid.dimensionallytranscendentstellarcatalyst=Dimensionally Transcendent Stellar Catalyst
     S:fluid.dimethylamine=Dimethylamine
-    S:fluid.dimethylbenzene=1,2-Dimethylbenzen
+    S:fluid.dimethylbenzene=1,2-Dimethylbenzene
     S:fluid.dimethyldichlorosilane=Dimethyldichlorosilane
     S:fluid.dimethylterephthalate=Dimethyl Terephthalate
     S:fluid.dinitrogentetroxide=Dinitrogen Tetroxide
@@ -3070,6 +3103,7 @@ languagefile {
     S:fluid.molten.lumium=Molten Lumium
     S:fluid.molten.lutetium=Molten Lutetium
     S:fluid.molten.magic=Molten Magic
+    S:fluid.molten.magmatter=Molten Magmatter
     S:fluid.molten.magnalium=Molten Magnalium
     S:fluid.molten.magnesia=Molten Magnesia
     S:fluid.molten.magnesium=Molten Magnesium
@@ -3367,6 +3401,7 @@ languagefile {
     S:fluid.plasma.aluminium=Aluminium Plasma
     S:fluid.plasma.americium=Americium Plasma
     S:fluid.plasma.antimony=Antimony Plasma
+    S:fluid.plasma.ardite=Ardite Plasma
     S:fluid.plasma.argon=Argon Plasma
     S:fluid.plasma.arsenic=Arsenic Plasma
     S:fluid.plasma.astraltitanium=Astral Titanium Plasma
@@ -3387,9 +3422,12 @@ languagefile {
     S:fluid.plasma.chrome=Chrome Plasma
     S:fluid.plasma.cobalt=Cobalt Plasma
     S:fluid.plasma.copper=Copper Plasma
+    S:fluid.plasma.cosmicneutronium=Cosmic Neutronium Plasma
     S:fluid.plasma.curium=Curium Plasma
     S:fluid.plasma.desh=Desh Plasma
     S:fluid.plasma.deuterium=Deuterium Plasma
+    S:fluid.plasma.draconium=Draconium Plasma
+    S:fluid.plasma.draconiumawakened=Awakened Draconium Plasma
     S:fluid.plasma.dragonblood=Dragonblood Plasma
     S:fluid.plasma.dysprosium=Dysprosium Plasma
     S:fluid.plasma.empty=Empty Plasma
@@ -3409,6 +3447,7 @@ languagefile {
     S:fluid.plasma.holmium=Holmium Plasma
     S:fluid.plasma.hydrogen=Hydrogen Plasma
     S:fluid.plasma.hypogen=Hypogen Plasma
+    S:fluid.plasma.ichorium=Ichorium Plasma
     S:fluid.plasma.indium=Indium Plasma
     S:fluid.plasma.iodine=Iodine Plasma
     S:fluid.plasma.iridium=Iridium Plasma
@@ -3612,6 +3651,7 @@ languagefile {
     S:fluid.pseudomonasveroniifluid=Anaerobic Oil Bacteria Fluid
     S:fluid.putrescine=Putrescine
     S:fluid.pyrotheum=Blazing Pyrotheum
+    S:fluid.quarkgluonplasma=Degenerate Quark Gluon Plasma
     S:fluid.radon=Radon
     S:fluid.radoxgas=Radox Gas
     S:fluid.radoxpoly=Radox Polymer
@@ -4270,6 +4310,7 @@ languagefile {
     S:gt.blockmachines.advanced_crop_gene_extractor_v.name=Advanced Crop Gene Extractor V
     S:gt.blockmachines.advanced_crop_gene_extractor_vi.name=Advanced Crop Gene Extractor VI
     S:gt.blockmachines.advanced_crop_gene_extractor_vii.name=Advanced Crop Gene Extractor VII
+    S:gt.blockmachines.advanced_crop_gene_extractor_viii.name=Advanced Crop Gene Extractor VIII
     S:gt.blockmachines.advanced_crop_replicator_i.name=Advanced Crop Replicator I
     S:gt.blockmachines.advanced_crop_replicator_ii.name=Advanced Crop Replicator II
     S:gt.blockmachines.advanced_crop_replicator_iii.name=Advanced Crop Replicator III
@@ -4278,6 +4319,7 @@ languagefile {
     S:gt.blockmachines.advanced_crop_replicator_v.name=Advanced Crop Replicator V
     S:gt.blockmachines.advanced_crop_replicator_vi.name=Advanced Crop Replicator VI
     S:gt.blockmachines.advanced_crop_replicator_vii.name=Advanced Crop Replicator VII
+    S:gt.blockmachines.advanced_crop_replicator_viii.name=Advanced Crop Replicator VIII
     S:gt.blockmachines.advanced_crop_synthesiser_i.name=Advanced Crop Synthesiser I
     S:gt.blockmachines.advanced_crop_synthesiser_ii.name=Advanced Crop Synthesiser II
     S:gt.blockmachines.advanced_crop_synthesiser_iii.name=Advanced Crop Synthesiser III
@@ -4286,6 +4328,7 @@ languagefile {
     S:gt.blockmachines.advanced_crop_synthesiser_v.name=Advanced Crop Synthesiser V
     S:gt.blockmachines.advanced_crop_synthesiser_vi.name=Advanced Crop Synthesiser VI
     S:gt.blockmachines.advanced_crop_synthesiser_vii.name=Advanced Crop Synthesiser VII
+    S:gt.blockmachines.advanced_crop_synthesiser_viii.name=Advanced Crop Synthesiser VIII
     S:gt.blockmachines.advancedgenerator.geothermalfuel.tier.01.name=Basic Geothermal Engine
     S:gt.blockmachines.advancedgenerator.geothermalfuel.tier.02.name=Turbo Geothermal Engine
     S:gt.blockmachines.advancedgenerator.geothermalfuel.tier.03.name=Vulcan Geothermal Engine
@@ -5455,6 +5498,7 @@ languagefile {
     S:gt.blockmachines.compressedfluidhatch.name=Liquid Air Fluid Hatch
     S:gt.blockmachines.coolanttower.name=Coolant Tower
     S:gt.blockmachines.cyclotron.tier.single.name=COMET - Compact Cyclotron
+    S:gt.blockmachines.debug.tt.certain.name=Uncertainty Resolution
     S:gt.blockmachines.debug.tt.data.name=Debug Data Hatch
     S:gt.blockmachines.debug.tt.genny.name=Debug Power Generator
     S:gt.blockmachines.debug.tt.maintenance.name=Auto-Taping Maintenance Hatch
@@ -5705,6 +5749,7 @@ languagefile {
     S:gt.blockmachines.gt_frame_longasssuperconductornameforuhvwire.name=%material Frame Box
     S:gt.blockmachines.gt_frame_longasssuperconductornameforuvwire.name=%material Frame Box
     S:gt.blockmachines.gt_frame_lutetium.name=%material Frame Box
+    S:gt.blockmachines.gt_frame_magmatter.name=%material Frame Box
     S:gt.blockmachines.gt_frame_magnalium.name=%material Frame Box
     S:gt.blockmachines.gt_frame_magnesium.name=%material Frame Box
     S:gt.blockmachines.gt_frame_magnetohydrodynamicallyconstrainedstarmatter.name=%material Frame Box
@@ -6208,9 +6253,9 @@ languagefile {
     S:gt.blockmachines.hatch.catalysts.name=Catalyst Housing
     S:gt.blockmachines.hatch.certain.tier.07.name=Uncertainty Resolver
     S:gt.blockmachines.hatch.certain.tier.10.name=Uncertainty Resolver X
-    S:gt.blockmachines.hatch.chisel.tier.01.name=Chisel Bus II
-    S:gt.blockmachines.hatch.chisel.tier.02.name=Chisel Bus III
-    S:gt.blockmachines.hatch.chisel.tier.03.name=Chisel Bus IV
+    S:gt.blockmachines.hatch.chisel.tier.01.name=Chisel Bus I
+    S:gt.blockmachines.hatch.chisel.tier.02.name=Chisel Bus II
+    S:gt.blockmachines.hatch.chisel.tier.03.name=Chisel Bus III
     S:gt.blockmachines.hatch.crafting_input.me.item_only.name=Crafting Input Bus (ME)
     S:gt.blockmachines.hatch.crafting_input.me.name=Crafting Input Buffer (ME)
     S:gt.blockmachines.hatch.crafting_input.slave.name=Crafting Input Slave
@@ -6222,6 +6267,7 @@ languagefile {
     S:gt.blockmachines.hatch.datainass.tier.07.name=Assembly line Slave Connector
     S:gt.blockmachines.hatch.dataout.tier.07.name=Optical Master Connector
     S:gt.blockmachines.hatch.dataoutass.tier.07.name=Data Bank Master Connector
+    S:gt.blockmachines.hatch.dronedownlink.name=Drone DownLink Module
     S:gt.blockmachines.hatch.dynamo.buffer.tier.00.name=ULV Dynamo Hatch [Buffered]
     S:gt.blockmachines.hatch.dynamo.buffer.tier.01.name=LV Dynamo Hatch [Buffered]
     S:gt.blockmachines.hatch.dynamo.buffer.tier.02.name=MV Dynamo Hatch [Buffered]
@@ -6533,7 +6579,7 @@ languagefile {
     S:gt.blockmachines.hatch.muffler.adv.tier.06.name=Advanced Muffler Hatch (LuV)
     S:gt.blockmachines.hatch.muffler.adv.tier.07.name=Advanced Muffler Hatch (ZPM)
     S:gt.blockmachines.hatch.muffler.adv.tier.08.name=Advanced Muffler Hatch (UV)
-    S:gt.blockmachines.hatch.muffler.adv.tier.09.name=Advanced Muffler Hatch (MAX)
+    S:gt.blockmachines.hatch.muffler.adv.tier.09.name=Advanced Muffler Hatch (UHV)
     S:gt.blockmachines.hatch.muffler.desc.format=Outputs the Pollution (Might cause ... things)%nDO NOT OBSTRUCT THE OUTPUT!%nReduces Pollution to %d%%%nRecovers %d%% of CO2/CO/SO2
     S:gt.blockmachines.hatch.muffler.tier.01.name=Muffler Hatch (LV)
     S:gt.blockmachines.hatch.muffler.tier.02.name=Muffler Hatch (MV)
@@ -6591,6 +6637,10 @@ languagefile {
     S:gt.blockmachines.hatch.param.tier.10.name=Parametrizer tXt
     S:gt.blockmachines.hatch.pyrotheum.input.tier.00.name=Pyrotheum Heating Vent
     S:gt.blockmachines.hatch.rack.tier.08.name=Computer Rack
+    S:gt.blockmachines.hatch.solidifier.tier.05.name=Solidifier Hatch I
+    S:gt.blockmachines.hatch.solidifier.tier.06.name=Solidifier Hatch II
+    S:gt.blockmachines.hatch.solidifier.tier.07.name=Solidifier Hatch III
+    S:gt.blockmachines.hatch.solidifier.tier.08.name=Solidifier Hatch IV
     S:gt.blockmachines.hatch.steam.input.tier.00.name=Steam Hatch
     S:gt.blockmachines.hatch.superbus.input.tier.01.name=Super Bus (I) (LV)
     S:gt.blockmachines.hatch.superbus.input.tier.02.name=Super Bus (I) (MV)
@@ -6600,7 +6650,7 @@ languagefile {
     S:gt.blockmachines.hatch.superbus.input.tier.06.name=Super Bus (I) (LuV)
     S:gt.blockmachines.hatch.superbus.input.tier.07.name=Super Bus (I) (ZPM)
     S:gt.blockmachines.hatch.superbus.input.tier.08.name=Super Bus (I) (UV)
-    S:gt.blockmachines.hatch.superbus.input.tier.09.name=Super Bus (I) (MAX)
+    S:gt.blockmachines.hatch.superbus.input.tier.09.name=Super Bus (I) (UHV)
     S:gt.blockmachines.hatch.superbus.output.tier.01.name=Super Bus (O) (LV)
     S:gt.blockmachines.hatch.superbus.output.tier.02.name=Super Bus (O) (MV)
     S:gt.blockmachines.hatch.superbus.output.tier.03.name=Super Bus (O) (HV)
@@ -6609,7 +6659,7 @@ languagefile {
     S:gt.blockmachines.hatch.superbus.output.tier.06.name=Super Bus (O) (LuV)
     S:gt.blockmachines.hatch.superbus.output.tier.07.name=Super Bus (O) (ZPM)
     S:gt.blockmachines.hatch.superbus.output.tier.08.name=Super Bus (O) (UV)
-    S:gt.blockmachines.hatch.superbus.output.tier.09.name=Super Bus (O) (MAX)
+    S:gt.blockmachines.hatch.superbus.output.tier.09.name=Super Bus (O) (UHV)
     S:gt.blockmachines.hatch.turbine.input.tier.00.name=Turbine Housing
     S:gt.blockmachines.hatch.turbine.name=Rotor Assembly
     S:gt.blockmachines.hatch.water.intake.tier.00.name=Reservoir Hatch
@@ -6865,6 +6915,7 @@ languagefile {
     S:gt.blockmachines.multimachine.tm.teslacoil.name=Tesla Tower
     S:gt.blockmachines.multimachine.transcendentplasmamixer.name=Transcendent Plasma Mixer
     S:gt.blockmachines.multimachine.vacuumfreezer.name=Vacuum Freezer
+    S:gt.blockmachines.multimachine_dronecentre.name=Drone Centre
     S:gt.blockmachines.mxrandomlargemolecularassembler.name=Large Molecular Assembler
     S:gt.blockmachines.nag.name=Large Naquadah Reactor
     S:gt.blockmachines.neutron_accelerator_ev.name=Neutron Accelerator EV
@@ -7645,6 +7696,7 @@ languagefile {
     S:gt.blockmetal8.9.name=Block of %material
     S:gt.blockmetal9.0.name=Block of %material
     S:gt.blockmetal9.1.name=Block of %material
+    S:gt.blockmetal9.10.name=Block of %material
     S:gt.blockmetal9.2.name=Block of %material
     S:gt.blockmetal9.3.name=Block of %material
     S:gt.blockmetal9.32767.name=Any Sub Block of this one
@@ -7868,6 +7920,10 @@ languagefile {
     S:gt.blockores.1141.tooltip=En⦼
     S:gt.blockores.1142.name=%material Ore
     S:gt.blockores.1142.tooltip=
+    S:gt.blockores.1143.name=%material Ore
+    S:gt.blockores.1143.tooltip=M⎋
+    S:gt.blockores.1144.name=%material Ore
+    S:gt.blockores.1144.tooltip=
     S:gt.blockores.12.name=%material Ore
     S:gt.blockores.12.tooltip=N
     S:gt.blockores.1201.name=%material Ore
@@ -8152,6 +8208,10 @@ languagefile {
     S:gt.blockores.1417.tooltip=
     S:gt.blockores.142.name=%material Ore
     S:gt.blockores.142.tooltip=
+    S:gt.blockores.143.name=%material Ore
+    S:gt.blockores.143.tooltip=M⎋
+    S:gt.blockores.144.name=%material Ore
+    S:gt.blockores.144.tooltip=
     S:gt.blockores.1460.name=%material Ore
     S:gt.blockores.1460.tooltip=H₂S
     S:gt.blockores.1470.name=%material Ore
@@ -8564,6 +8624,10 @@ languagefile {
     S:gt.blockores.16141.tooltip=En⦼
     S:gt.blockores.16142.name=Small %material Ore
     S:gt.blockores.16142.tooltip=
+    S:gt.blockores.16143.name=Small %material Ore
+    S:gt.blockores.16143.tooltip=M⎋
+    S:gt.blockores.16144.name=Small %material Ore
+    S:gt.blockores.16144.tooltip=
     S:gt.blockores.1615.name=%material Ore
     S:gt.blockores.1615.tooltip=As₂O₃
     S:gt.blockores.1616.name=%material Ore
@@ -10156,6 +10220,10 @@ languagefile {
     S:gt.blockores.17141.tooltip=En⦼
     S:gt.blockores.17142.name=Small %material Ore
     S:gt.blockores.17142.tooltip=
+    S:gt.blockores.17143.name=Small %material Ore
+    S:gt.blockores.17143.tooltip=M⎋
+    S:gt.blockores.17144.name=Small %material Ore
+    S:gt.blockores.17144.tooltip=
     S:gt.blockores.1715.name=%material Ore
     S:gt.blockores.1715.tooltip=CH₄
     S:gt.blockores.1716.name=%material Ore
@@ -11748,6 +11816,10 @@ languagefile {
     S:gt.blockores.18141.tooltip=En⦼
     S:gt.blockores.18142.name=Small %material Ore
     S:gt.blockores.18142.tooltip=
+    S:gt.blockores.18143.name=Small %material Ore
+    S:gt.blockores.18143.tooltip=M⎋
+    S:gt.blockores.18144.name=Small %material Ore
+    S:gt.blockores.18144.tooltip=
     S:gt.blockores.1815.name=%material Ore
     S:gt.blockores.1815.tooltip=C
     S:gt.blockores.1816.name=%material Ore
@@ -13318,6 +13390,10 @@ languagefile {
     S:gt.blockores.19141.tooltip=En⦼
     S:gt.blockores.19142.name=Small %material Ore
     S:gt.blockores.19142.tooltip=
+    S:gt.blockores.19143.name=Small %material Ore
+    S:gt.blockores.19143.tooltip=M⎋
+    S:gt.blockores.19144.name=Small %material Ore
+    S:gt.blockores.19144.tooltip=
     S:gt.blockores.1915.name=%material Ore
     S:gt.blockores.1915.tooltip=CaSiO₃
     S:gt.blockores.1916.name=%material Ore
@@ -14882,6 +14958,10 @@ languagefile {
     S:gt.blockores.20141.tooltip=En⦼
     S:gt.blockores.20142.name=Small %material Ore
     S:gt.blockores.20142.tooltip=
+    S:gt.blockores.20143.name=Small %material Ore
+    S:gt.blockores.20143.tooltip=M⎋
+    S:gt.blockores.20144.name=Small %material Ore
+    S:gt.blockores.20144.tooltip=
     S:gt.blockores.2017.name=%material Ore
     S:gt.blockores.2017.tooltip=Na
     S:gt.blockores.2018.name=%material Ore
@@ -16436,6 +16516,10 @@ languagefile {
     S:gt.blockores.21141.tooltip=En⦼
     S:gt.blockores.21142.name=Small %material Ore
     S:gt.blockores.21142.tooltip=
+    S:gt.blockores.21143.name=Small %material Ore
+    S:gt.blockores.21143.tooltip=M⎋
+    S:gt.blockores.21144.name=Small %material Ore
+    S:gt.blockores.21144.tooltip=
     S:gt.blockores.21201.name=Small %material Ore
     S:gt.blockores.21201.tooltip=Ms
     S:gt.blockores.21202.name=Small %material Ore
@@ -16714,6 +16798,10 @@ languagefile {
     S:gt.blockores.21417.tooltip=
     S:gt.blockores.2142.name=%material Ore
     S:gt.blockores.2142.tooltip=
+    S:gt.blockores.2143.name=%material Ore
+    S:gt.blockores.2143.tooltip=M⎋
+    S:gt.blockores.2144.name=%material Ore
+    S:gt.blockores.2144.tooltip=
     S:gt.blockores.21460.name=Small %material Ore
     S:gt.blockores.21460.tooltip=H₂S
     S:gt.blockores.21470.name=Small %material Ore
@@ -17868,6 +17956,10 @@ languagefile {
     S:gt.blockores.22141.tooltip=En⦼
     S:gt.blockores.22142.name=Small %material Ore
     S:gt.blockores.22142.tooltip=
+    S:gt.blockores.22143.name=Small %material Ore
+    S:gt.blockores.22143.tooltip=M⎋
+    S:gt.blockores.22144.name=Small %material Ore
+    S:gt.blockores.22144.tooltip=
     S:gt.blockores.22201.name=Small %material Ore
     S:gt.blockores.22201.tooltip=Ms
     S:gt.blockores.22202.name=Small %material Ore
@@ -20494,6 +20586,10 @@ languagefile {
     S:gt.blockores.3141.tooltip=En⦼
     S:gt.blockores.3142.name=%material Ore
     S:gt.blockores.3142.tooltip=
+    S:gt.blockores.3143.name=%material Ore
+    S:gt.blockores.3143.tooltip=M⎋
+    S:gt.blockores.3144.name=%material Ore
+    S:gt.blockores.3144.tooltip=
     S:gt.blockores.315.name=%material Ore
     S:gt.blockores.315.tooltip=Pb₄Sb
     S:gt.blockores.316.name=%material Ore
@@ -22097,6 +22193,10 @@ languagefile {
     S:gt.blockores.4141.tooltip=En⦼
     S:gt.blockores.4142.name=%material Ore
     S:gt.blockores.4142.tooltip=
+    S:gt.blockores.4143.name=%material Ore
+    S:gt.blockores.4143.tooltip=M⎋
+    S:gt.blockores.4144.name=%material Ore
+    S:gt.blockores.4144.tooltip=
     S:gt.blockores.415.name=%material Ore
     S:gt.blockores.415.tooltip=
     S:gt.blockores.416.name=%material Ore
@@ -23561,6 +23661,10 @@ languagefile {
     S:gt.blockores.5141.tooltip=En⦼
     S:gt.blockores.5142.name=%material Ore
     S:gt.blockores.5142.tooltip=
+    S:gt.blockores.5143.name=%material Ore
+    S:gt.blockores.5143.tooltip=M⎋
+    S:gt.blockores.5144.name=%material Ore
+    S:gt.blockores.5144.tooltip=
     S:gt.blockores.515.name=%material Ore
     S:gt.blockores.515.tooltip=
     S:gt.blockores.516.name=%material Ore
@@ -25131,6 +25235,10 @@ languagefile {
     S:gt.blockores.6141.tooltip=En⦼
     S:gt.blockores.6142.name=%material Ore
     S:gt.blockores.6142.tooltip=
+    S:gt.blockores.6143.name=%material Ore
+    S:gt.blockores.6143.tooltip=M⎋
+    S:gt.blockores.6144.name=%material Ore
+    S:gt.blockores.6144.tooltip=
     S:gt.blockores.615.name=%material Ore
     S:gt.blockores.615.tooltip=As₂O₃
     S:gt.blockores.616.name=%material Ore
@@ -27752,6 +27860,8 @@ languagefile {
     S:gt.metaitem.01.11139.tooltip=A tear into the space beyond space
     S:gt.metaitem.01.11141.name=%material Ingot
     S:gt.metaitem.01.11141.tooltip=En⦼
+    S:gt.metaitem.01.11143.name=%material Ingot
+    S:gt.metaitem.01.11143.tooltip=M⎋
     S:gt.metaitem.01.112.name=Tiny Pile of %material Dust
     S:gt.metaitem.01.112.tooltip=M
     S:gt.metaitem.01.1129.name=Small Pile of %material Dust
@@ -27968,6 +28078,8 @@ languagefile {
     S:gt.metaitem.01.11408.tooltip=(Ag(((Si(FeS₂)₅(CrAl₂O₃)Hg₃)SiC)FeAg)(Ni(AuAgCu₃)(Fe₅₀C)₃))((BeK₄N₅Ma₆)(CSMa))Cr
     S:gt.metaitem.01.1141.name=Small Pile of %material Dust
     S:gt.metaitem.01.1141.tooltip=En⦼
+    S:gt.metaitem.01.1143.name=Small Pile of %material Dust
+    S:gt.metaitem.01.1143.tooltip=M⎋
     S:gt.metaitem.01.11470.name=%material Bar
     S:gt.metaitem.01.11470.tooltip=C₂₁H₂₄O₄
     S:gt.metaitem.01.11471.name=%material Bar
@@ -28142,6 +28254,8 @@ languagefile {
     S:gt.metaitem.01.12134.tooltip=?₆Or₃(Hy⚶)₁₁(((CW)₇Ti₃)₃???)₅۞₂
     S:gt.metaitem.01.12141.name=Hot %material Ingot
     S:gt.metaitem.01.12141.tooltip=En⦼
+    S:gt.metaitem.01.12143.name=Hot %material Ingot
+    S:gt.metaitem.01.12143.tooltip=M⎋
     S:gt.metaitem.01.12202.name=Hot %material Ingot
     S:gt.metaitem.01.12202.tooltip=Tr
     S:gt.metaitem.01.12203.name=Hot %material Ingot
@@ -28474,6 +28588,8 @@ languagefile {
     S:gt.metaitem.01.1314.tooltip=Sn₉Sb
     S:gt.metaitem.01.13141.name=Double %material Ingot
     S:gt.metaitem.01.13141.tooltip=En⦼
+    S:gt.metaitem.01.13143.name=Double %material Ingot
+    S:gt.metaitem.01.13143.tooltip=M⎋
     S:gt.metaitem.01.1315.name=Small Pile of %material Dust
     S:gt.metaitem.01.1315.tooltip=Pb₄Sb
     S:gt.metaitem.01.1316.name=Small Pile of %material Dust
@@ -29126,6 +29242,8 @@ languagefile {
     S:gt.metaitem.01.1414.tooltip=
     S:gt.metaitem.01.14141.name=Triple %material Ingot
     S:gt.metaitem.01.14141.tooltip=En⦼
+    S:gt.metaitem.01.14143.name=Triple %material Ingot
+    S:gt.metaitem.01.14143.tooltip=M⎋
     S:gt.metaitem.01.14201.name=Triple %material Ingot
     S:gt.metaitem.01.14201.tooltip=Ms
     S:gt.metaitem.01.14202.name=Triple %material Ingot
@@ -29134,6 +29252,8 @@ languagefile {
     S:gt.metaitem.01.14203.tooltip=Ef
     S:gt.metaitem.01.14205.name=Triple %material Ingot
     S:gt.metaitem.01.14205.tooltip=Gs
+    S:gt.metaitem.01.143.name=Tiny Pile of %material Dust
+    S:gt.metaitem.01.143.tooltip=M⎋
     S:gt.metaitem.01.14300.name=Triple %material Ingot
     S:gt.metaitem.01.14300.tooltip=SnCu₃
     S:gt.metaitem.01.14301.name=Triple %material Ingot
@@ -29628,6 +29748,8 @@ languagefile {
     S:gt.metaitem.01.1514.tooltip=C₁₀H₁₀O₁₆
     S:gt.metaitem.01.15141.name=Quadruple %material Ingot
     S:gt.metaitem.01.15141.tooltip=En⦼
+    S:gt.metaitem.01.15143.name=Quadruple %material Ingot
+    S:gt.metaitem.01.15143.tooltip=M⎋
     S:gt.metaitem.01.1515.name=Small Pile of %material Dust
     S:gt.metaitem.01.1515.tooltip=
     S:gt.metaitem.01.1516.name=Small Pile of %material Dust
@@ -30194,6 +30316,8 @@ languagefile {
     S:gt.metaitem.01.1614.tooltip=PbO
     S:gt.metaitem.01.16141.name=Quintuple %material Ingot
     S:gt.metaitem.01.16141.tooltip=En⦼
+    S:gt.metaitem.01.16143.name=Quintuple %material Ingot
+    S:gt.metaitem.01.16143.tooltip=M⎋
     S:gt.metaitem.01.1615.name=Small Pile of %material Dust
     S:gt.metaitem.01.1615.tooltip=As₂O₃
     S:gt.metaitem.01.1616.name=Small Pile of %material Dust
@@ -30710,6 +30834,8 @@ languagefile {
     S:gt.metaitem.01.17139.tooltip=A tear into the space beyond space
     S:gt.metaitem.01.17141.name=%material Plate
     S:gt.metaitem.01.17141.tooltip=En⦼
+    S:gt.metaitem.01.17143.name=%material Plate
+    S:gt.metaitem.01.17143.tooltip=M⎋
     S:gt.metaitem.01.1719.name=Small Pile of %material Dust
     S:gt.metaitem.01.1719.tooltip=Na₂S
     S:gt.metaitem.01.17201.name=%material Plate
@@ -31376,6 +31502,8 @@ languagefile {
     S:gt.metaitem.01.1814.tooltip=
     S:gt.metaitem.01.18141.name=Double %material Plate
     S:gt.metaitem.01.18141.tooltip=En⦼
+    S:gt.metaitem.01.18143.name=Double %material Plate
+    S:gt.metaitem.01.18143.tooltip=M⎋
     S:gt.metaitem.01.1815.name=Small Pile of %material
     S:gt.metaitem.01.1815.tooltip=C
     S:gt.metaitem.01.1816.name=Small Pile of %material
@@ -32016,6 +32144,8 @@ languagefile {
     S:gt.metaitem.01.1914.tooltip=CaMgC₂O₆
     S:gt.metaitem.01.19141.name=Triple %material Plate
     S:gt.metaitem.01.19141.tooltip=En⦼
+    S:gt.metaitem.01.19143.name=Triple %material Plate
+    S:gt.metaitem.01.19143.tooltip=M⎋
     S:gt.metaitem.01.1915.name=Small Pile of %material Dust
     S:gt.metaitem.01.1915.tooltip=CaSiO₃
     S:gt.metaitem.01.1916.name=Small Pile of %material Dust
@@ -32608,6 +32738,8 @@ languagefile {
     S:gt.metaitem.01.20139.tooltip=A tear into the space beyond space
     S:gt.metaitem.01.20141.name=Quadruple %material Plate
     S:gt.metaitem.01.20141.tooltip=En⦼
+    S:gt.metaitem.01.20143.name=Quadruple %material Plate
+    S:gt.metaitem.01.20143.tooltip=M⎋
     S:gt.metaitem.01.2017.name=%material Dust
     S:gt.metaitem.01.2017.tooltip=Na
     S:gt.metaitem.01.2018.name=%material Dust
@@ -33218,6 +33350,8 @@ languagefile {
     S:gt.metaitem.01.21139.tooltip=A tear into the space beyond space
     S:gt.metaitem.01.21141.name=Quintuple %material Plate
     S:gt.metaitem.01.21141.tooltip=En⦼
+    S:gt.metaitem.01.21143.name=Quintuple %material Plate
+    S:gt.metaitem.01.21143.tooltip=M⎋
     S:gt.metaitem.01.21201.name=Quintuple %material Plate
     S:gt.metaitem.01.21201.tooltip=Ms
     S:gt.metaitem.01.21202.name=Quintuple %material Plate
@@ -33440,6 +33574,8 @@ languagefile {
     S:gt.metaitem.01.21408.tooltip=(Ag(((Si(FeS₂)₅(CrAl₂O₃)Hg₃)SiC)FeAg)(Ni(AuAgCu₃)(Fe₅₀C)₃))((BeK₄N₅Ma₆)(CSMa))Cr
     S:gt.metaitem.01.2141.name=%material Dust
     S:gt.metaitem.01.2141.tooltip=En⦼
+    S:gt.metaitem.01.2143.name=%material Dust
+    S:gt.metaitem.01.2143.tooltip=M⎋
     S:gt.metaitem.01.21470.name=Quintuple %material Sheet
     S:gt.metaitem.01.21470.tooltip=C₂₁H₂₄O₄
     S:gt.metaitem.01.21471.name=Quintuple %material Sheet
@@ -33708,6 +33844,8 @@ languagefile {
     S:gt.metaitem.01.22139.tooltip=A tear into the space beyond space
     S:gt.metaitem.01.22141.name=Dense %material Plate
     S:gt.metaitem.01.22141.tooltip=En⦼
+    S:gt.metaitem.01.22143.name=Dense %material Plate
+    S:gt.metaitem.01.22143.tooltip=M⎋
     S:gt.metaitem.01.22201.name=Dense %material Plate
     S:gt.metaitem.01.22201.tooltip=Ms
     S:gt.metaitem.01.22202.name=Dense %material Plate
@@ -34202,6 +34340,8 @@ languagefile {
     S:gt.metaitem.01.2314.tooltip=Sn₉Sb
     S:gt.metaitem.01.23141.name=%material Rod
     S:gt.metaitem.01.23141.tooltip=En⦼
+    S:gt.metaitem.01.23143.name=%material Rod
+    S:gt.metaitem.01.23143.tooltip=M⎋
     S:gt.metaitem.01.2315.name=%material Dust
     S:gt.metaitem.01.2315.tooltip=Pb₄Sb
     S:gt.metaitem.01.2316.name=%material Dust
@@ -35066,6 +35206,8 @@ languagefile {
     S:gt.metaitem.01.2514.tooltip=C₁₀H₁₀O₁₆
     S:gt.metaitem.01.25141.name=%material Round
     S:gt.metaitem.01.25141.tooltip=En⦼
+    S:gt.metaitem.01.25143.name=%material Round
+    S:gt.metaitem.01.25143.tooltip=M⎋
     S:gt.metaitem.01.2515.name=%material Dust
     S:gt.metaitem.01.2515.tooltip=
     S:gt.metaitem.01.2516.name=%material Dust
@@ -35646,6 +35788,8 @@ languagefile {
     S:gt.metaitem.01.2614.tooltip=PbO
     S:gt.metaitem.01.26141.name=%material Bolt
     S:gt.metaitem.01.26141.tooltip=En⦼
+    S:gt.metaitem.01.26143.name=%material Bolt
+    S:gt.metaitem.01.26143.tooltip=M⎋
     S:gt.metaitem.01.2615.name=%material Dust
     S:gt.metaitem.01.2615.tooltip=As₂O₃
     S:gt.metaitem.01.2616.name=%material Dust
@@ -36268,6 +36412,8 @@ languagefile {
     S:gt.metaitem.01.27139.tooltip=A tear into the space beyond space
     S:gt.metaitem.01.27141.name=%material Screw
     S:gt.metaitem.01.27141.tooltip=En⦼
+    S:gt.metaitem.01.27143.name=%material Screw
+    S:gt.metaitem.01.27143.tooltip=M⎋
     S:gt.metaitem.01.2719.name=%material Dust
     S:gt.metaitem.01.2719.tooltip=Na₂S
     S:gt.metaitem.01.27201.name=%material Screw
@@ -36904,6 +37050,8 @@ languagefile {
     S:gt.metaitem.01.2814.tooltip=
     S:gt.metaitem.01.28141.name=%material Ring
     S:gt.metaitem.01.28141.tooltip=En⦼
+    S:gt.metaitem.01.28143.name=%material Ring
+    S:gt.metaitem.01.28143.tooltip=M⎋
     S:gt.metaitem.01.2815.name=%material
     S:gt.metaitem.01.2815.tooltip=C
     S:gt.metaitem.01.2816.name=%material
@@ -37558,6 +37706,8 @@ languagefile {
     S:gt.metaitem.01.2914.tooltip=CaMgC₂O₆
     S:gt.metaitem.01.29141.name=%material Foil
     S:gt.metaitem.01.29141.tooltip=En⦼
+    S:gt.metaitem.01.29143.name=%material Foil
+    S:gt.metaitem.01.29143.tooltip=M⎋
     S:gt.metaitem.01.2915.name=%material Dust
     S:gt.metaitem.01.2915.tooltip=CaSiO₃
     S:gt.metaitem.01.2916.name=%material Dust
@@ -38076,6 +38226,8 @@ languagefile {
     S:gt.metaitem.01.30140.tooltip=
     S:gt.metaitem.01.30142.name=%material Cell
     S:gt.metaitem.01.30142.tooltip=
+    S:gt.metaitem.01.30144.name=%material Cell
+    S:gt.metaitem.01.30144.tooltip=
     S:gt.metaitem.01.3018.name=Impure Pile of %material Dust
     S:gt.metaitem.01.3018.tooltip=Mg
     S:gt.metaitem.01.3019.name=Impure Pile of %material Dust
@@ -38768,8 +38920,16 @@ languagefile {
     S:gt.metaitem.01.3129.tooltip=Nt
     S:gt.metaitem.01.313.name=Tiny Pile of %material Dust
     S:gt.metaitem.01.313.tooltip=MgAl₂
+    S:gt.metaitem.01.31324.name=%material Plasma Cell
+    S:gt.metaitem.01.31324.tooltip=Nq
+    S:gt.metaitem.01.31329.name=%material Plasma Cell
+    S:gt.metaitem.01.31329.tooltip=Tn
+    S:gt.metaitem.01.31340.name=%material Plasma Cell
+    S:gt.metaitem.01.31340.tooltip=SpFe
     S:gt.metaitem.01.31382.name=%material Plasma Cell
     S:gt.metaitem.01.31382.tooltip=Ai
+    S:gt.metaitem.01.31393.name=%material Plasma Cell
+    S:gt.metaitem.01.31393.tooltip=Oh
     S:gt.metaitem.01.314.name=Tiny Pile of %material Dust
     S:gt.metaitem.01.314.tooltip=Sn₉Sb
     S:gt.metaitem.01.31493.name=%material Plasma Cell
@@ -38796,6 +38956,8 @@ languagefile {
     S:gt.metaitem.01.318.tooltip=Su
     S:gt.metaitem.01.31856.name=%material Plasma Cell
     S:gt.metaitem.01.31856.tooltip=Si*
+    S:gt.metaitem.01.31884.name=%material Plasma Cell
+    S:gt.metaitem.01.31884.tooltip=De
     S:gt.metaitem.01.319.name=Tiny Pile of %material Dust
     S:gt.metaitem.01.319.tooltip=Ad
     S:gt.metaitem.01.31975.name=%material Plasma Cell
@@ -42931,6 +43093,8 @@ languagefile {
     S:gt.metaitem.01.914.tooltip=CaMgC₂O₆
     S:gt.metaitem.01.9141.name=%material Nugget
     S:gt.metaitem.01.9141.tooltip=En⦼
+    S:gt.metaitem.01.9143.name=%material Nugget
+    S:gt.metaitem.01.9143.tooltip=M⎋
     S:gt.metaitem.01.915.name=Tiny Pile of %material Dust
     S:gt.metaitem.01.915.tooltip=CaSiO₃
     S:gt.metaitem.01.916.name=Tiny Pile of %material Dust
@@ -43456,6 +43620,8 @@ languagefile {
     S:gt.metaitem.02.10139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.10141.name=%material Wrench Tip
     S:gt.metaitem.02.10141.tooltip=En⦼
+    S:gt.metaitem.02.10143.name=%material Wrench Tip
+    S:gt.metaitem.02.10143.tooltip=M⎋
     S:gt.metaitem.02.1019.name=%material Pickaxe Head
     S:gt.metaitem.02.1019.tooltip=Al
     S:gt.metaitem.02.10201.name=%material Wrench Tip
@@ -43826,6 +43992,8 @@ languagefile {
     S:gt.metaitem.02.11139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.11141.name=%material Universal Spade Head
     S:gt.metaitem.02.11141.tooltip=En⦼
+    S:gt.metaitem.02.11143.name=%material Universal Spade Head
+    S:gt.metaitem.02.11143.tooltip=M⎋
     S:gt.metaitem.02.112.name=%material Sword Blade
     S:gt.metaitem.02.112.tooltip=M
     S:gt.metaitem.02.11201.name=%material Universal Spade Head
@@ -44034,6 +44202,8 @@ languagefile {
     S:gt.metaitem.02.11408.tooltip=(Ag(((Si(FeS₂)₅(CrAl₂O₃)Hg₃)SiC)FeAg)(Ni(AuAgCu₃)(Fe₅₀C)₃))((BeK₄N₅Ma₆)(CSMa))Cr
     S:gt.metaitem.02.1141.name=%material Pickaxe Head
     S:gt.metaitem.02.1141.tooltip=En⦼
+    S:gt.metaitem.02.1143.name=%material Pickaxe Head
+    S:gt.metaitem.02.1143.tooltip=M⎋
     S:gt.metaitem.02.11470.name=%material Universal Spade Head
     S:gt.metaitem.02.11470.tooltip=C₂₁H₂₄O₄
     S:gt.metaitem.02.11471.name=%material Universal Spade Head
@@ -44260,6 +44430,8 @@ languagefile {
     S:gt.metaitem.02.12139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.12141.name=%material Sense Blade
     S:gt.metaitem.02.12141.tooltip=En⦼
+    S:gt.metaitem.02.12143.name=%material Sense Blade
+    S:gt.metaitem.02.12143.tooltip=M⎋
     S:gt.metaitem.02.12201.name=%material Sense Blade
     S:gt.metaitem.02.12201.tooltip=Ms
     S:gt.metaitem.02.12202.name=%material Sense Blade
@@ -44700,6 +44872,8 @@ languagefile {
     S:gt.metaitem.02.13139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.13141.name=%material Plow Head
     S:gt.metaitem.02.13141.tooltip=En⦼
+    S:gt.metaitem.02.13143.name=%material Plow Head
+    S:gt.metaitem.02.13143.tooltip=M⎋
     S:gt.metaitem.02.1316.name=%material Pickaxe Head
     S:gt.metaitem.02.1316.tooltip=(Fe₅₀C)W
     S:gt.metaitem.02.1317.name=%material Pickaxe Head
@@ -45276,6 +45450,8 @@ languagefile {
     S:gt.metaitem.02.14139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.14141.name=%material Arrow Head
     S:gt.metaitem.02.14141.tooltip=En⦼
+    S:gt.metaitem.02.14143.name=%material Arrow Head
+    S:gt.metaitem.02.14143.tooltip=M⎋
     S:gt.metaitem.02.14201.name=%material Arrow Head
     S:gt.metaitem.02.14201.tooltip=Ms
     S:gt.metaitem.02.14202.name=%material Arrow Head
@@ -45292,6 +45468,8 @@ languagefile {
     S:gt.metaitem.02.14207.tooltip=Dw
     S:gt.metaitem.02.14299.name=%material Arrow Head
     S:gt.metaitem.02.14299.tooltip=
+    S:gt.metaitem.02.143.name=%material Sword Blade
+    S:gt.metaitem.02.143.tooltip=M⎋
     S:gt.metaitem.02.14300.name=%material Arrow Head
     S:gt.metaitem.02.14300.tooltip=SnCu₃
     S:gt.metaitem.02.14301.name=%material Arrow Head
@@ -45728,6 +45906,8 @@ languagefile {
     S:gt.metaitem.02.1514.tooltip=C₁₀H₁₀O₁₆
     S:gt.metaitem.02.15141.name=%material Buzzsaw Blade
     S:gt.metaitem.02.15141.tooltip=En⦼
+    S:gt.metaitem.02.15143.name=%material Buzzsaw Blade
+    S:gt.metaitem.02.15143.tooltip=M⎋
     S:gt.metaitem.02.1516.name=%material Pickaxe Head
     S:gt.metaitem.02.1516.tooltip=SiO₂
     S:gt.metaitem.02.15201.name=%material Buzzsaw Blade
@@ -46090,6 +46270,8 @@ languagefile {
     S:gt.metaitem.02.16139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.16141.name=%material Turbine Blade
     S:gt.metaitem.02.16141.tooltip=En⦼
+    S:gt.metaitem.02.16143.name=%material Turbine Blade
+    S:gt.metaitem.02.16143.tooltip=M⎋
     S:gt.metaitem.02.16201.name=%material Turbine Blade
     S:gt.metaitem.02.16201.tooltip=Ms
     S:gt.metaitem.02.16202.name=%material Turbine Blade
@@ -46496,6 +46678,8 @@ languagefile {
     S:gt.metaitem.02.18139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.18141.name=%material Casing
     S:gt.metaitem.02.18141.tooltip=En⦼
+    S:gt.metaitem.02.18143.name=%material Casing
+    S:gt.metaitem.02.18143.tooltip=M⎋
     S:gt.metaitem.02.1819.name=%material Pickaxe Head
     S:gt.metaitem.02.1819.tooltip=C
     S:gt.metaitem.02.18201.name=%material Casing
@@ -47082,6 +47266,8 @@ languagefile {
     S:gt.metaitem.02.19139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.19141.name=Fine %material Wire
     S:gt.metaitem.02.19141.tooltip=En⦼
+    S:gt.metaitem.02.19143.name=Fine %material Wire
+    S:gt.metaitem.02.19143.tooltip=M⎋
     S:gt.metaitem.02.19300.name=Fine %material Wire
     S:gt.metaitem.02.19300.tooltip=SnCu₃
     S:gt.metaitem.02.19301.name=Fine %material Wire
@@ -47408,6 +47594,8 @@ languagefile {
     S:gt.metaitem.02.20139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.20141.name=Small %material Gear
     S:gt.metaitem.02.20141.tooltip=En⦼
+    S:gt.metaitem.02.20143.name=Small %material Gear
+    S:gt.metaitem.02.20143.tooltip=M⎋
     S:gt.metaitem.02.2019.name=%material Shovel Head
     S:gt.metaitem.02.2019.tooltip=Al
     S:gt.metaitem.02.202.name=%material Sword Blade
@@ -47796,6 +47984,8 @@ languagefile {
     S:gt.metaitem.02.21139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.21141.name=%material Rotor
     S:gt.metaitem.02.21141.tooltip=En⦼
+    S:gt.metaitem.02.21143.name=%material Rotor
+    S:gt.metaitem.02.21143.tooltip=M⎋
     S:gt.metaitem.02.21201.name=%material Rotor
     S:gt.metaitem.02.21201.tooltip=Ms
     S:gt.metaitem.02.21202.name=%material Rotor
@@ -47970,6 +48160,8 @@ languagefile {
     S:gt.metaitem.02.21408.tooltip=(Ag(((Si(FeS₂)₅(CrAl₂O₃)Hg₃)SiC)FeAg)(Ni(AuAgCu₃)(Fe₅₀C)₃))((BeK₄N₅Ma₆)(CSMa))Cr
     S:gt.metaitem.02.2141.name=%material Shovel Head
     S:gt.metaitem.02.2141.tooltip=En⦼
+    S:gt.metaitem.02.2143.name=%material Shovel Head
+    S:gt.metaitem.02.2143.tooltip=M⎋
     S:gt.metaitem.02.21470.name=%material Rotor
     S:gt.metaitem.02.21470.tooltip=C₂₁H₂₄O₄
     S:gt.metaitem.02.21472.name=%material Rotor
@@ -48186,6 +48378,8 @@ languagefile {
     S:gt.metaitem.02.22139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.22141.name=Long %material Rod
     S:gt.metaitem.02.22141.tooltip=En⦼
+    S:gt.metaitem.02.22143.name=Long %material Rod
+    S:gt.metaitem.02.22143.tooltip=M⎋
     S:gt.metaitem.02.22201.name=Long %material Rod
     S:gt.metaitem.02.22201.tooltip=Ms
     S:gt.metaitem.02.22202.name=Long %material Rod
@@ -48776,6 +48970,8 @@ languagefile {
     S:gt.metaitem.02.23139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.23141.name=Small %material Spring
     S:gt.metaitem.02.23141.tooltip=En⦼
+    S:gt.metaitem.02.23143.name=Small %material Spring
+    S:gt.metaitem.02.23143.tooltip=M⎋
     S:gt.metaitem.02.2316.name=%material Shovel Head
     S:gt.metaitem.02.2316.tooltip=(Fe₅₀C)W
     S:gt.metaitem.02.2317.name=%material Shovel Head
@@ -49396,6 +49592,8 @@ languagefile {
     S:gt.metaitem.02.24139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.24141.name=%material Spring
     S:gt.metaitem.02.24141.tooltip=En⦼
+    S:gt.metaitem.02.24143.name=%material Spring
+    S:gt.metaitem.02.24143.tooltip=M⎋
     S:gt.metaitem.02.24201.name=%material Spring
     S:gt.metaitem.02.24201.tooltip=Ms
     S:gt.metaitem.02.24202.name=%material Spring
@@ -49824,6 +50022,8 @@ languagefile {
     S:gt.metaitem.02.2514.tooltip=C₁₀H₁₀O₁₆
     S:gt.metaitem.02.25141.name=%material Arrow
     S:gt.metaitem.02.25141.tooltip=En⦼
+    S:gt.metaitem.02.25143.name=%material Arrow
+    S:gt.metaitem.02.25143.tooltip=M⎋
     S:gt.metaitem.02.2516.name=%material Shovel Head
     S:gt.metaitem.02.2516.tooltip=SiO₂
     S:gt.metaitem.02.25201.name=%material Arrow
@@ -50278,6 +50478,8 @@ languagefile {
     S:gt.metaitem.02.26139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.26141.name=Light %material Arrow
     S:gt.metaitem.02.26141.tooltip=En⦼
+    S:gt.metaitem.02.26143.name=Light %material Arrow
+    S:gt.metaitem.02.26143.tooltip=M⎋
     S:gt.metaitem.02.26201.name=Light %material Arrow
     S:gt.metaitem.02.26201.tooltip=Ms
     S:gt.metaitem.02.26202.name=Light %material Arrow
@@ -50976,6 +51178,8 @@ languagefile {
     S:gt.metaitem.02.31139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.31141.name=%material Gear
     S:gt.metaitem.02.31141.tooltip=En⦼
+    S:gt.metaitem.02.31143.name=%material Gear
+    S:gt.metaitem.02.31143.tooltip=M⎋
     S:gt.metaitem.02.312.name=%material Sword Blade
     S:gt.metaitem.02.312.tooltip=FeAlCr
     S:gt.metaitem.02.31201.name=%material Gear
@@ -51158,6 +51362,8 @@ languagefile {
     S:gt.metaitem.02.31408.tooltip=(Ag(((Si(FeS₂)₅(CrAl₂O₃)Hg₃)SiC)FeAg)(Ni(AuAgCu₃)(Fe₅₀C)₃))((BeK₄N₅Ma₆)(CSMa))Cr
     S:gt.metaitem.02.3141.name=%material Axe Head
     S:gt.metaitem.02.3141.tooltip=En⦼
+    S:gt.metaitem.02.3143.name=%material Axe Head
+    S:gt.metaitem.02.3143.tooltip=M⎋
     S:gt.metaitem.02.31470.name=%material Gear
     S:gt.metaitem.02.31470.tooltip=C₂₁H₂₄O₄
     S:gt.metaitem.02.31471.name=%material Gear
@@ -51686,6 +51892,8 @@ languagefile {
     S:gt.metaitem.02.32582.tooltip=Transfers Item Amount as Redstone wirelessly/n Can only connect with advanced wireless covers
     S:gt.metaitem.02.32583.name=Wireless Needs Maintenance Cover
     S:gt.metaitem.02.32583.tooltip=Transfers Maintenance Issues as Redstone wirelessly/n Can only connect with advanced wireless covers
+    S:gt.metaitem.02.32584.name=Wireless Activity Detector Cover
+    S:gt.metaitem.02.32584.tooltip=Transfers Activity as Redstone wirelessly/n Can only connect with advanced wireless covers
     S:gt.metaitem.02.326.name=%material Sword Blade
     S:gt.metaitem.02.326.tooltip=Nq+
     S:gt.metaitem.02.327.name=%material Sword Blade
@@ -52234,6 +52442,8 @@ languagefile {
     S:gt.metaitem.02.4139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.4141.name=%material Hoe Head
     S:gt.metaitem.02.4141.tooltip=En⦼
+    S:gt.metaitem.02.4143.name=%material Hoe Head
+    S:gt.metaitem.02.4143.tooltip=M⎋
     S:gt.metaitem.02.4201.name=%material Hoe Head
     S:gt.metaitem.02.4201.tooltip=Ms
     S:gt.metaitem.02.4202.name=%material Hoe Head
@@ -52690,6 +52900,8 @@ languagefile {
     S:gt.metaitem.02.514.tooltip=C₁₀H₁₀O₁₆
     S:gt.metaitem.02.5141.name=%material Hammer Head
     S:gt.metaitem.02.5141.tooltip=En⦼
+    S:gt.metaitem.02.5143.name=%material Hammer Head
+    S:gt.metaitem.02.5143.tooltip=M⎋
     S:gt.metaitem.02.516.name=%material Sword Blade
     S:gt.metaitem.02.516.tooltip=SiO₂
     S:gt.metaitem.02.52.name=%material Sword Blade
@@ -53150,6 +53362,8 @@ languagefile {
     S:gt.metaitem.02.6139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.6141.name=%material File Head
     S:gt.metaitem.02.6141.tooltip=En⦼
+    S:gt.metaitem.02.6143.name=%material File Head
+    S:gt.metaitem.02.6143.tooltip=M⎋
     S:gt.metaitem.02.6201.name=%material File Head
     S:gt.metaitem.02.6201.tooltip=Ms
     S:gt.metaitem.02.6202.name=%material File Head
@@ -53478,6 +53692,8 @@ languagefile {
     S:gt.metaitem.02.7139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.7141.name=%material Saw Blade
     S:gt.metaitem.02.7141.tooltip=En⦼
+    S:gt.metaitem.02.7143.name=%material Saw Blade
+    S:gt.metaitem.02.7143.tooltip=M⎋
     S:gt.metaitem.02.7201.name=%material Saw Blade
     S:gt.metaitem.02.7201.tooltip=Ms
     S:gt.metaitem.02.7202.name=%material Saw Blade
@@ -53808,6 +54024,8 @@ languagefile {
     S:gt.metaitem.02.8139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.8141.name=%material Drill Tip
     S:gt.metaitem.02.8141.tooltip=En⦼
+    S:gt.metaitem.02.8143.name=%material Drill Tip
+    S:gt.metaitem.02.8143.tooltip=M⎋
     S:gt.metaitem.02.819.name=%material Sword Blade
     S:gt.metaitem.02.819.tooltip=C
     S:gt.metaitem.02.8201.name=%material Drill Tip
@@ -54168,6 +54386,8 @@ languagefile {
     S:gt.metaitem.02.9139.tooltip=A tear into the space beyond space
     S:gt.metaitem.02.9141.name=%material Chainsaw Tip
     S:gt.metaitem.02.9141.tooltip=En⦼
+    S:gt.metaitem.02.9143.name=%material Chainsaw Tip
+    S:gt.metaitem.02.9143.tooltip=M⎋
     S:gt.metaitem.02.9201.name=%material Chainsaw Tip
     S:gt.metaitem.02.9201.tooltip=Ms
     S:gt.metaitem.02.9202.name=%material Chainsaw Tip
@@ -54601,6 +54821,8 @@ languagefile {
     S:gt.metaitem.03.1139.tooltip=A tear into the space beyond space
     S:gt.metaitem.03.1141.name=Crate of %material Ingot
     S:gt.metaitem.03.1141.tooltip=En⦼
+    S:gt.metaitem.03.1143.name=Crate of %material Ingot
+    S:gt.metaitem.03.1143.tooltip=M⎋
     S:gt.metaitem.03.1201.name=Crate of %material Ingot
     S:gt.metaitem.03.1201.tooltip=Ms
     S:gt.metaitem.03.1202.name=Crate of %material Ingot
@@ -54827,6 +55049,8 @@ languagefile {
     S:gt.metaitem.03.1408.tooltip=(Ag(((Si(FeS₂)₅(CrAl₂O₃)Hg₃)SiC)FeAg)(Ni(AuAgCu₃)(Fe₅₀C)₃))((BeK₄N₅Ma₆)(CSMa))Cr
     S:gt.metaitem.03.141.name=Crate of %material Dust
     S:gt.metaitem.03.141.tooltip=En⦼
+    S:gt.metaitem.03.143.name=Crate of %material Dust
+    S:gt.metaitem.03.143.tooltip=M⎋
     S:gt.metaitem.03.1470.name=Crate of %material Bar
     S:gt.metaitem.03.1470.tooltip=C₂₁H₂₄O₄
     S:gt.metaitem.03.1471.name=Crate of %material Bar
@@ -55257,6 +55481,8 @@ languagefile {
     S:gt.metaitem.03.314.tooltip=Sn₉Sb
     S:gt.metaitem.03.3141.name=Crate of %material Plate
     S:gt.metaitem.03.3141.tooltip=En⦼
+    S:gt.metaitem.03.3143.name=Crate of %material Plate
+    S:gt.metaitem.03.3143.tooltip=M⎋
     S:gt.metaitem.03.315.name=Crate of %material Dust
     S:gt.metaitem.03.315.tooltip=Pb₄Sb
     S:gt.metaitem.03.316.name=Crate of %material Dust
@@ -55578,11 +55804,11 @@ languagefile {
     S:gt.metaitem.03.32191.name=Small Gallium Arsenide Crystal
     S:gt.metaitem.03.32191.tooltip=For making boules
     S:gt.metaitem.03.32192.name=Kevlar Fiber
-    S:gt.metaitem.03.32192.tooltip=For make Kevlar Plates
+    S:gt.metaitem.03.32192.tooltip=For making Kevlar Plates
     S:gt.metaitem.03.32193.name=Woven Kevlar
-    S:gt.metaitem.03.32193.tooltip=For make Kevlar Plates
+    S:gt.metaitem.03.32193.tooltip=For making Kevlar Plates
     S:gt.metaitem.03.32194.name=Spinneret
-    S:gt.metaitem.03.32194.tooltip=For make Kevlar Fiber
+    S:gt.metaitem.03.32194.tooltip=For making Kevlar Fiber
     S:gt.metaitem.03.32199.name=Upgrade Frame
     S:gt.metaitem.03.32199.tooltip=Crafting component
     S:gt.metaitem.03.32200.name=Acceleration Upgrade x2
@@ -57064,7 +57290,12 @@ languagefile {
     S:gt.metaitem.98.24.name=Green Vitriol water solution Cell
     S:gt.metaitem.98.25.name=Indium Concentrate Cell
     S:gt.metaitem.98.26.name=Lead-Zinc solution Cell
+    S:gt.metaitem.98.27.name=Xenoxene Cell
+    S:gt.metaitem.98.28.name=Super Heavy Radox Cell
+    S:gt.metaitem.98.29.name=Heavy Radox Cell
     S:gt.metaitem.98.3.name=Liquid Ender Cell
+    S:gt.metaitem.98.30.name=Cracked Radox Cell
+    S:gt.metaitem.98.31.name=Light Radox Cell
     S:gt.metaitem.98.4.name=Ender Goo Cell
     S:gt.metaitem.98.5.name=Drilling Fluid Cell
     S:gt.metaitem.98.6.name=Squid Ink Cell
@@ -57180,6 +57411,8 @@ languagefile {
     S:gt.metaitem.99.139.tooltip=A tear into the space beyond space
     S:gt.metaitem.99.141.name=Molten %material Cell
     S:gt.metaitem.99.141.tooltip=En⦼
+    S:gt.metaitem.99.143.name=Molten %material Cell
+    S:gt.metaitem.99.143.tooltip=M⎋
     S:gt.metaitem.99.14642.name=Moderately Steam-Cracked %material Cell
     S:gt.metaitem.99.14642.tooltip=C₂H₆
     S:gt.metaitem.99.14643.name=Moderately Steam-Cracked %material Cell
@@ -57968,6 +58201,12 @@ languagefile {
     S:gt.stabilisation_field_generator.7.name=§fTipler§r Stabilisation Field Generator
     S:gt.stabilisation_field_generator.8.name=§f§lGallifreyan§r Stabilisation Field Generator
     S:gt.sunnariumCell.name=Sunnarium Fuel Rod
+    S:gt.tierdDrone0.name=Drone (Level 1)
+    S:gt.tierdDrone0.tooltip_main=Quadcopter Stable Small Aircraft
+    S:gt.tierdDrone1.name=Drone (Level 2)
+    S:gt.tierdDrone1.tooltip_main=Dual Turbo High-Ejection Medium Aircraft
+    S:gt.tierdDrone2.name=Drone (Level 3)
+    S:gt.tierdDrone2.tooltip_main=Single Engine Anti-Gravity Large Aircraft
     S:gt.time_acceleration_field_generator.0.name=§fCrude§r Time Dilation Field Generator
     S:gt.time_acceleration_field_generator.1.name=§fPrimitive§r Time Dilation Field Generator
     S:gt.time_acceleration_field_generator.2.name=§fStable§r Time Dilation Field Generator
