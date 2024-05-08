@@ -21,12 +21,16 @@
 				"4:10": {
 					"uuid:8": "3f4be91d-e2b4-432b-ba2d-ae289c46c6a0",
 					"status:8": "MEMBER"
+				},
+				"5:10": {
+					"uuid:8": "6c0083a1-f577-46c1-85cd-d7b4975932c9",
+					"status:8": "MEMBER"
 				}
 			},
 			"partyID:3": 1,
 			"properties:10": {
 				"betterquesting:10": {
-					"name:8": "Teste"
+					"name:8": "Time"
 				}
 			}
 		}
