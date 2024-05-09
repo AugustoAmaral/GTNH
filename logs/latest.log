@@ -535,3 +535,236 @@
 [14:37:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 28956ms behind, skipping 579 tick(s)
 [14:37:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4858ms behind, skipping 97 tick(s)
 [14:38:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 30166ms behind, skipping 603 tick(s)
+[14:38:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4864ms behind, skipping 97 tick(s)
+[14:39:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 30195ms behind, skipping 603 tick(s)
+[14:39:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4852ms behind, skipping 97 tick(s)
+[14:40:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24695ms behind, skipping 493 tick(s)
+[14:40:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4448ms behind, skipping 88 tick(s)
+[14:40:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 28507ms behind, skipping 570 tick(s)
+[14:41:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4858ms behind, skipping 97 tick(s)
+[14:41:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24619ms behind, skipping 492 tick(s)
+[14:41:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4019ms behind, skipping 80 tick(s)
+[14:42:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17744ms behind, skipping 354 tick(s)
+[14:42:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4121ms behind, skipping 82 tick(s)
+[14:42:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17742ms behind, skipping 354 tick(s)
+[14:42:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4721ms behind, skipping 94 tick(s)
+[14:43:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17104ms behind, skipping 342 tick(s)
+[14:43:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4084ms behind, skipping 81 tick(s)
+[14:44:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17197ms behind, skipping 343 tick(s)
+[14:44:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4138ms behind, skipping 82 tick(s)
+[14:44:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16667ms behind, skipping 333 tick(s)
+[14:44:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3748ms behind, skipping 74 tick(s)
+[14:45:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24858ms behind, skipping 497 tick(s)
+[14:45:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3696ms behind, skipping 73 tick(s)
+[14:46:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24234ms behind, skipping 484 tick(s)
+[14:46:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3762ms behind, skipping 75 tick(s)
+[14:47:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24151ms behind, skipping 483 tick(s)
+[14:47:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3745ms behind, skipping 74 tick(s)
+[14:47:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14512ms behind, skipping 290 tick(s)
+[14:47:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7034ms behind, skipping 140 tick(s)
+[14:48:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13100ms behind, skipping 262 tick(s)
+[14:48:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7015ms behind, skipping 140 tick(s)
+[14:48:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13366ms behind, skipping 267 tick(s)
+[14:49:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6892ms behind, skipping 137 tick(s)
+[14:49:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13372ms behind, skipping 267 tick(s)
+[14:49:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7015ms behind, skipping 140 tick(s)
+[14:50:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12929ms behind, skipping 258 tick(s)
+[14:50:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7361ms behind, skipping 147 tick(s)
+[14:50:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13362ms behind, skipping 267 tick(s)
+[14:50:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7217ms behind, skipping 144 tick(s)
+[14:51:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16739ms behind, skipping 334 tick(s)
+[14:51:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4216ms behind, skipping 84 tick(s)
+[14:51:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19009ms behind, skipping 380 tick(s)
+[14:51:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4097ms behind, skipping 81 tick(s)
+[14:52:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 17583ms behind, skipping 351 tick(s)
+[14:52:28] [User Authenticator #7/INFO]: UUID of player SpykeTiger is 65913017-1b10-48ec-b711-08e1be1d6730
+[14:52:30] [Server thread/INFO]: SpykeTiger[/187.106.159.19:57128] logged in with entity id 459553 at (-1840.1671317536284, 70.0, -6205.187022305388)
+[14:52:30] [Server thread/INFO]: SpykeTiger joined the game
+[14:52:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4552ms behind, skipping 91 tick(s)
+[14:53:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22265ms behind, skipping 445 tick(s)
+[14:53:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4358ms behind, skipping 87 tick(s)
+[14:53:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 22575ms behind, skipping 451 tick(s)
+[14:53:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4454ms behind, skipping 89 tick(s)
+[14:54:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21714ms behind, skipping 434 tick(s)
+[14:54:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4357ms behind, skipping 87 tick(s)
+[14:54:43] [Server thread/INFO]: <SpykeTiger> o homem retornou
+[14:54:52] [Server thread/INFO]: <Sazamaki> o brabo
+[14:55:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21224ms behind, skipping 424 tick(s)
+[14:55:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4467ms behind, skipping 89 tick(s)
+[14:55:15] [Server thread/INFO]: <Sazamaki> me faz uma boots of travalling nunca te pedi nada
+[14:55:34] [Server thread/INFO]: <Hyulles> oxi ja liberou runic altar ?
+[14:55:43] [Server thread/INFO]: <Sazamaki> ta tudo liberado
+[14:55:45] [Server thread/INFO]: <Sazamaki> uui
+[14:55:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20999ms behind, skipping 419 tick(s)
+[14:55:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4328ms behind, skipping 86 tick(s)
+[14:56:00] [User Authenticator #8/INFO]: UUID of player Ravara is 7800f48a-7838-4eb7-950f-43ec1aa76cf7
+[14:56:01] [Server thread/INFO]: Ravara[/177.131.185.95:9527] logged in with entity id 474584 at (-1877.0014597402917, 83.0, -6898.175055726118)
+[14:56:01] [Server thread/INFO]: Ravara joined the game
+[14:56:02] [Server thread/INFO]: <Hyulles> bonde do tigrão então
+[14:56:12] [Server thread/INFO]: <Sazamaki> namoral thaumcraft tem uma progressao zuada, acho q fica bom depois do ev
+[14:56:20] [Server thread/INFO]: <SpykeTiger> calma ae amigao
+[14:56:22] [Server thread/INFO]: <Sazamaki> por conta das varas
+[14:56:26] [Server thread/INFO]: <SpykeTiger> to setando o mod ainda
+[14:56:27] [Server thread/INFO]: <Sazamaki> a vara é fraca
+[14:56:27] [Server thread/INFO]: <SpykeTiger> ksksks
+[14:56:37] [Server thread/INFO]: <SpykeTiger> minha vara n é fraca n, sai fora
+[14:56:40] [Server thread/INFO]: <Sazamaki> vara meia bomba
+[14:56:47] [Server thread/INFO]: <Ravara> oi povo que só come ovo
+[14:56:47] [Server thread/INFO]: <Hyulles> sim, depois que vc consegue mover o nodes ai fica easy
+[14:56:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 40066ms behind, skipping 801 tick(s)
+[14:56:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6296ms behind, skipping 125 tick(s)
+[14:57:02] [Server thread/INFO]: <SpykeTiger> Po, pão com ovo é mt bom ta
+[14:57:05] [Server thread/INFO]: <Sazamaki> ovo de codorna
+[14:57:55] [Server thread/INFO]: Hyulles has just earned the achievement [More Tools]
+[14:58:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 66530ms behind, skipping 1330 tick(s)
+[14:58:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9400ms behind, skipping 188 tick(s)
+[14:59:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 33454ms behind, skipping 669 tick(s)
+[14:59:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8481ms behind, skipping 169 tick(s)
+[15:01:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 65923ms behind, skipping 1318 tick(s)
+[15:01:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6571ms behind, skipping 131 tick(s)
+[15:02:41] [Server thread/INFO]: <Sazamaki> massa
+[15:02:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 76972ms behind, skipping 1539 tick(s)
+[15:03:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6405ms behind, skipping 128 tick(s)
+[15:03:14] [Server thread/INFO]: <Ravara> quer que eu cate?
+[15:03:23] [Server thread/INFO]: <Sazamaki> a chest q abre em qualquer lugar q faz do bloco do meteoro é delicinha
+[15:03:48] [Server thread/INFO]: <Ravara> como assim abre me qualquer lugar?
+[15:03:55] [Server thread/INFO]: <Sazamaki> por exemplo
+[15:04:01] [Server thread/INFO]: <SpykeTiger> mano
+[15:04:05] [Server thread/INFO]: <Sazamaki> chest de madeira n abre de baixo de machina
+[15:04:10] [Server thread/INFO]: <Sazamaki> ele "trava"
+[15:04:14] [Server thread/INFO]: <Ravara> ah sim, saquei
+[15:04:19] [Server thread/INFO]: <SpykeTiger> alguem me da um help com maquina aqui?
+[15:04:19] [Server thread/INFO]: <Sazamaki> éé
+[15:04:30] [Server thread/INFO]: <Sazamaki> to meio longe :/
+[15:04:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 73047ms behind, skipping 1460 tick(s)
+[15:04:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6597ms behind, skipping 131 tick(s)
+[15:06:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 70168ms behind, skipping 1403 tick(s)
+[15:06:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6527ms behind, skipping 130 tick(s)
+[15:08:14] [Server thread/INFO]: <Ravara> gente, to explrando, se lagar ai me avisa
+[15:08:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 96582ms behind, skipping 1931 tick(s)
+[15:08:42] [Server thread/INFO]: <Sazamaki> ae, se achar bioma plateu, ou mesa
+[15:08:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8134ms behind, skipping 162 tick(s)
+[15:08:47] [Server thread/INFO]: <Sazamaki> da um toque
+[15:08:53] [Server thread/INFO]: <Ravara> ok
+[15:09:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 36693ms behind, skipping 733 tick(s)
+[15:09:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7261ms behind, skipping 145 tick(s)
+[15:09:43] [Server thread/INFO]: <Ravara> se achar vila com npc do forestry da um toque
+[15:10:17] [Server thread/INFO]: <Sazamaki> qual tu ta precisando?
+[15:10:23] [Server thread/INFO]: <Ravara> aquele de roupa amarela
+[15:10:30] [Server thread/INFO]: <Ravara> que negocia abelha
+[15:10:31] [Server thread/INFO]: <Sazamaki> bele
+[15:10:47] [Server thread/INFO]: <Ravara> só preciso dele pra trabalhar em direção a abelha de combustivel
+[15:10:56] [Server thread/INFO]: <Sazamaki> a tu e cara da abeia
+[15:10:58] [Server thread/INFO]: <Sazamaki> viu
+[15:11:05] [Server thread/INFO]: <Sazamaki> bota uma de chrome
+[15:11:05] [Server thread/INFO]: <Ravara> kkkkkk
+[15:11:14] [Server thread/INFO]: <Sazamaki> usa pacas é um pe no saco
+[15:11:30] [Server thread/INFO]: <Ravara> blz, vou começar a ir em direção a ela tbm
+[15:11:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 83037ms behind, skipping 1660 tick(s)
+[15:11:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6131ms behind, skipping 122 tick(s)
+[15:11:48] [Server thread/INFO]: <Ravara> +1
+[15:11:59] [Server thread/INFO]: <Sazamaki> vou deslogar q tem bixo aqui
+[15:12:16] [Server thread/INFO]: <Ravara> show
+[15:12:39] [Server thread/INFO]: <Ravara> achei uma vila enorme
+[15:12:42] [Server thread/INFO]: <Ravara> com outra vila do lado
+[15:12:48] [Server thread/INFO]: <Ravara> e nenhuma casa do forestry =(
+[15:13:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 69761ms behind, skipping 1395 tick(s)
+[15:13:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5777ms behind, skipping 115 tick(s)
+[15:13:49] [Server thread/INFO]: <Ravara> é, vou fazer uma farm
+[15:13:59] [Server thread/INFO]: <Ravara> botar os narigudo pra ter filhote
+[15:14:21] [Server thread/INFO]: <Sazamaki> cuidado quando fala em narigudo, os jews estao de olho
+[15:14:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 62787ms behind, skipping 1255 tick(s)
+[15:14:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7029ms behind, skipping 140 tick(s)
+[15:15:19] [Server thread/INFO]: <Ravara> cara, essa abelha de chrome vai demorar um pouco pra conseguir
+[15:15:26] [Server thread/INFO]: <Ravara> talvez 1 ou 2 semanas, tem MT abelha no caminho
+[15:15:47] [Server thread/INFO]: <Sazamaki> vish, entao melhor começar fazer de glowstone
+[15:15:51] [Server thread/INFO]: <Ravara> se bem que agora com os mods de magia avançando eu consigo fazer sou frames, fica um pouco mais rápido
+[15:16:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 79542ms behind, skipping 1590 tick(s)
+[15:16:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6408ms behind, skipping 128 tick(s)
+[15:18:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 56384ms behind, skipping 1127 tick(s)
+[15:18:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5330ms behind, skipping 106 tick(s)
+[15:18:47] [Server thread/INFO]: <Ravara> já volto
+[15:19:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 37721ms behind, skipping 754 tick(s)
+[15:19:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5383ms behind, skipping 107 tick(s)
+[15:20:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 29809ms behind, skipping 596 tick(s)
+[15:20:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4987ms behind, skipping 99 tick(s)
+[15:20:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24773ms behind, skipping 495 tick(s)
+[15:21:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4704ms behind, skipping 94 tick(s)
+[15:21:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25455ms behind, skipping 509 tick(s)
+[15:21:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4556ms behind, skipping 91 tick(s)
+[15:22:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 26329ms behind, skipping 526 tick(s)
+[15:22:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6294ms behind, skipping 125 tick(s)
+[15:24:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 77239ms behind, skipping 1544 tick(s)
+[15:24:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6715ms behind, skipping 134 tick(s)
+[15:24:28] [Server thread/INFO]: <SpykeTiger> mano
+[15:24:34] [Server thread/INFO]: <SpykeTiger> alguem consegue me dar papel?
+[15:24:52] [Server thread/INFO]: <Sazamaki> compra chad com moeda
+[15:24:57] [Server thread/INFO]: <Sazamaki> e expreme com slab
+[15:25:01] [Server thread/INFO]: <Sazamaki> rapidin
+[15:25:13] [Server thread/INFO]: <SpykeTiger> ?
+[15:25:40] [Server thread/INFO]: <Sazamaki> to voltando e faço um punhado
+[15:26:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 82208ms behind, skipping 1644 tick(s)
+[15:26:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5991ms behind, skipping 119 tick(s)
+[15:28:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 69771ms behind, skipping 1395 tick(s)
+[15:28:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7691ms behind, skipping 153 tick(s)
+[15:28:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24180ms behind, skipping 483 tick(s)
+[15:28:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5378ms behind, skipping 107 tick(s)
+[15:29:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 39503ms behind, skipping 790 tick(s)
+[15:29:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5528ms behind, skipping 110 tick(s)
+[15:30:08] [Server thread/INFO]: <Sazamaki> tem alguem mechendo com ic2 crop?
+[15:30:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31188ms behind, skipping 623 tick(s)
+[15:30:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3223ms behind, skipping 64 tick(s)
+[15:31:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13869ms behind, skipping 277 tick(s)
+[15:31:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5150ms behind, skipping 103 tick(s)
+[15:31:35] [Server thread/INFO]: <SpykeTiger> voltei
+[15:31:44] [Server thread/INFO]: <Sazamaki> spyke
+[15:31:47] [Server thread/INFO]: <SpykeTiger> opa
+[15:31:48] [Server thread/INFO]: <Sazamaki> te explica
+[15:31:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13500ms behind, skipping 270 tick(s)
+[15:31:59] [Server thread/INFO]: <Sazamaki> moeda da engrenagem
+[15:32:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4823ms behind, skipping 96 tick(s)
+[15:32:10] [Server thread/INFO]: <Sazamaki> compra chad com elas
+[15:32:28] [Server thread/INFO]: <Sazamaki> so daqui 10min pq eu comprei
+[15:32:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12101ms behind, skipping 242 tick(s)
+[15:32:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4916ms behind, skipping 98 tick(s)
+[15:32:43] [Server thread/INFO]: <Sazamaki> usa os 2 item q faz papel
+[15:32:50] [Server thread/INFO]: <SpykeTiger> aaaa
+[15:32:56] [Server thread/INFO]: <SpykeTiger> achei q tinha dropado errado
+[15:32:56] [Server thread/INFO]: <Sazamaki> ve no nei ai
+[15:33:05] [Server thread/INFO]: <SpykeTiger> pdp
+[15:33:07] [Server thread/INFO]: <SpykeTiger> vlw
+[15:33:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12398ms behind, skipping 247 tick(s)
+[15:33:11] [Server thread/INFO]: <Sazamaki> tmj
+[15:33:14] [Server thread/INFO]: <Sazamaki> tetinha assim
+[15:33:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4835ms behind, skipping 96 tick(s)
+[15:33:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12793ms behind, skipping 255 tick(s)
+[15:33:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5204ms behind, skipping 104 tick(s)
+[15:34:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14548ms behind, skipping 290 tick(s)
+[15:34:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5371ms behind, skipping 107 tick(s)
+[15:35:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15043ms behind, skipping 300 tick(s)
+[15:35:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3292ms behind, skipping 65 tick(s)
+[15:35:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14997ms behind, skipping 299 tick(s)
+[15:35:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5501ms behind, skipping 110 tick(s)
+[15:36:14] [Server thread/INFO]: <Sazamaki> onde fica a BBF de vcs?
+[15:36:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15363ms behind, skipping 307 tick(s)
+[15:36:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3328ms behind, skipping 66 tick(s)
+[15:37:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15825ms behind, skipping 316 tick(s)
+[15:37:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3271ms behind, skipping 65 tick(s)
+[15:37:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14922ms behind, skipping 298 tick(s)
+[15:37:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5520ms behind, skipping 110 tick(s)
+[15:38:05] [Server thread/INFO]: <Ravara> Guto fez uma farm de iron oreberry
+[15:38:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9956ms behind, skipping 199 tick(s)
+[15:38:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9233ms behind, skipping 184 tick(s)
+[15:38:27] [Server thread/INFO]: <Ravara> agnt queria fazer uma de cada oreberry
+[15:38:34] [Server thread/INFO]: <Sazamaki> oreberry é zuado
+[15:38:41] [Server thread/INFO]: <Sazamaki> bom, eu n sou fã
+[15:38:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8982ms behind, skipping 179 tick(s)
+[15:38:51] [Server thread/INFO]: <Ravara> pelo menos é uma fonte de recurso
+[15:39:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8727ms behind, skipping 174 tick(s)
+[15:39:01] [Server thread/INFO]: <Sazamaki> sem duvidas
+[15:39:11] [Server thread/INFO]: <Ravara> se bem que n demora as abelhas vão ajudar com isso
+[15:39:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9678ms behind, skipping 193 tick(s)
+[15:39:22] [Server thread/INFO]: <Sazamaki> tem q providenciar uma fonte estavel de oxigenio
+[15:39:33] [Server thread/INFO]: <Ravara> por hora to focando só nas abelhas essenciais pra fazer o alveary, que é 10x mais rápido pra produzir recurso que o apiary, ai vai ser uma belezinha
+[15:39:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9057ms behind, skipping 181 tick(s)
+[15:39:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9169ms behind, skipping 183 tick(s)
