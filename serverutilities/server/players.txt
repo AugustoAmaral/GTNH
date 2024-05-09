@@ -24,3 +24,7 @@ parent: cm
 // Hyulles
 [6c0083a1f57746c185cdd7b4975932c9]
 parent: vip, cm
+
+// Sazamaki
+[d539d89856484a3cb9d9e0b63400f72a]
+parent: cm
