@@ -56,3 +56,30 @@
 [07:25:24] [Server thread/INFO]: Augustym_ left the game
 [07:25:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4451ms behind, skipping 89 tick(s)
 [07:25:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2674ms behind, skipping 53 tick(s)
+[11:35:04] [User Authenticator #2/INFO]: UUID of player Sazamaki is d539d898-5648-4a3c-b9d9-e0b63400f72a
+[11:35:05] [Server thread/INFO]: Sazamaki[/187.183.40.246:1107] logged in with entity id 33305 at (-1885.1808132246063, 72.0, -6021.106991005503)
+[11:35:05] [Server thread/INFO]: Sazamaki joined the game
+[11:35:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2281ms behind, skipping 45 tick(s)
+[11:35:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10244ms behind, skipping 204 tick(s)
+[11:35:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6179ms behind, skipping 123 tick(s)
+[11:36:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8388ms behind, skipping 167 tick(s)
+[11:36:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5646ms behind, skipping 112 tick(s)
+[11:36:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7847ms behind, skipping 156 tick(s)
+[11:37:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8610ms behind, skipping 172 tick(s)
+[11:37:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5699ms behind, skipping 113 tick(s)
+[11:37:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7886ms behind, skipping 157 tick(s)
+[11:37:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7440ms behind, skipping 148 tick(s)
+[11:38:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7189ms behind, skipping 143 tick(s)
+[11:38:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2701ms behind, skipping 54 tick(s)
+[11:38:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2913ms behind, skipping 58 tick(s)
+[11:38:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3376ms behind, skipping 67 tick(s)
+[11:39:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2411ms behind, skipping 48 tick(s)
+[11:39:25] [Server thread/INFO]: Sazamaki was slain by Sniper Skeleton
+[11:39:40] [Server thread/INFO]: Sazamaki lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:39:40] [Server thread/INFO]: Sazamaki left the game
+[11:52:44] [User Authenticator #3/INFO]: UUID of player Sazamaki is d539d898-5648-4a3c-b9d9-e0b63400f72a
+[11:52:45] [Server thread/INFO]: Sazamaki[/187.183.40.246:11832] logged in with entity id 42744 at (58.5, 92.0, 5.5)
+[11:52:45] [Server thread/INFO]: Sazamaki joined the game
+[11:54:40] [Server thread/INFO]: <Sazamaki> socorrooooooooooooo
+[11:54:42] [Server thread/INFO]: <Sazamaki> aaaaaaaaaaaaaaaaaa
+[12:07:36] [Server thread/WARN]: Fetching addPacket for removed entity
