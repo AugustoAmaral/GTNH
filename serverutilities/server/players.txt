@@ -28,3 +28,7 @@ parent: vip, cm
 // Sazamaki
 [d539d89856484a3cb9d9e0b63400f72a]
 parent: cm
+
+// SpykeTiger
+[659130171b1048ecb71108e1be1d6730]
+parent: cm
