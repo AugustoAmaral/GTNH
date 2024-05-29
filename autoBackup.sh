@@ -1,1 +1,1 @@
-python3 autobackup.py
+node backupAuto.js
