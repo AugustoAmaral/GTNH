@@ -7,6 +7,21 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+async function runCommandWithRetry(command, retries = 250) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      await execPromise(command);
+      return;
+    } catch (error) {
+      console.error(`Attempt ${i + 1}: Failed to execute command`, error);
+      console.info("Retrying a second...");
+      await sleep(1000);
+      if (i === retries - 1)
+        throw new Error(`Failed after ${retries} attempts`);
+    }
+  }
+}
+
 async function runBackup() {
   const now = new Date();
   const formattedDate = now.toISOString().slice(0, 16).replace("T", "T");
@@ -14,11 +29,11 @@ async function runBackup() {
 
   try {
     fs.appendFileSync("lastUpdate.txt", `Last update ${formattedDate}\n`);
-    await execPromise("git add .");
+    await runCommandWithRetry("git add .");
     await sleep(2 * 60 * 1000);
-    await execPromise(`git commit -m 'Auto backup - ${formattedDate}'`);
+    await runCommandWithRetry(`git commit -m 'Auto backup - ${formattedDate}'`);
     await sleep(60 * 1000);
-    await execPromise("git push");
+    await runCommandWithRetry("git push");
   } catch (error) {
     console.error("Error during backup:", error);
   }
