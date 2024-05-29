@@ -11,6 +11,7 @@ async function runCommandWithRetry(command, retries = 250) {
   for (let i = 0; i < retries; i++) {
     try {
       await execPromise(command);
+      console.info(`Command ${command} executed successfully`);
       return;
     } catch (error) {
       console.error(`Attempt ${i + 1}: Failed to execute command`, error);

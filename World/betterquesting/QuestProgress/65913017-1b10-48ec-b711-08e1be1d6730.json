@@ -8936,11 +8936,13 @@
 					"taskID:8": "bq_standard:optional_retrieval"
 				},
 				"3:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "65913017-1b10-48ec-b711-08e1be1d6730"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0
+								32
 							],
 							"uuid:8": "65913017-1b10-48ec-b711-08e1be1d6730"
 						}
@@ -17430,11 +17432,13 @@
 					"taskID:8": "bq_standard:retrieval"
 				},
 				"1:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "65913017-1b10-48ec-b711-08e1be1d6730"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0
+								20
 							],
 							"uuid:8": "65913017-1b10-48ec-b711-08e1be1d6730"
 						}
@@ -17757,7 +17761,7 @@
 							"data:11": [
 								2,
 								6,
-								0,
+								2,
 								1,
 								0,
 								3,
