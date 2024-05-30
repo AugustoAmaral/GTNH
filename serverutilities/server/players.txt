@@ -1,5 +1,9 @@
 // For more info visit https://github.com/GTNewHorizons/ServerUtilities
 
+// Hyulles
+[6c0083a1f57746c185cdd7b4975932c9]
+parent: cm
+
 // FakeForgePlayer
 [069be1413c1b45c3b3b160d3f9fcd236]
 parent: vip
@@ -27,8 +31,4 @@ parent: cm
 
 // SpykeTiger
 [659130171b1048ecb71108e1be1d6730]
-parent: cm
-
-// Hyulles
-[6c0083a1f57746c185cdd7b4975932c9]
 parent: cm

@@ -41,8 +41,3 @@ serverutilities.homes.max: 100
 serverutilities.homes.warmup: 0s
 serverutilities.homes.cooldown: 0s
 serverutilities.homes.cross_dim: true
-
-// Hyulles
-[6c0083a1f57746c185cdd7b4975932c9]
-priority: 5
-parent: vip, cm
