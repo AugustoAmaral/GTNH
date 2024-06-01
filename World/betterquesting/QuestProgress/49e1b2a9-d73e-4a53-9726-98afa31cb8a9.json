@@ -46430,9 +46430,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "49e1b2a9-d73e-4a53-9726-98afa31cb8a9",
-					"timestamp:4": 1715728558026
+					"timestamp:4": 1717232419180
 				}
 			},
 			"questIDLow:4": 2138,
