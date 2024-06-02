@@ -1525,6 +1525,8 @@ languagefile {
     S:Material.samaricrareearthconcentrate=Samaric Rare Earth Concentrate
     S:Material.samaricresidue=Samaric Residue
     S:Material.samarium=Samarium
+    S:"Material.samarium(iii)-chloride"=Samarium(III)-Chloride
+    S:"Material.samarium(iii)oxalate"=Samarium(III) Oxalate
     S:Material.samarium-terbiummixture=Samarium-Terbium Mixture
     S:Material.samariumchloride-sodiumchlorideblend=Samarium Chloride-Sodium Chloride Blend
     S:Material.samariumchlorideconcentrate=Samarium Chloride Concentrate
@@ -2305,7 +2307,7 @@ languagefile {
     S:bw.werkstoff.11461.name=Muddy Samarium Rare Earth Solution
     S:bw.werkstoff.11462.name=Samarium Rare Earth Mud
     S:bw.werkstoff.11463.name=Diluted Samarium Rare Earth Solution
-    S:bw.werkstoff.11465.name=Impure Samarium Chloride
+    S:bw.werkstoff.11465.name=Samarium(III)-Chloride
     S:bw.werkstoff.11466.name=Samarium Chloride-Sodium Chloride Blend
     S:bw.werkstoff.11468.name=Samarium Oxide
     S:bw.werkstoff.11469.name=Chlorinated Rare Earth Concentrate
@@ -3195,6 +3197,7 @@ languagefile {
     S:fluid.molten.ruridit=Molten Ruridit
     S:fluid.molten.ruthenium=Molten Ruthenium
     S:fluid.molten.samarium=Molten Samarium
+    S:"fluid.molten.samarium(iii)-chloride"=Molten Samarium(III)-Chloride
     S:fluid.molten.samariummagnetic=Molten Magnetic Samarium
     S:fluid.molten.sanguinite=Molten Sanguinite
     S:fluid.molten.scandium=Molten Scandium
@@ -3387,6 +3390,7 @@ languagefile {
     S:fluid.plasma.aluminium=Aluminium Plasma
     S:fluid.plasma.americium=Americium Plasma
     S:fluid.plasma.antimony=Antimony Plasma
+    S:fluid.plasma.ardite=Ardite Plasma
     S:fluid.plasma.argon=Argon Plasma
     S:fluid.plasma.arsenic=Arsenic Plasma
     S:fluid.plasma.astraltitanium=Astral Titanium Plasma
@@ -3407,9 +3411,12 @@ languagefile {
     S:fluid.plasma.chrome=Chrome Plasma
     S:fluid.plasma.cobalt=Cobalt Plasma
     S:fluid.plasma.copper=Copper Plasma
+    S:fluid.plasma.cosmicneutronium=Cosmic Neutronium Plasma
     S:fluid.plasma.curium=Curium Plasma
     S:fluid.plasma.desh=Desh Plasma
     S:fluid.plasma.deuterium=Deuterium Plasma
+    S:fluid.plasma.draconium=Draconium Plasma
+    S:fluid.plasma.draconiumawakened=Awakened Draconium Plasma
     S:fluid.plasma.dragonblood=Dragonblood Plasma
     S:fluid.plasma.dysprosium=Dysprosium Plasma
     S:fluid.plasma.empty=Empty Plasma
@@ -3429,6 +3436,7 @@ languagefile {
     S:fluid.plasma.holmium=Holmium Plasma
     S:fluid.plasma.hydrogen=Hydrogen Plasma
     S:fluid.plasma.hypogen=Hypogen Plasma
+    S:fluid.plasma.ichorium=Ichorium Plasma
     S:fluid.plasma.indium=Indium Plasma
     S:fluid.plasma.iodine=Iodine Plasma
     S:fluid.plasma.iridium=Iridium Plasma
@@ -38895,8 +38903,16 @@ languagefile {
     S:gt.metaitem.01.3129.tooltip=Nt
     S:gt.metaitem.01.313.name=Tiny Pile of %material Dust
     S:gt.metaitem.01.313.tooltip=MgAl₂
+    S:gt.metaitem.01.31324.name=%material Plasma Cell
+    S:gt.metaitem.01.31324.tooltip=Nq
+    S:gt.metaitem.01.31329.name=%material Plasma Cell
+    S:gt.metaitem.01.31329.tooltip=Tn
+    S:gt.metaitem.01.31340.name=%material Plasma Cell
+    S:gt.metaitem.01.31340.tooltip=SpFe
     S:gt.metaitem.01.31382.name=%material Plasma Cell
     S:gt.metaitem.01.31382.tooltip=Ai
+    S:gt.metaitem.01.31393.name=%material Plasma Cell
+    S:gt.metaitem.01.31393.tooltip=Oh
     S:gt.metaitem.01.314.name=Tiny Pile of %material Dust
     S:gt.metaitem.01.314.tooltip=Sn₉Sb
     S:gt.metaitem.01.31493.name=%material Plasma Cell
@@ -38923,6 +38939,8 @@ languagefile {
     S:gt.metaitem.01.318.tooltip=Su
     S:gt.metaitem.01.31856.name=%material Plasma Cell
     S:gt.metaitem.01.31856.tooltip=Si*
+    S:gt.metaitem.01.31884.name=%material Plasma Cell
+    S:gt.metaitem.01.31884.tooltip=De
     S:gt.metaitem.01.319.name=Tiny Pile of %material Dust
     S:gt.metaitem.01.319.tooltip=Ad
     S:gt.metaitem.01.31975.name=%material Plasma Cell
