@@ -11,11 +11,13 @@ async function runCommandWithRetry(command, retries = 250) {
   for (let i = 0; i < retries; i++) {
     try {
       await execPromise(command);
-      console.info(`Command ${command} executed successfully`);
+      console.info(
+        `Command ${command} executed successfully at attempt number ${i + 1}`
+      );
       return;
     } catch (error) {
-      console.error(`Attempt ${i + 1}: Failed to execute command`, error);
-      console.info("Retrying a second...");
+      console.info(`Attempt ${i + 1}: Failed to execute command`, error);
+      console.info("Retrying in a second...");
       await sleep(1000);
       if (i === retries - 1)
         throw new Error(`Failed after ${retries} attempts`);
@@ -26,7 +28,7 @@ async function runCommandWithRetry(command, retries = 250) {
 async function runBackup() {
   const now = new Date();
   const formattedDate = now.toISOString().slice(0, 16).replace("T", "T");
-  console.log(`Actual datetime is ${formattedDate}`);
+  console.info(`Actual datetime is ${formattedDate}`);
 
   try {
     fs.appendFileSync("lastUpdate.txt", `Last update ${formattedDate}\n`);
@@ -36,7 +38,7 @@ async function runBackup() {
     await sleep(60 * 1000);
     await runCommandWithRetry("git push");
   } catch (error) {
-    console.error("Error during backup:", error);
+    console.info("Error during backup:", error);
   }
 }
 
